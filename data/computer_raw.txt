@@ -1,0 +1,2647 @@
+
+================================================================================
+PAGE 1
+================================================================================
+ 
+153 
+ EXERCISE-1  
+1. Computer is an electronic device, which process 
+a) Information b) Data 
+c) Knowledge d) All of the above 
+2. Physical components of a computer are called________. 
+a) Playwear b) Shareware 
+c) Software d) Hardware 
+3. Analogue computers measure ____ 
+a) Heat b) Pressure 
+c) Humidity d) All of the above 
+4. CPU consists of the ALU unit and ______ unit. 
+a) Protocol b) Patrol 
+c) Control d) Scroll 
+5. A set of instructions which computer executes is called_____ 
+a) Hardware b) Playwear 
+c) Software d) Firmware 
+6. Computer is a machine with huge speed and ______ 
+a) Intelligence b) Knowledge 
+c) Accuracy d) Common sense 
+7. Primary memory is used by _______ 
+a) User b) Input device 
+c) Output device d) CPU 
+8. Computer can store the data permanently on ________ 
+a) Primary memory b) Secondary memory 
+c) Internal memory d) Virtual memory 
+9. Computer communicate with the user with the help of ____ 
+a) Mouse b) Keyboard 
+c) Both a & b d) None of the above 
+10. The Third generation computers witnessed the use of _____ 
+a) Vacuum tubes b) Integrated Circuit 
+c) Resistors d) Capacitors 
+11. An information system provides an interface between_____ 
+a) User and machine b) User monitor 
+c) User and mouse d) User and output device 
+ 
+ 
+12. The microprocessor chip arrived in the _________ generation. 
+a) First b) Second 
+c) Third d) Fourth 
+ 
+
+================================================================================
+PAGE 2
+================================================================================
+ 
+154 
+ 13. The first personal computer was built by ______ 
+a) Microsoft b) Apple computers 
+c) IBM d) None of the above 
+ 
+14. The fifth generation computers refers to the use of_______ 
+a) Artificial Intelligence b) Simulation 
+c) Automation d) Exploration 
+ 
+15. The two broad categories of computers are_____ 
+a) Digital & analog b) Hybrid and analog 
+c) Digital & personal d) Analog & personal 
+ 
+16. FTP stands for 
+a) File transfer protocol b) File terminating protocol 
+c) Folder transfer protocol d) None of the above 
+ 
+17. The digits used in binary number system are______ 
+a) 1,0 b) a 
+c) b d) 20 
+ 
+18. One kilobyte is equal to________ 
+a) 1024 bytes b) 1024 Kilobytes 
+c) 1024 GB d) 1024 MB 
+ 
+19. RAM stands for______ 
+a) Readable access memory b) Random access memory 
+c) Read access memory d) None of the above 
+ 
+20. RDBMS stands for___________ 
+a) Relational database 
+management system b) Readable database management 
+system 
+c) Both a & b d) None of the above 
+ 
+21. CD-ROM Stands for________ 
+a) Coded disk read only 
+memory b) Coded data read only memory 
+c) Compact disk read only 
+memory d) None of the above 
+ 
+ 
+22. The network system that connects computers over a wide area is known as 
+a) Local area network b) Office area network 
+c) PC network d) Wide area network 
+ 
+23. What is the name of the programme in windows used for management of data 
+in a spread sheet format? 
+a) MS-Excel b) Utility 
+c) MS-Word d) MS-Office 
+ 
+24. Which of the following is the input as well as output device? 
+
+================================================================================
+PAGE 3
+================================================================================
+ 
+155 
+ a) Printer b) Keyboard 
+c) Floppy d) Scanner 
+ 
+25. UPS stands for ________ 
+a) Uninterrupted power supply b) Uuencoded power supply 
+c) Uuencoded pointing source d) None of the above 
+ 
+26. Which of the following is not operating system? 
+a) Windows b) Unix 
+c) Linux d) None of the above 
+ 
+27. When you have opened an existing file where do you find the file name? 
+a) On the task bar b) On the scroll bar 
+c) On the Title bar d) On the menu bar 
+ 
+28. Where do you find a close button on the window? 
+a) On the Right side top corner b) On the left side top corner 
+c) On the left side of the title 
+bar d) None of the above 
+ 
+29. A collection of files kept together is called a ________. 
+a) Character b) Record 
+c) Folder d) None of the above 
+ 
+30. What is the shortcut key for paste option? 
+a) Ctrl + C b) Ctrl + S 
+c) Ctrl + X d) Ctrl + V 
+ 
+31. What is the shortcut key to undo option? 
+a) Ctrl + Z b) Ctrl + A 
+c) Ctrl + C d) Ctrl + Y 
+ 
+32. If you delete a file where the file does go? 
+a) My documents b) Recycle bin 
+c) My computer d) None of the above 
+ 
+33. A ______ is a device to connect a computer to a telephone connection 
+a) Key board b) Mouse 
+c) Scanner d) Modem 
+ 
+ 
+34. The bar that contain start button and appear by default at the bottom of desktop 
+is called_____ 
+a) Task bar b) Status bar 
+c) Menu bar d) Tool bar 
+ 
+35. If you want to shutdown your computer which button you will operate? 
+a) Close button  b) Minimize button  
+c) Start Button d) None of the above 
+ 
+ 
+
+================================================================================
+PAGE 4
+================================================================================
+ 
+156 
+ 36. You can share your password with_________ 
+a) Branch Manager b) Accountant 
+c) System Administrator d) None of the above 
+ 
+37. Password should be changed at a maximum interval of ______ days 
+a) 30 b) 60 
+c) 75 d) 90 
+ 
+38. A password is considered to be safe when it consists of 
+a) All numbers b) All alphabets 
+c) Alphabets, numerals & 
+special character letters d) None of the above 
+ 
+ 
+39. SBI is not available in ________ social media. 
+a) Orkut b) Twitter 
+c) Facebook d) Youtube 
+ 
+40. Name the company which released the M S Word Software 
+a) IBM b) HP 
+c) Microsoft d) Infosys 
+ 
+41. Which menu item is used for viewing the pages before printing 
+a) Print preview b) Print 
+c) Page setup d) None of the above 
+ 
+42. Which menu item is used for opening an existing document 
+a) Open b) New 
+c) Search  d) Close 
+ 
+43. Which key sequence is to be selected for viewing the text in full screen mode? 
+a) file-> full screen b) view->full screen 
+c) edit->full screen d) none of these 
+ 
+44. ____________ is a popular browser to view documents on WWW 
+a) Internet explorer b) Mozilla fire fox 
+c) Netscape Navigator d) None 
+ 
+ 
+45. _____is a desktop icon that opens an explorer window giving you access to 
+network resources 
+a) Network Neighborhood b) Menu 
+c) Path d) None 
+ 
+46. A secret code that restricts access to a file, system or network is called_____. 
+a) User ID b) Firewalls 
+c) Password d) None 
+ 
+47. The cell corresponding to column A and row 20 is _________ 
+a) A20 b) B20 
+c) 20A d) 20B 
+ 
+
+================================================================================
+PAGE 5
+================================================================================
+ 
+157 
+ 48. Adding the contents of two cells A1 and A2 and to get the result at C1, what 
+should be typed in C1? 
+a) Sum(A1,A2)  b) Sum(A1:A2) 
+c) =Sum(A1,A2) d) A1,A2 
+ 
+49. In excel rows and columns determines____________ 
+a) Space b) Cells 
+c) Documents d) None of these 
+50. A picture, map or a graphic element that you can place in a document is called 
+a) Object b) Wallpaper 
+c) Icon 
+ d) None 
+ 
+51. Disaster Recovery plan refers to 
+a) A road accident plan b) 108 emergency 
+c) A plan to be followed in 
+case of system failure in the 
+branch d) An option only the system 
+administrators are aware 
+ 
+52. Menu bar is located ________ the title bar 
+a) Below b) Above 
+c) Besides d) None 
+ 
+53. What is the short cut key to open the start button 
+a) Ctrl + Esc b) Esc 
+c) Alt + Esc d) None 
+ 
+54. By default word automatically aligns paragraph to _________ 
+a) Right  b) Left 
+c) Top d) Bottom 
+ 
+55. What is the command to find a word in the file? 
+a) Replace b) Search 
+c) Find d) None 
+56. SBI is not present in following social media. 
+a) Linked-in b) Pinterest 
+c) Whatsapp d) Youtube 
+ 
+57. Excel gives _______ extensions to all its files 
+a) .txt b) .excel 
+c) .xls d) None 
+ 
+58. Choose _________ from the file menu to quit excel  
+a) Close b) Exit 
+c) Come out d) Pack 
+ 
+59. Where do you find the status bar in window? 
+a) Top b) Middle 
+c) Bottom d) Second from Top 
+ 
+60. The process of moving the contents of certain cells to a different location also 
+known as ______ & ________ 
+a) Cut & Past b) Copy & Paste 
+c) Click & drag d) Delete &Create 
+
+================================================================================
+PAGE 6
+================================================================================
+ 
+158 
+ EXERCISE-2  
+1. Actual machinery of computer is called? 
+ a. Hardware b. software c. firmware d. none of these 
+ 
+2.  Major components of computers are 
+ a. Memory b. Central Processing Unit (CPU) 
+ c. I/O devices d. all of these  
+ 
+3.  A group of eight bits is called? 
+ a. Octave  b. Byte  c. Nibble  d. None of these  
+ 
+4.   An extremely fast computer that can perform hundreds of millions of instructions per 
+second is called? 
+a. Main frame computer  b. Mini computer  
+c. Super computer  d. Personal computer          
+ 
+5.  A small, single user computer based on a micro processor is called? 
+a. Work station  b. Mini computer  
+c.    Super computer  d. Personal computer    
+ 
+6.  Computers working with binary number system? 
+ a. Digital computer b. Analog computers c. None of these 
+ 
+7.  Name the first digital computer? 
+ a. EDVAC b. UNIVAC c. ENIAC d. none of these 
+ 
+8.  The first generation (1945 – 1956 ) computers were built using _______ 
+ a. Vacuum tubes  b. Transistors  
+c. Integrated Circuits (ICs)     d.  None of these 
+ 
+9.  The Second generation (1956 - 1963) computers were built using _______ 
+ a. Vacuum tubes   b. Transistors  
+c. Integrated Circuits (ICs)      d.  None of these 
+ 
+10.  The third generation (1964 - 1971) computers were built using _______ 
+ a. Vacuum tubes   b. Transistors  
+c. Integrated Circuits (ICs)      d.  None of these 
+ 
+11.  Which of the following is a portable computer? 
+a. laptop computer    b. personal computer  
+ c.  super computer   d. All of these    
+ 
+12.  Who is known as father of computers? 
+ a. Howard Aiken b. Charles Babbage  
+c. Blaise pascal  d. Lebenitz 
+ 
+13. Who invented difference engine, which was able to compute mathematical tables? 
+ a. Howard Aiken b. Charles Babbage  
+c. Blaise pascal  d. Lebenitz 
+
+================================================================================
+PAGE 7
+================================================================================
+ 
+159 
+  
+14.  Give the expansion of IBM? 
+ a. Indian Basic Machines  b. International Business Machines 
+ b. Integrated Business Machines d.  India Based Machines 
+ 
+15. Name the type of computer that you can carry  like a suitcase.   
+ a. Laptop  b.  Personal Computer  c. Mini Computer  d. None of these 
+ 
+16.  The smallest unit of information in a computer(Bit)  can be represented by? 
+ a. 0 and 1 b. 1 and 2 c. 2 and 3 d. 3 and 4 
+ 
+17. The base number of the binary system is _________? 
+ a. 2 b. 4 c. 6 d. 8 
+ 
+18.  The base number of the octal system is _________? 
+ a. 2 b. 4 c. 6 d. 8 
+ 
+19.  The base number of the decimal  system is _________? 
+ a. 4 b. 6 c. 8 d. 10 
+ 
+20.  The brain of the computer where the programs are executed. 
+ a. Central Processing Unit (CPU)  b.  Memory unit 
+ c. I/O devices    d. Key board 
+ 
+21.  _________ is not an input device ? 
+ a. key board   b. mouse  c. Printer  d. joy stick 
+ 
+22.  _________ is not an output device ? 
+ a. Printer  b. Monitor  c. Plotter  d .Mouse 
+ 
+23.  The part of the computer where arithmetic and logical calculations are done is called 
+? 
+ a. Arithmetic and logic unit(ALU)   b. CPU 
+ c. RAM      d. ROM 
+ 
+24.  Give the expansion of RAM? 
+ a. Random Access Memory    b. Read Accelerated Memory 
+          c. Random Accelerated Memory   d. Real Access Memory 
+ 
+25.  Give the expansion of ROM? 
+ a. Read Only Memory    b. Real Only Memory 
+ c. Random Only Memory     d. None of these 
+ 
+ 
+26.  The temporary memory used for short-term storage is called? 
+ a. ROM b. RAM c. RIM  d. None of these 
+ 
+27.  The non volatile or the permanent memory in computer is called? 
+ a. ROM b. RAM c. RIM  d. None of these 
+ 
+
+================================================================================
+PAGE 8
+================================================================================
+ 
+160 
+ 28.  The peripheral devices of a computer include? 
+ a. Mass storage devices  b. Input devices 
+ c. Output devices  d. all the above  
+ 
+29.  Floppy Disk, Compact disk , Hard disk and Tape Drives are known as------- . 
+ a. Mass storage devices  b. Input devices 
+ c. Output devices  d. all the above 
+ 
+30.   The primary memory consists of …….. 
+            a. RAM and ROM  b. hard disk c. Floppy Drive    d. None of these 
+ 
+31.  The secondary memory consists of …….. 
+ a. RAM b.ROM    
+c.RIM  d. Mass storage devices like Floppy and hard disk  
+ 
+32.  The software which performs basic task such as recoganising input from key board,  
+sending output to screen, keeping track of files and directories, controlling peripheral 
+devices is called ? 
+ a. Application software    b. operating system  
+c. File system      d. I/O system 
+ 
+33. The most popular operating system  is _____. 
+ a. WINDOWS  b. DOS c. LINUX d. UNIX 
+ 
+34. Windows XP operating system is invented by 
+             a. IBM            b. Sun Microsystem   c. Microsoft  d. Polaris 
+ 
+35. The following is a text based operating system____. 
+ a. DOS  b. WINDOWS98 c. LINUX d WINDOWS XP 
+ 
+36.  The expansion of DOS is 
+          a. Disc Ordering System  b. Disc Operating System 
+ c. Digital Operating System d. None of these 
+ 
+37.  The only language understood by the CPU? 
+ a. Machine language b. Assembly language 
+ c. Human language  d. High-level language 
+ 
+38. BASIC is a _________ language? 
+ a. Machine language b. Assembly language 
+ c. Human language  d. High-level language 
+ 
+39.  The program in high level language is translated to machine language  
+by____ 
+a. Compiler   b. assembler  c. Equalizers d. none of these 
+ 
+40.  Program in Assembly language is translated to machine language by____ 
+a. Compiler   b. assembler  c. Equalizers d. none of these 
+ 
+41.  ORACLE is a ______________ 
+ a. Operating system  b. Assembly language   
+c. DBMS   d. none of these 
+
+================================================================================
+PAGE 9
+================================================================================
+ 
+161 
+  
+42.  What is the expansion of DBMS ? 
+a. Data Base Management System b.Data Base Manipulation System 
+c. Data Base Migration System  d. Digital Base Management System 
+ 
+43.  FOXPRO is a _________ 
+ a. Operating system  b. Assembly language   
+c. DBMS  d. none of these 
+ 
+44.  C, C++, JAVA, COBOL, BASIC etc are known as ? 
+  a. Machine language b. Assembly language 
+ c. Human language  d. High-level language 
+ 
+45.  What is the expansion of LAN ? 
+a. Local Area Network    b.Locally Arranged Network 
+c. Location Adjusted Network  d. None of these 
+ 
+46. What is the expansion of  MAN ? 
+a. Medium Area Network   b. Metropolitan Area Network  
+c. Micro Area Network   d. None of these 
+ 
+47.  Give the expansion of WAN. 
+a. Whole Area Network    b. Wide Access Network 
+c. Wide area Network    d. None of these 
+ 
+48.  What is the expansion of  WWW ? 
+a. World Wide Web    b. World Wide Window 
+c. World Wireless Window   d. None of these  
+ 
+49. Secret sequence of characters that  give approved users  access to computer? 
+a. Key word   b. Pass word  c. Digital word d. None of these 
+ 
+50. A group of interconnected computers is called __________ 
+a. Digital computer     b. Super computer   
+c. Computer Network    d. None of these 
+ 
+51.  The mechanism for saving the computer networks from outside attack is ____ 
+a. World Wide Web    b.  Microsoft Word     c. Microsoft Access   d.Firewalls 
+ 
+52.  A software  which may harm the activities of computers? 
+a. VIRUS  b.Firewalls  c. Fireballs  d.None 
+ 
+53.  Converting information into a secret code using is called? 
+a. Decryption  b. encryption  c. Intrusion   d. none of these 
+ 
+54.  Give an example for optical memory? 
+ a) CD ROM   b) Hard Disk   c) RAM  d) Cache Memory  
+ 
+55.  The mouse having a ball on the bottom is called _____ 
+ a. Optical mouse   b. Mechanical mouse   
+ c. Opto-mechanical mouse  d. none of these 
+ 
+
+================================================================================
+PAGE 10
+================================================================================
+ 
+162 
+ 56.  Magnetic Ink Character Recognition (MICR) system is used in _____ 
+ a. Clearing of cheques  b. dispatch  
+ c. DDP    d. All the above 
+ 
+57. Printers which use the technology of  Photocopiers? 
+ a. Dot matrix printer b. Laser printer   
+c. Line printer   d. Ink Jet Printer 
+ 
+58.  The device connected to a computer that displays information on screen is : 
+ a. Television  b. Plasma TV   c. Digitiser d. Monitor 
+ 
+59.  The capacity of floppy disk is___________ 
+ a. 1.44 Mega Bytes  b. 1.44 Giga Bytes  
+ c.  1.00 Giga bytes  d. 1.00 Mega Bytes 
+ 
+60.  1 kilo byte (KB) is equal to ________bytes 
+ a. 1024  b. 1000 c.500 d. None these  
+
+================================================================================
+PAGE 11
+================================================================================
+ 
+163 
+ EXERCISE-3  
+1.  Similar data in a computer is grouped into ______ 
+ a. Files  b. Folders  c. directories  d. Disk 
+ 
+2.  Related files are stored in a  _________ 
+ a.  Files   b. Folders or directories   
+ c. Disk  d.. None of these 
+ 
+3. The company which made cheap, reliable and the most popular Windows    platform 
+is  
+a. IBM       b. Macintosh   c. Microsoft  d. Infosys 
+ 
+4. On-screen work area on which windows, icons, menus and dialogue boxes appear is 
+known as 
+ a. desk top b. mouse c. key board  d. none of these 
+ 
+5.  ______ are pictorial representation of windows applications installed on the 
+computer so that you can identify them quickly. 
+ a. desk top b. icons c. menu bar  d. none of these  
+ 
+6. The bar that contains the start button and appears by default at the bottom  
+      of the desktop is  
+ a. Notification area b. tool bar c. task bar  d. none of these 
+ 
+7. The button used to temporarily hide the current window to task bar is___ 
+ a. Minimize  b. Maximize c. Restore  d. none of these 
+ 
+8. A special folder in windows, where you can place all your documents  
+so as to access quickly. 
+ a. My Documents  b. My computer  
+      c. My network places   d. Recycle bin 
+ 
+9. The window that shows all the folders present on the computers. 
+ a. My Documents  b. My computer  
+      c. My network places   d. Recycle bin 
+ 
+10. The window which shows all the network contents present on a network is  
+ a. My Documents  b. My computer  
+      c. My network places   d. Recycle bin 
+ 
+11. When you delete any file from the computer it comes to _________ 
+ a. My Documents  b. My computer  
+      c. My network places   d. Recycle bin 
+12. The short cut key for ‘copy’ is __________ 
+ a. ctrl+C b. ctrl+X c. ctrl+V d. ctrl+Z 
+ 
+13. The short cut key for ‘cut’ is __________  
+ a. ctrl+C b. ctrl+X c. ctrl+V d. ctrl+Z 
+ 
+14. The short cut key for ‘paste’ is __________ 
+ a. ctrl+C b. ctrl+X c. ctrl+V d. ctrl+Z 
+
+================================================================================
+PAGE 12
+================================================================================
+ 
+164 
+  
+15. The short cut key for ‘undo’ is __________ 
+ a. ctrl+C b. ctrl+X c. ctrl+V d. ctrl+Z 
+ 
+16. The short cut key for ‘select all’ is __________ 
+ a. ctrl+C b. ctrl+X c. ctrl+V d. ctrl+A 
+ 
+17. The key used for deleting a file is  
+ a. Ctrl + del b. Delete  c. ctrl +D d. None 
+ 
+18. A deleted file goes to 
+      a. My Computer b. My Documents c. Desktop d. Recycle bin 
+ 
+19. Give the short cut key for permanently deleting a file from the computer 
+a. Delete           b. Ctrl + Alt + Delete   c. Shift +delete d. None 
+ 
+20. Which key is used for cancelling the current task 
+        a. Esc       b. Delete      c. Shift Esc    d. Shift +delete 
+ 
+21. In case the system hangs suddenly which key/key combination can be used  
+ For coming out of the situation 
+  a. Ctrl+Del   b. Ctrl+Alt+Del   c. Esc     d. ctrl.+Alt +Esc 
+ 
+22.      Which of the following key combination can be used for displaying the  
+           START Menu  
+             a. Shift +Esc   b.    Ctrl + Esc   c.Ctrl + Alt + Del    d. None of these 
+ 
+23. For browsing Internet as well as Intranet pages, which application is used 
+          a. Microsoft Word  b. Microsoft Excel  c. Power Point    d. Internet Explorer 
+ 
+24. What is the web site of State Bank of India 
+              a. https://bank.sbi   b. www.sbi.org   c. www.sbi.com  d. www.sbi.in  
+ 
+25. The Central Data Centre (CDC), which acts as the centralized centre for all of our  
+operations is situated at 
+a. Kanpur   b. Belapur(Mumbai)  c. Chennai   d. New Delhi 
+ 
+26. The Disaster Recovery Centre(DRC), which acts as an alternate in case of  
+any problem at CDC is located at 
+a. Mumbai     b. Kolkatta    c. Chennai  d. Hyderabad 
+ 
+27.In the internet explorer the button which brings us back to the previous page is 
+              a. Forward    b. Back    c. Stop    d. Refresh 
+ 
+28. In Internet Explorer, the button which takes us to the next document is 
+              a. Forward    b. Back    c. Stop    d. Refresh 
+ 
+29.  The button which stops any current operation in the Internet Explorer is  
+              a. Forward    b. Back   c. Stop    d. Refresh 
+ 
+30.  In Internet Explorer, which key reloads the current document again? 
+              a. Forward    b. Back    c. Stop    d. Refresh 
+
+================================================================================
+PAGE 13
+================================================================================
+ 
+165 
+  
+31. The default start up page we have selected is called 
+          a. opening page    b. Start Page  c. Home page  d. First Page 
+ 
+32. The button which takes us to the Home Page is called 
+              a. Home b. Forward   c. Search   d. Favourites 
+ 
+33. Name the company which released the M S Word Software 
+a. IBM       b. Macintosh     c. Microsoft     d. Infosys 
+ 
+34. MS Word is a part of which software package? 
+            a. Finacle    b. M S Access   c. M S Excel    d. M S Office 
+ 
+35. MS Word is a ______________ package 
+            a. Word processing    b. Accounting    c. Database  d. None 
+ 
+36. Menu Bar consists of how many menus? 
+ a.10  b.5  c.8  d.9 
+ 
+37. Storing a file to the disk is called 
+            a. Save    b. Print   c. Edit   d. View 
+ 
+38. The bar which is used for moving the client area in the screen is called 
+            a. Ruler    b. Scroll bar  c. web tool bar   d. none 
+ 
+39. The option in the File Menu used for printing a page is 
+            a. Page setup    b. Print preview  c. Print  d. None 
+ 
+40.General parameters of page to be printed can be manipulated and modified 
+by 
+            a. Page setup    b. Print preview   c. Print  d. None 
+ 
+41. Which menu item is used for viewing the pages before printing 
+            a. Page setup    b. Print preview   c. Print  d. None 
+ 
+42. Which menu item is used for opening a new document  
+ a. open  b. new   c. search  d. close 
+ 
+43. Which menu item is used for opening an existing document ? 
+ a. open  b. new   c. search  d. close 
+ 
+44. Which menu item is used for closing an opened document ? 
+ a. open  b. new   c. search  d. close 
+ 
+45. Which menu item is used for saving the current document ? 
+ a. save  b. search  c. versions  d. new 
+ 
+46. The menu item used for saving the document to some other format or file is: 
+ a. save  b. save as c. versions  d. new 
+ 
+47. The menu item used for undoing the previous action performed in the Text is: 
+ a. undo  b. redo  c. Cut  d. Copy 
+
+================================================================================
+PAGE 14
+================================================================================
+ 
+166 
+  
+48. Which menu item is used for performing the last action again ? 
+ a. undo  b. redo  c. Cut  d. Copy 
+ 
+49. The menu item used for cutting the text/image and place it in the clip board : 
+ a. undo  b. redo  c. Cut  d. Copy 
+ 
+50. Give the command which copies the text or image to clip board? 
+ a. undo  b. redo  c. Cut  d. Copy 
+ 
+51. Give the command which places the text or image from the clip board to the current 
+cursor position? 
+a. undo  b. paste c. Cut  d. Copy 
+ 
+52. Which command searches the complete document for a specified text? 
+a. find  b. paste c. replace  d. Copy 
+ 
+53. Which command searches and replaces  a specified text? 
+ a. find  b. paste c. replace  d. Copy 
+ 
+54. which command in the table menu is used for inserting new rows and columns in the 
+table? 
+ a. insert b. delete c. Convert d. sort 
+ 
+55. Which command in the table menu deletes the rows and columns ? 
+ a. insert b. delete c. Convert d. sort 
+ 
+56. _____ is a special tool for converting the plain text in to table and table in to  
+            plain text? 
+ a. insert b. delete c. Convert d. Sort 
+ 
+57. Which command in the format menu is used for changing the style and size of 
+letters? 
+ a. view  b. convert c. insert  d. font  
+ 
+58. Short cut key for converting selected text in to bold? 
+ a. ctrl+C b. ctrl+B c. ctrl+V d. ctrl+Z 
+ 
+59. Short cut key for converting selected text in to italics? 
+ a. ctrl+I b. ctrl+B c. ctrl+V d. ctrl+Z 
+ 
+60. Short cut key for underlining the selected text item? 
+ a. ctrl+C b. ctrl+B c. ctrl+U d. ctrl+Z 
+ 
+61. Short cut key used for converting the selected text in to right align? 
+a. ctrl+R  b. ctrl+L c. ctrl+U d. ctrl+J 
+ 
+62. Short cut key used for converting the selected text in to left align? 
+a. ctrl+R  b. ctrl+L c. ctrl+U d. ctrl+J 
+ 
+63. Short cut key used to justify the selected text? 
+a. ctrl+R  b. ctrl+L c. ctrl+U d. ctrl+J 
+
+================================================================================
+PAGE 15
+================================================================================
+ 
+167 
+  
+64. Give the short cut key to get the help from Windows? 
+ a. F1  b. F2  c. F3  d. F6 
+ 
+65. Which short cut key is used for spelling and grammar check? 
+ a. F1  b. F2  c. F3  d. F7 
+ 
+66. Which short cut key is used for  searching for a word? 
+ a. ctrl+C b. ctrl+F c. ctrl+U d. ctrl+Z 
+ 
+67. Which short cut key is used for saving a file? 
+ a. ctrl+C b. ctrl+F c. ctrl+S d. ctrl+Z 
+ 
+68. Which short cut key is used for opening a new document?  
+ a. ctrl+N  b. ctrl+F c. ctrl+S d. ctrl+Z 
+ 
+69. Which short cut key is used for opening an existing file? 
+ a. ctrl+N  b. ctrl+O c. ctrl+S d. ctrl+Z 
+ 
+70. Which short cut key is used for printing a file? 
+ a. ctrl+N b. ctrl+O c. ctrl+P d. ctrl+Z 
+ 
+71. Which key sequence is to be selected for viewing the text in full screen mode? 
+ a. file-> full screen   b. view->full screen  
+c. edit->full screen   d. none of these 
+ 
+72. Which short cut key is used for replacing part of document? 
+ a. ctrl+R b. ctrl+O c. ctrl+P d. ctrl+Z 
+ 
+73. The extension for an excel file is_________ 
+a. doc  b. dot  c. xls  d. ppt 
+ 
+74. The excel book is divided in to _________ 
+ a. document b. slides c.  work sheets  d. none of these 
+ 
+75. Microsoft Excel is a  ________ program 
+ a. spread sheet  b. accounting  
+c. word processing d. presentation 
+76. Each work sheet in excel consists of __________ 
+ a. slides b. documents  c. rows and columns d. none of these 
+ 
+ 77. In excel rows and columns determines____________ 
+ a. space  b. documents  c. cells  d. none of these 
+ 
+78. Number of rows in excel is __________ 
+ a. 256  b. 65536 c. 100  d. 528 
+ 
+79. Number of columns in excel is ______________ 
+ a. 256  b. 65536 c. 100  d. 528 
+ 
+80. The cell corresponding to column A and row 20 is _________ 
+a. A20  b. 20A  c. AB  d. B19 
+
+================================================================================
+PAGE 16
+================================================================================
+ 
+168 
+  
+81. Which key moves the cursor up one page? 
+ a. page up b. page down   c. end   d. home 
+ 
+82. Which key moves the cursor down one page? 
+ a. page up b. page down   c. end   d. home 
+ 
+83. The key which can be used for coming back to first cell,A1_____ 
+ a. page up b. page down   c. ctrl + end   d. ctrl + home 
+ 
+84. For adding the contents of two cells A1 and A2 and to get the result at C1,  
+            what should be typed in C1? 
+ a. A1+A2 b. =A1+A2  c. @A1+A2 d. A1:A2 
+ 
+85. For adding the contents of two cells A1 and A2 and to get the result at C1,  
+            what should be typed in C1? 
+ a. sum(A1,A2)  b. sum(A1:A2) c. =sum(A1,A2) d. A1,A2 
+ 
+86.For adding the contents of five continuous cells B1 to B5 and to get the results 
+ At C1, what should be typed in C1? 
+ a. =sum(B1,B5)  b. =sum(B1+B5)   c. =sum(B1:B2)  d. None 
+ 
+87. The list of functions is available in which menu 
+            a. File    b. Edit  c. View d. Insert 
+ 
+ 
+88. Which function is used for finding the average of 5 numbers 
+            a. sum              b. average        c. clean   d. None 
+ 
+89. Name the function which returns the largest value from a set of values 
+            a. average   b. sum   c. product d. Max 
+ 
+90.  When a new Excel file is opened how many sheets does it contain by default? 
+ a. 4  b.3  c.2  d.1 
+     
+ 
+ 
+ 
+ 
+
+================================================================================
+PAGE 17
+================================================================================
+ 
+169 
+ EXERCISE – 4  
+ 
+1. Logarithm tables were developed by 
+1) Blaise Pascal 2) John Napier 
+3) William 4) Charles Babbage 
+     
+2. Who of the following is regarded as ‘ Father of Modern Computer’ ? 
+1) Blaise Pascal 2) John Napier 
+3) William 4) Charles Babbage 
+     
+3. Punched Card was invented in 1801 by 
+1) Blaise Pascal 2) Herman Hollerith 
+3) Howard Alken 4) Joseph Jaquard 
+     
+4. The first business-oriented computer developed in 1952 and used by US 
+Bureau of Census was 
+1) UNIVAC-1 2) ENIAC 
+3) Colossus 4) ENIGMA 
+     
+5. Vacuum tube is a _____ 
+1) A glass tube that creates 
+vacuum while transmitting 
+signals 2) A fragile glass device that can 
+control and amplify electronic 
+signals 
+3) A synthetic tube used to create 
+vacuum while working on 
+computers 4) A protective tube used for safe-
+keeping computers while not in use 
+in earlier days 
+     
+6. Second generation computers used ______ technology. 
+1) Vacuum tubes 2) LSIC 
+3) Transistors 4) VLSIC 
+     
+7. Speed of computers in third generation was measured in 
+1) Milli-seconds 2) Nano-seconds 
+3) Micro-seconds 4) Seconds 
+ 
+8. Hybrid computers are used in which of the following works? 
+1) Launching a rocket 2) Preparation of salaries 
+3) Banking operations 4) Insurance operations 
+     
+9. The numbering system used by today’s computers is called _____. 
+1) Serial system 2) Binary system 
+3) Random system  4) Decimal System 
+     
+10. The base of numbering system is called _____. 
+1) Superscript 2) Base 
+3) Subscript 4) Radix  
+     
+11. National Pension System is processed through _________. 
+1) ePACT 2) LOS 
+3) LLMS 4) OCAS 
+     
+
+================================================================================
+PAGE 18
+================================================================================
+ 
+170 
+ 12. Green wavy lines in document indicates _____. 
+1) Alignment mistakes 2) Grammatical mistakes 
+3) Spelling mistakes 4) Font error 
+     
+13. What is red wavy lines in a document indicate? 
+1) Font error 2) Grammatical mistakes 
+3) Spelling mistakes 4) Alignment mistakes 
+     
+14. Powerpoint presentation in IBM Lotus Symphony has extension as ____. 
+1) Odp 2) Doc 
+3) Pdf 4) Odt 
+     
+15. Prepaid card services can be accessed through ________. 
+1) LOS password 2) HRMS credentials 
+3) Single Sign-on in CBS 4) Ems credentials 
+     
+16. A binary digit (0 or 1) that a computer understands is called _____. 
+1) Kilo Byte 2) Bit 
+3) Mega Byte 4) Byte 
+     
+17. The standard by which all characters are represented by a combination of 
+binary digits all over the world is called _____. 
+1) ASCII 2) ACSII 
+3) AMFI 4) AISCI 
+     
+18. BCD stands for _____. 
+1) Binary Coded Decimal 2) Binary Combined Decimal 
+3) Binary Coded Division 4) Binary Coded Distribution 
+ 
+19. 1 Gigabyte is equal to _____ Mega Bytes. 
+1) 1000 2) 1028 
+3) 1024 4) 1073741824 
+20. The physical components of a computer are called _____. 
+1) Software 2) Hardcore 
+3) Devices 4) Hardware 
+     
+21. The user can provide data to the computer with the help of _____. 
+1) Processors 2) Input Devices 
+3) Storage devices 4) Output Devices 
+     
+22. Printer is  ______ device.  
+1) Output 2) Input 
+3) Storage 4) Processing 
+     
+23. CPU, also known as the heart of the computer, stands for _____. 
+1) Central Processing Unit 2) Control Processing Unit 
+3) Central Programming Unit 4) Control Programming Unit 
+     
+24. Which of the following secondary storage devices can store more volume of 
+data? 
+1) Floppy 2) CD 
+3) BD ROM 4) DVD 
+
+================================================================================
+PAGE 19
+================================================================================
+ 
+171 
+      
+25. Set of programme(s) developed to control the operation of computer system is 
+known as _____ 
+1) Operational programmes 2) System software 
+3) Application Software 4) Control system software 
+     
+26. Which of the following is NOT an ‘Operating System’? 
+1) Windows 2) MS-DOS 
+3) MS-Office 4) Unix 
+     
+27. The command used to place a file in one directory into another directory is : 
+1) Copy 2) Move 
+3) Ren 4) Find 
+     
+28. The character that can represent one or more characters in a file name is 
+known as ____. 
+1) Representing character 2) Asterisk 
+3) Question Mark 4) Wild character 
+     
+29. The small pictures seen on the ‘desktop’ of a computer are known as ___ 
+1) Icons 2) Ions 
+3) Pictures 4) Graphics  
+     
+30. _____company has developed the popular ‘Windows’ operating system? 
+1) Microsoft  2) Sun Micro Systems 
+3) Infosys 4) Oracle Corporation 
+ 
+31. The process of loading the operating system and other programmes when the 
+computer is switched on is known as _____. 
+1) Loading 2) Booting 
+3) Opening 4) Shooting 
+ 
+32. The ‘unit’ of stored data or programmes is known as _____. 
+1) Directory 2) Folder 
+3) Disk 4) File 
+     
+33. The ‘minimise, maximize, close’ buttons are seen in _____. 
+1) Task Bar 2) Menu Bar 
+3) Title Bar 4) Tool Bar 
+     
+34. Keyboard  shortcut keys used to select entire data in an open file are ___.  
+1) Ctrl + A 2) Ctrl + C 
+3) Ctrl + X 4) Ctrl + V 
+     
+35. Cut, copy, paste options are available in _____ menu? 
+1) View 2) File 
+3) Edit 4) Format 
+     
+36. The utility used to check hard disk for logical and physical errors is ____ 
+1) Disk Defragmentor 2) Disk clean 
+3) Check disk 4) Scan disk 
+     
+
+================================================================================
+PAGE 20
+================================================================================
+ 
+172 
+ 37. The word processor utility provided by Windows operating system is _____. 
+1) Notepad 2) Wordpad 
+3) MS Word 4) Wordlord 
+     
+38. Which of the following is not a computer language? 
+1) BASIC 2) COBOL 
+3) FORTRAN 4) MS-Word 
+     
+39. The social media available in intranet for SBI employees is ____. 
+1) SBI Aspirations 2) Facebook 
+3) Orkut 4) Twitter 
+     
+ 
+ 
+40. The application software that helps to search, view and read websites on the 
+web/internet is known as _____. 
+1) Explorer 2) Navigator 
+3) Browser 4) URL 
+  
+    
+41. Which of the following is a famous search engine? 
+1) Google 2) Yahoo 
+3) Alta Vista 4) All of these 
+ 
+42. The smallest unit of data is _____. 
+1) Record 2) Data 
+3) Field 4) File  
+     
+43. The single organized collection of instructed data stored with a minimum of 
+duplication of data items is known as _____. 
+1) File 2) Database 
+3) Structure 4) Folder 
+     
+44. Which of the following is not an RDBMS? 
+1) Fortran 2) Sybase 
+3) Ingress 4) Oracle 
+     
+45. e-KYC is done through the following device at branches. 
+1) Image Scanner 2) Biometric Scanner 
+3) CCTV 4) Inkpad 
+     
+46. The facility available in MS-Word to prepare and send a letter to multiple 
+recipients is _____. 
+1) Insert 2) Table 
+3) Email  4) Mailmerge 
+     
+47. The option available in MS Word to automatically number the paragraphs or 
+place special characters before the paragraphs is ____. 
+1) Boarders and shading 2) Bullets and numbering 
+3) Styles and formatting 4) Auto formatting 
+ 
+     
+
+================================================================================
+PAGE 21
+================================================================================
+ 
+173 
+ 48. Key board short cut to move to the end of document is ___ 
+1) Ctrl + End 2) Ctrl + Home 
+3) Ctrl + Alt + Home 4) Ctrl + Alt + End 
+     
+49. A series of commands which can be grouped together as a single command is 
+known as _____. 
+1) Template 2) Wizard 
+3) Micro 4) Macro 
+     
+50. _____ is the connection between two documents or parts of same document 
+and is commonly used in internet sites. 
+1) Key link 2) Hyperlink 
+3) Connector 4) WWW 
+     
+51. Acrobat Reader can open files with extension as ___? 
+1) Ods 2) Doc 
+3) Xls 4) Pdf 
+ 
+52.  
+The intersection of row and column is known as _____ in spreadsheet. 
+1) Cell 2) Field 
+3) Dataset 4) Source 
+     
+53. The document file created in Lotus Symphony has extension as ____. 
+1) Odt 2) Doc 
+3) Ods 4) PDF 
+     
+54. To enter a formula in a cell, the sign to be used at the beginning of the formula 
+is 
+1) @ 2) ! 
+3) = 4) % 
+     
+55. When you know the desired result of a single formula but not the input value 
+the formula needs to determine the result, you can use the _____ feature in 
+MS-Excel. 
+1) Auto calculate 2) Solver 
+3) Goal seek 4) Scenario 
+     
+56. An interactive table that quickly combines and compares large amounts of 
+data is known as ______. 
+1) Pivot Table 2) Combination table 
+3) Interactive table  4) Comparative table  
+     
+57. _____ is a quick and easy way to find and work with a subset of data (list) on 
+the work sheet without rearranging the data. 
+1) Managing 2) Sorting 
+3) Validating 4) Filtering 
+     
+58. The file extension of anspreadsheet file is ____. 
+1) Ods 2) Xml 
+3) Xcl 4) Xel 
+ 
+     
+
+================================================================================
+PAGE 22
+================================================================================
+ 
+174 
+ 59. Corporate Centre of State Bank of India is situated at : 
+1) Mumbai 2) Hyderabad 
+3) New Delhi 4) Kolkata 
+ 
+ 
+     
+60. Which of the following is not an anti-virus software? 
+1) Avast 2) McAfee 
+3) Symantec 4) dBase  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+================================================================================
+PAGE 23
+================================================================================
+ 
+175 
+ EXERCISE – 5  
+ 
+1.  The computer component that tells the other parts of the computer what to do   
+     is _____ 
+a) RAM b)  ROM 
+c) CPU d)  CD 
+ 
+2.  The programs or instructions that tell the computer what to do is _______ 
+a) Hardware b)  Software 
+c) Netware d)  Peripherals 
+ 
+3.  _______ is approximately equal to million bytes 
+a) Giga Byte b)  Megabyte 
+c) Nanobyte d)  Kilobyte 
+ 
+4.  The device that allows your computer to talk to other computers over a  
+     telephone line 
+a) Infrared b)  Monitor 
+c) Blue tooth d)  Modem 
+ 
+5.  A small picture or symbol representing a computer hardware function or  
+     component is ____ 
+a) Icon b)  Desktop 
+c) GUI d)  PSP 
+ 
+6.  A software that allows user to access & View web pages is called as  
+a) URL b)  HTML 
+c) Browser d)  HTTP 
+ 
+7.  ______ are highlighted words that take you to another page 
+a) Internal links b)  Hyperlinks 
+c) Connection d)  Short cut 
+ 
+8.  The speed of a communications channel is measured in ___  units 
+a) Baud b)  Speed 
+c) Kilobytes d)  Velocity 
+ 
+9.  A  program designed to attach itself to other programs which  can  
+damage data  files and cause system failures is termed as ______  
+a) Free Ware b)  Hacking 
+c) Fishing d)  Virus 
+ 
+10. Efforts to use a computer to gain illegal or unauthorized entry to   
+another  computer system  
+a) Phishing b)  Hacking 
+c) Virus Attack d)  Pharming 
+ 
+11. The system of linked computers and other devices that allows  
+computers to  share and exchange info is called as _______  
+a) Software b)  Connectivity 
+c) Net Work d)  Sharer 
+
+================================================================================
+PAGE 24
+================================================================================
+ 
+176 
+  
+12. Duplication & distribution of copyrighted software is called as ______  
+a) Copy right b)  Distribution 
+c) Licensing d)  Piracy 
+ 
+13.Deleted items in computer are moved to ______  
+a) Deleted folder b)  Junk 
+c) Recycle Bin d)  No where 
+ 
+14. A _________ is a file that "points" to a real file on your hard drive  
+a) Icon b)  Hyperlink 
+c) Shortcut d)  Link 
+ 
+15. What would you do to highlight a word? You position the cursor  next 
+      to the  word, and then...   
+a) Drag mouse while holding 
+button down  b) Click mouse once  
+c) Roll mouse around  d)  Roll and then click mouse 
+ 
+16. To open a disk you position the mouse pointer on the disk icon, and  
+then...   
+a) Drag mouse while holding 
+button down  b) Double click mouse  
+c) Roll mouse around  d)  Roll and then click mouse 
+ 
+17. What would you do to move the mouse pointer on the screen?   
+a) Drag mouse while holding 
+button down  b) Click mouse once  
+c) Roll mouse around  d)  Roll and then click mouse 
+ 
+18. What is the best position to operate the mouse?   
+a) Tail towards you  b)  Tail away from you  
+c) Tail to the right  
+ d)  Tail to the left 
+19. What should you do when the mouse pointer goes off the screen?   
+a) Click the mouse  b)  Press the space bar  
+c) Wiggle the mouse  d)  Tap the mouse gently 
+ 
+20. What is a floppy or rigid disk used for?  
+a) To erase the computer 
+screen  b) To make the printer work  
+c) To store information  d)  To unlock the computer 
+ 
+21. Starting up on operating system is called  
+a) Booting b)  Debugging 
+c) Starting d)  Programming 
+ 
+22. The process of eliminating pro-gramming faults is called  
+a) Booting b)  Debugging 
+c) Starting d)  Programming 
+ 
+ 
+
+================================================================================
+PAGE 25
+================================================================================
+ 
+177 
+ 23. An error in software designing which can even cause a computer to 
+crash is called  
+a) Baud b)  Byte 
+c) Virus d)  Bug 
+ 
+24. Nano stands for  
+a) Tata one lac Car b)  one billionth part 
+c) One Millionth part d)  None of the above 
+ 
+25. Mathematics employed in computers is called ______  
+a) Arithmetic b)  Calculus 
+c) Plan Algebra d)  Boolean algebra 
+ 
+26. A website containing periodic posts is called ____  
+a) Blog b)  Post Website 
+c) Page d)  Hyperlink 
+ 
+27. The unwanted or non-requested e-mails are called ____  
+a) Unsolicited mails b)  Spam 
+c) Chain Mails d)  Link mails 
+ 
+28. The permanent memory that is built in your computer is    ____   
+a) ROM b)  RAM 
+c) DVD d)  CD 
+ 
+29. The computer's working memory is  called as _____  
+a) ROM b)  CD 
+c) RAM d)  DVD 
+ 
+30. The hardware that is used to pass information into the computer  
+a) Output Device b)  Input Device 
+c) Software d)  Harware 
+ 
+ 
+31. The hardware that receives and displays information coming from the  
+      computer  
+a) Output Device b)  Input Device 
+c) Software d)  Hardware 
+ 
+32. Security measures designed to protect network  
+a) Walls b) Fire Walls  
+c) Cold Walls d)  Free Walls 
+ 
+33. The  search criteria where two or more conditions must be true for  
+      successful   search  
+a) Coolean b)  Biolean 
+c) Boolean d)  Seolean 
+ 
+34. Monitor & printer connected to a computer are called  
+a) Output Device b)  Input Device 
+c) Software d)  Harware 
+ 
+
+================================================================================
+PAGE 26
+================================================================================
+ 
+178 
+ 35. Key Board& Mouse connected to a computer are called  
+a) Output Device b)  Input Device 
+c) Software d)  Harware 
+ 
+36. A group of computers that are part of a network and share a common  
+      directory database  
+a) Web site b)  Net work 
+c) Domain d)  Directory 
+ 
+37. The process of disguising a message or data in such a way as to hide  
+its  substance  
+a) Decoding b)  Secret Language 
+c) Decryption d)  Encryption 
+ 
+38. A container for programs and files in graphical user interfaces,  
+      symbolized on  the screen by a graphical image (icon) is   
+a) File b)  Recycle Bin 
+c) Folder d)  GUI 
+ 
+39. The physical components of a computer system, including any  
+      peripheral equipment such as printers, modems, and mouse devices   
+a) Soft Ware b)  Hardware 
+c) Free ware d)  Network 
+ 
+40. A state in which your computer shuts down after saving everything in  
+      memory on your hard disk  
+a) Shutdown b)  Hibernation 
+c) Stand by d)  Log off 
+ 
+41. A private network that connects nodes in a cluster  
+a) Interconnect b)  Intranet 
+c) Internet d)  Web 
+ 
+42. Two or more network segments connected by routers  
+a) Interconnect b)  Internet 
+c) Linkage d)  Connect 
+ 
+43. A network within an organization that uses Internet technologies and  
+      protocols, but is available only to certain people, such as employees    
+      of a company  
+a) Interconnect  b) Internet 
+c) Intranet d)  Web 
+ 
+44. A communications network connecting a group of computers, printers, 
+and other devices located within a relatively limited area  
+a) WAN b)  LAN 
+c) Internet d)  Intranet 
+ 
+45. The process of sending a message simultaneously to more than one  
+      destination on a network  
+a) Multicasting  b)  Web casting 
+c) Group Casting d)  Net Casting 
+
+================================================================================
+PAGE 27
+================================================================================
+ 
+179 
+  
+46. A state that marks a component in a cluster as unavailable  
+a) Off Line b)  On line 
+c) Multiline d)  None of the above 
+ 
+47.  “*” stands for   
+a) Multiplication b)  Division 
+c) Addition d)  Subtraction 
+ 
+48.  “/” stands for   
+a) Multiplication b)  Division 
+c) Addition d)  Subtraction 
+ 
+49. A security measure used to restrict logon names to user accounts and  
+access  to computer systems and resources  
+a) Lock b)  Password 
+c) Authentication d)  Verification 
+ 
+50. A device, such as a disk drive, printer, modem, or joystick, that is  
+connected  to a computer and is controlled by the computer's  
+      microprocessor  
+a) Input Device b)  Output device 
+c) Computer parts d)  Peripheral 
+ 
+51. A utility that verifies connections to one or more remote hosts  
+a) Ting b)  Ping 
+c) Zing d)  String 
+ 
+52. A computer that you can access only by using a communications line  
+     or a communications device, such as a network card or a modem  
+a) Super Computer b)  Remote Computer 
+c) Network computer d)  Peripheral 
+ 
+53.A group of characters or character bytes handled as a single entity  
+a) Ting b)  Ping 
+c) Zing d)  String 
+ 
+54. A program that behaves like a system logon to retrieve user names and  
+      password information that the writers of the program can later use to  
+      break into  the system.  
+a) Trojan Horse  b) Disk night  
+c) White Elephant d)  Mummy 
+ 
+55. When referring to software, the act of removing program files and  
+      folders from  your hard disk and removing related data from your  
+      registry so the software is no  longer available  
+a) Install b)  Load 
+c) Uninstall d)  Unload 
+ 
+ 
+ 
+  
+
+================================================================================
+PAGE 28
+================================================================================
+ 
+180 
+ 56. Temporary storage used by a computer to run programs that need   
+more  memory than it has is called as  
+a) Virtual Memory b)  Permanent Memory 
+c) Temporary Memory d)  Random Access Memory 
+ 
+57. A portion of the screen where programs and processes can be run  
+a) Bin b)  Folder 
+c) File d)  Window 
+ 
+58. Any attempt to steal personal information by sending fraudulent e- 
+      mails is technically known as  
+a) Hacking b)  Capturing 
+c) Phishing d)  Manipulating 
+ 
+59. The antivirus software used in SBI is  
+a) Awast Antivirus b)  Trend Micro Antivirus software 
+c) QuickhealAnrivirus d)  Norton Antivirus Software 
+ 
+60. The official software for using spreadsheet facility and for 
+generating documents at branches  
+a) IBM Lotus Symphony b)  MS Office 
+c) CBS d)  LOS 
+ 
+61. The application in which the requirement of cash for ATM 
+replenishment  is entered for the CAC to respond is  
+a) OPTICASH b)  ICCOMS 
+c) LOS d)  LLMS 
+ 
+62. A base-2 number system in which values are expressed as  
+     combinations of  two digits i.e 1 & 0 is called  
+a) Trinary b)  Hexonary 
+c) Binary d)  Oxonary 
+ 
+63. --------  represent many types of information, such as a letter of  
+     the alphabet, a decimal digit, or other character  
+a) Bit b)  Byte 
+c) Kilobyte d)  Mega byte 
+ 
+64. Data can be copied to the CD on more than one occasion and  
+     can be erased with   
+a) CD-R b)  CD 
+c) CD-RW d)  None  
+ 
+65. The Information Technology Act, 2000 does not provide for 
+      a)  legal recognition for transactions carried out by electronically 
+      b) retention of documents in electronic form 
+      c) filing and submission of documents with Govt. agencies 
+      d) purchase of immovable properties online 
+ 
+ 
+  
+
+================================================================================
+PAGE 29
+================================================================================
+ 
+181 
+  
+ 
+EXERCISE – 6  
+1)    Which of the following is a Teller in CBS? 
+a) Cash officer  (b)  SWO  (c)  Branch Manager   (d)   All of these 
+ 
+2)    Who is VPIS custodian ? 
+a)  Who operates Cash in the chest    
+b)  Who attends ‘P’ review meetings 
+c)   Who hands over/receives security form to/from SWO 
+d)   Who takes care of safe custody of articles 
+ 
+3) What  the abbreviation  EOD stands for? 
+a)  End of document      b)   Early office day 
+c)  End of the day           d)  Early of the day 
+ 
+4)    What does a CIF contains in CBS? 
+a)  Cash in file       b)   Customer in front   
+c)  Customer identity file    d)   Customer information file 
+ 
+5)       Total Branch computerization has been on the recommendations of  
+a) Ghosh committee      b)   Rangarajan committee    
+c)  Talwar committee   d)  None of these 
+ 
+6)       What the abbreviation WAN stands for? 
+a) Wide active network     (b)  Width area network 
+c)  Wide area network       d)  None of these 
+ 
+7)       Which one of the following is B@ncs24 provider 
+a)   TCS Ltd       b)   Data Craft       c)  FNS Australia     d)   China System 
+ 
+8)       Who is a Vault Teller 
+a) Branch Accountant    b) Cash office    
+c) Branch Manager    d) None of  these 
+ 
+9)      What is the shortcut key used to increase/decrease the screen size 
+a)   F9     (b)   F10       c)   F11      d)   F12 
+ 
+10)      What is the portal for verifying the credit history of a customer? 
+a)   OCAS   b)   ICCOMS 
+c )CIBIL   d)   CBS 
+ 
+11)       Who maintain State Bank Connect 
+a)  TCS Ltd        b)  Data Craft      c)  Oracle Corporation     d)  HP Systems 
+ 
+12) Which of the following is application for reporting currency chest 
+      transactions? 
+a)  ICCOMSb)  Data Craft      c)    OCAS      d)  LLMS 
+ 
+ 
+
+================================================================================
+PAGE 30
+================================================================================
+ 
+182 
+ 13)       Which of the following is an online loan application portal? 
+a)  LLMS   (b)   LOS 
+c)  OCAS   (d)   ICCOMS 
+ 
+14)       What is a cash drawer in CBS 
+a)   It is a wooden drawer provided to SWO to keep cash   
+b)   It is a special drawer kept in strong room for day to day operation    
+c)   Logical version of physical cash drawer  maintained by system in  CBS  
+d)  None of these  
+ 
+15) What is the shortcut key used in CBS to get the CIF/Account number last typed 
+    a) F10    b)   F11    c)  F12    d)   F9 
+ 
+16) What does the abbreviation  BGL stand for? 
+a)  Branch Gold loan     b)  Bank Guards List    
+c)  Branch General Ledger  d)  None of these 
+ 
+17)       Which of the following is not the Bank’s product issued under CINB?   
+a)  Khata b)   Vyapaar  c)   Vistaar d)   Platinum 
+ 
+18) Which one of the following parts of a computer is related to memory? 
+a)  Modem    b)  Key board   c)   Mouse   d)   RAM 
+ 
+19)       What is the Address of SBI online banking Site 
+a)   onlinesbi.sbi     b)   onlinesbi.co.in      
+c)   onlinesbi@yahoo.com  d)   None of these 
+  
+20)       What is the software used in RACPC 
+a)  Dream House     b)  Sweet Home     
+c)  LLMS   d)  LOS 
+ 
+21) Which of the following is not available in e-corner? 
+a)  Swayam  b)  Token vending machine 
+c)  CDM   d)  ATM 
+ 
+22) LOS workflow is available under which tab in CBS? 
+a)  Apps    b)  Journal 
+c)  CIF    d)  CDC 
+ 
+23)       State Bank computer centre is at 
+a)  Karolbagh ,New Delhi    b)  Narimanpoint, Mumbai  
+c)  Belapur, Navi Mumbai   d)  Nungambakkam, Chennai 
+ 
+24)       What is cheque truncation system 
+a)  To keep all cheques in a box 
+b)  A special courier system for dispatch of cheques  
+c)  To return the cheques to customers after processing 
+d)  Processing of cheques on the basis of electronic image 
+ 
+25)       Computer security day is observed every year on  
+a)  30th October    b)   30th November   c)   30th December   d)   30th January 
+
+================================================================================
+PAGE 31
+================================================================================
+ 
+183 
+ ANSWERS  
+EXERCISE-1  
+1. b 11. a 21. c 31. a 41. a 51. c 
+2. d 12. d 22. d 32. b 42. a 52. a 
+3. d 13. c 23. a 33. d 43. b 53. a 
+4. c 14. a 24. c 34. a 44. c 54. b 
+5. c 15. a 25. a 35. c 45. a 55. c 
+6. c 16. a 26. d 36. d 46. c 56. c 
+7. d 17. a 27. c 37. d 47. a 57. c 
+8. b 18. a 28. a 38. c 48. c 58. b 
+9. c 19. b 29. c 39. a 49. b 59. c 
+10. b 20. a 30. D 40. c 50. a 60. a 
+ 
+EXERCISE - 2  
+1. a 11. a 21. c 31. d 41. c 51. c 
+2. d 12. b 22. d 32. b 42. a 52. a 
+3. b 13. b 23. a 33. a 43. c 53. b 
+4. c 14. b 24. a 34. c 44. d 54. a 
+5. d 15. a 25. a 35. a 45. a 55. b 
+6. a 16. a 26. b 36. b 46. b 56. a 
+7. c 17. a 27. a 37. a 47. c 57. b 
+8. a 18. d 28. d 38. d 48. a 58. d 
+9. b 19. d 29. a 39. a 49. b 59. a 
+10. c 20. a 30. a 40. b 50. c 60. a 
+ 
+EXERCISE – 3  
+1. a 11.  d 21. b 31. c 41. b 51. B 61. a 71. b 81. a 
+2. b 12.  a 22. b 32. a 42. b 52. a 62. b 72. a 82. b 
+3. c 13.  b 23. d 33. c 43. a 53. c 63. d 73. c 83. d 
+4. a 14.  c 24. a 34. d 44. d 54. a 64. a 74. c 84. b 
+5. b 15.  d 25. b 35. a 45. a 55. b 65. d 75. a 85. c 
+6. c 16.  d 26. c 36. d 46. b 56. c 66. b 76. c 86. c 
+7. a 17.  b 27. b 37. a 47. a 57. d 67. c 77. c 87. d 
+8. a 18.  d 28. a 38. b 48. b 58. b 68. a 78. b 88. b 
+9. b 19.  c 29. c 39. c 49. c 59. a 69. b 79. a 89. d 
+10. c 20. a 30. d 40. a 50. d 60. c 70. c 80. a 90. b 
+ 
+ 
+
+================================================================================
+PAGE 32
+================================================================================
+ 
+184 
+ EXERCISE – 4  
+1. 2 11.  1 21.  2 31.  2 41.  4 51.  4 
+2. 4 12.  2 22.  1 32.  4 42.  3 52.  1 
+3. 4 13.  3 23.  1 33.  3 43.  2 53.  2 
+4. 1 14.  1 24.  3 34.  1 44.  1 54.  3 
+5. 2 15.  3 25.  2 35.  3 45.  2 55.  3 
+6. 3 16.  2 26.  3 36.  4 46.  4 56.  1 
+7. 2 17.  1 27.  2 37.  2 47.  2 57.  4 
+8. 1 18.  1 28.  4 38.  4 48.  1 58.  1 
+9. 2 19.  3 29.  1 39.  1 49.  4 59.  1 
+10. 4 20.  4 30.  1 40.  3 50.  2 60.  4 
+ 
+EXERCISE – 5  
+1. c 16.  b 31. a 46. a 61. a 
+2. b 17.  c 32. b 47. a 62. c 
+3. b 18.  a 33. c 48. b 63. b 
+4. d 19.  c 34. a 49. b 64. c 
+5. a 20.  c 35. b 50. d 65. d 
+6. c 21.  a 36. c 51. b   
+7. b 22.  b 37. d 52. b   
+8. a 23.  d 38. c 53. d   
+9. d 24.  b 39. b 54. a   
+10. b 25.  d 40. b 55. c   
+11. c 26.  a 41. a 56. a   
+12. d 27.  b 42. b 57. d   
+13. c 28.  a 43. c 58. c   
+14. c 29.  c 44. b 59. b   
+15. a 30.  b 45. a 60. a   
+ 
+EXERCISE – 6  
+1. d 6. c 11. b 16. c 21.  b 
+2. c 7. c 12. a 17. d 22.  a 
+3. c 8. a 13. c 18. d 23.  c 
+4. d 9. c 14. c 19. a 24.  d 
+5. b 10.  c 15. c 20. d 25.  b 
+ 
+ 
+
+================================================================================
+PAGE 33
+================================================================================
+ 
+185 
+ FUNDAMENTALS OF COMPUTERS - 1  
+1. The term ‘Computer’ is derived from.......... 
+ a. Latin b. German c. French d. Arabic 
+ 
+2. Who is the inventor of “Difference Engine”? 
+a. Allen Turing b. Charles Babbage c. Simur Cray d. Augusta Adaming 
+ 
+3. Who is the father of Computer? 
+a. Allen Turing b. Charles Babbage c. Simur Cray d. Augusta Adaming 
+ 
+4. Who is the father of Computer science? 
+a. Allen Turing b. Charles Babbage c. Simur Cray d. Augusta Adaming 
+ 
+5. Who is the father of personal computer? 
+a. Edward Robert b. Allen Turing c. Charles Babbage d. None of these 
+ 
+6. A CPU contains 
+a. a card reader and a printing device b. an analytical engine and a control unit 
+c. a control unit and an arithmetic logic unit d. an arithmetic logic unit and a card reader 
+ 
+7. Which of the following controls the process of interaction between the user and the 
+operating  system? 
+a. User interface b. Language translator c. Platform d. Screen saver 
+ 
+8. The first computers were programmed using 
+a. assembly language b. machine language c. source code d. object code 
+ 
+9. ..........is a combination of hardware and software that facilitates the sharing of information 
+between computing devices. 
+a. network b. peripheral c. expansion board d. digital device 
+ 
+10. Coded entries which are used to gain access to a computer system are called 
+a. Entry codes b. Passwords c. Security commands d. Code words 
+ 
+11. Which of the following statements is true ? 
+a. Minicomputer works faster than Microcomputer 
+b. Microcomputer works faster than Minicomputer 
+c. Speed of both the computers is the same 
+d. The speeds of both these computers cannot be compared with the speed of advanced 
+ 
+12. You organize files by storing them in 
+a. archives b. folders c. indexes d. lists 
+ 
+13. What type of resource is most likely to be a shared common resource in a computer 
+Network? 
+a. Printers b. Speakers c. Floppy disk drives d. Keyboards 
+ 
+14. Which device is required for the Internet connection? 
+a. Joystick b. Modem c. CD Drive d. NIC Card 
+ 
+ 
+
+================================================================================
+PAGE 34
+================================================================================
+ 
+186 
+ 15. What is a light pen? 
+a. A Mechanical Input device b. Optical input device 
+c. Electronic input device d. Optical output device 
+ 
+16. UNIVAC is 
+a. Universal Automatic Computer b. Universal Array Computer 
+c. Unique Automatic Computer d. Unvalued Automatic Computer 
+ 
+17. CD-ROM stands for 
+a. Compactable Read Only Memory b. Compact Data Read Only Memory 
+c. Compactable Disk Read Only Memory d. Compact Disk Read Only Memory 
+ 
+18. ALU is 
+a. Arithmetic Logic Unit b. Array Logic Unit 
+c. Application Logic Unit d. None of above 
+ 
+19. VGA is 
+a. Video Graphics Array b. Visual Graphics Array 
+c. Volatile Graphics Array d. Video Graphics Adapter 
+ 
+20. IBM 1401 is 
+a. First Generation Computer b. Second Generation Computer 
+c. Third Generation Computer d . Fourth Generation Computer 
+ 
+21. MSI stands for 
+a. Medium Scale Integrated Circuits b. Medium System Integrated Circuits 
+c. Medium Scale Intelligent Circuit d. Medium System Intelligent Circuit 
+ 
+22. The capacity of 3.5 inch floppy disk is 
+a. 1.40 MB b. 1.44 GB c. 1.40 GB d. 1.44 MB 
+ 
+23. WAN stands for 
+a. WAP Area Network  b. Wide Area Network 
+c. Wide Array Net d. Wireless Area Network 
+ 
+24. MICR stands for 
+a. Magnetic Ink Character Reader b. Magnetic Ink Code Reader 
+c. Magnetic Ink Cases Reader d. None 
+ 
+25. EBCDIC stands for 
+a. Extended Binary Coded Decimal Interchange Code 
+b. Extended Bit Code Decimal Interchange Code 
+c. Extended Bit Case Decimal Interchange Code 
+d. Extended Binary Case Decimal Interchange Code 
+ 
+26. Which of the following is a part of the Central Processing Unit? 
+a. Printer b. Key board c. Mouse d. Arithmetic & Logic unit 
+ 
+27. CAD stands for 
+a. Computer aided design b. Computer algorithm for design 
+c. Computer application in design d. Computer analogue design 
+ 
+
+================================================================================
+PAGE 35
+================================================================================
+ 
+187 
+ 28. Junk e-mail is also called 
+a. spam b. spoof c. sniffer script d. spool 
+ 
+29. Hackers 
+a. all have the same motive 
+b. break into other people's computers 
+c. may legally break into computers as long as they do not do any damage 
+d. are people who are allergic to computers 
+ 
+30. What type of computers are client computers (most of the time) in a client-server 
+system? 
+a. Mainframe b. Mini-computer c. Microcomputer d. PDA 
+ 
+31. A computer cannot 'boot' if it does not have the 
+a. Compiler b. Loader c. Operating System d. Assembler 
+ 
+32. The amount of vertical space between lines of text in a document is called 
+a. double-space b. line spacing c. single space d. vertical spacing 
+ 
+33. Example of non-numeric data is 
+a. Employee address b. Examination score c. Bank balance d. All of these 
+ 
+34. What is embedded system? 
+a. The programme which arrives by being wrapped in box. 
+b. The programme which is the permanent part of the computer 
+c. The computer which is the part of a big computer 
+d. The computer and software system that control the machine 
+ 
+35. First page of Website is termed as-  
+a. Homepage b. Index c. JAVA script d. Bookmark 
+ 
+36. . ..................... Is the appearance of typed characters? 
+a. Size b. Format c. Point d. Colour 
+ 
+37. When a file is saved for the first time 
+a. a copy is automatically printed 
+b. it must be given a name to identify it 
+c. it does not need a name 
+d. it only needs a name if it is not going to be printed 
+ 
+38. Office LANS, which are scattered geographically on large scale, can be connected by 
+the useof corporate 
+a. CAN b. LAN c. DAN d. WAN 
+ 
+39. Where are data and programme stored when the processor uses them? 
+a. Main memory b. Secondary memory c. Disk memory d. Programme memory 
+ 
+40. . ............... represents raw facts, where-as................. is data made meaningful. 
+a. Information, reporting b. Data, information c. Information, bits d. Records, bytes. 
+ 
+ 
+ 
+
+================================================================================
+PAGE 36
+================================================================================
+ 
+188 
+ 41. What characteristic of read-only memory (ROM) makes it useful? 
+a. ROM information can be easily updated. 
+b. Data in ROM is non-volatile, that is, it remains there even without electrical power. 
+c. ROM provides very large amounts of inexpensive data storage. 
+d. ROM chips are easily swapped between different brands of computers. 
+ 
+42. What do you call the programs that are used to find out possible faults and their 
+causes? 
+a. operating system extensions b. cookies c. diagnostic software d. boot diskettes 
+ 
+43. Which programming languages are classified as low level languages? 
+a. BASIC, COBOL, Fortran b. Prolog  c. C, C++   d. Assembly languages 
+ 
+44. Which of the following is not anti- viruses’ software? 
+a. NAV  b. F-Prot  c. Oracle  d. McAfee 
+ 
+45. Which device is required for the Internet connection? 
+a. Joystick b. Modem c. CD Drive d. NIC Card 
+ 
+46. What does DMA stand for? 
+a. A. Distinct Memory Access b. Direct Memory Access 
+c. Direct Module Access d. Direct Memory Allocation 
+ 
+47. Which of the following is a storage device? 
+a. Tape b. Hard Disk c. Floppy Disk d. All of the above 
+ 
+48. When did John Napier develop logarithm? 
+a. 1416 b. 1614 c. 1641 d. 1804 
+ 
+49. A normal CD- ROM usually can store up to _________ _data? 
+a. 680 KB b. 680 Bytes c. 680 MB d. 680 GB 
+ 
+50. MIS is designed to provide information needed for effective decision making by? 
+a. Consumers b. Workers c. Foremen d. Managers 
+ 
+51. What is a light pen? 
+a. Mechanical Input device b. Optical input device 
+c. Electronic input device d. Optical output device 
+ 
+52. BCD is 
+a. Binary Coded Decimal b. Bit Coded Decimal 
+c. Binary Coded Digit d. Bit Coded Digit 
+ 
+53. ASCII stands for 
+a. American Stable Code for International Interchange 
+b. American Standard Case for Institutional Interchange 
+c. American Standard Code for Information Interchange 
+d. American Standard Code for Interchange Information 
+ 
+54. Which of the following is first generation of computer? 
+a. EDSAC b. IBM-1401 c. CDC-1604 d. ICL-2900 
+ 
+
+================================================================================
+PAGE 37
+================================================================================
+ 
+189 
+ 55. Chief component of first-generation computer was 
+a. Transistors b. Vacuum Tubes and Valves 
+c. Integrated Circuits d. None of above 
+ 
+56. FORTRAN is 
+a. File Translation b. Format Translation 
+c. Formula Translation d. Floppy Translation. 
+ 
+57. EEPROM stands for 
+a. Electrically Erasable Programmable Read Only Memory 
+b. Easily Erasable Programmable Read Only Memory 
+c. Electronic Erasable Programmable Read Only Memory 
+d. None of the above 
+ 
+58. Second Generation computers were developed during 
+a. 1949 to 1955 b. 1956 to 1965 c. 1965 to 1970 d. 1970 to 1990 
+ 
+59. The computer size was very large in 
+a. First Generation b. Second Generation c. Third Generation d. Fourth Generation 
+ 
+60. Microprocessors as switching devices are for which generation computers 
+a. First Generation b. Second Generation c. Third Generation d. Fourth Generation 
+ 
+61. Which of the following devices can be sued to directly image printed text? 
+a. OCR b. OMR c. MICR d. All of above 
+ 
+62. The output quality of a printer is measured by 
+a. Dot per inch b. Dot per sq. inch c. Dots printed per unit time d. All of above 
+ 
+63. In analogue computer 
+a. Input is first converted to digital form b. Input is never converted to digital form 
+c. Output is displayed in digital form d. All of above 
+ 
+64. In latest generation computers, the instructions are executed 
+a. Parallel only b. Sequentially only c. Both sequentially and parallel d. All of above 
+ 
+65. Who designed the first electronics computer – ENIAC? 
+a. Van-Neumann b. Joseph M. Jacquard 
+c. J. Presper Eckert and John W Mauchly d. All of above 
+ 
+66. Who invented the high level language “C”? 
+a. Dennis M. Ritchie b. Niklaus Writh c. Seymour Papert d. Donald Kunth 
+ 
+67. Personnel who design, program, operate and maintain computer equipment refers to 
+a. Console-operator b. Programmer c. Peopleware d. System Analyst 
+ 
+68. When did arch rivals IBM and Apple Computers Inc. decide to join hands? 
+a. 1978 b. 1984 c. 1990 d. 1991 
+ 
+69. Human beings are referred to as Homosapinens, which device is called Sillico Sapiens? 
+a. Monitor b. Hardware c. Robot d. Computer 
+
+================================================================================
+PAGE 38
+================================================================================
+ 
+190 
+ 70. An error in software or hardware is called a bug. What is the alternative computer jargon 
+for it? 
+a. Leech b. Squid c. Slug d. Glitch 
+ 
+71. Modern Computer are very reliable, but they are not 
+a. Fast b. Powerful c. Infallible d. Cheap 
+ 
+72. What is the name of the display feature that highlights are of the screen which requires 
+operator attention? 
+a. Pixel b. Reverse video c. Touch screen d. Cursor 
+ 
+73. Personal computers use a number of chips mounted on a main circuit board. What is 
+the common name for such boards? 
+a. Daughter board b. Motherboard c. Father board  d. Breadboard 
+ 
+74. In most IBM PCs, the CPU, the device drives, memory expansion slots and active 
+components are mounted on a single board. What is the name of this board? 
+a. Motherboard b. Breadboard c. Daughter board d. Grandmother board 
+ 
+75. What is meant by a dedicated computer? 
+a. Which is used by one person only b. Which is assigned one and only one task 
+c. Which uses one kind of software d. Which is meant for application software 
+ 
+76. The system unit of a personal computer typically contains all of the following except: 
+a. Microprocessor b. Disk controller c. Serial interface d. Modem 
+ 
+77. A computer program that converts an entire program into machine language is called 
+a/an 
+a. Interpreter b. Simulator c. Compiler d. Commander 
+ 
+78. A computer program that translates one program instructions at a time into machine 
+language is called a/an 
+a. Interpreter b. CPU c. Compiler d. Simulator 
+ 
+79. A small or intelligent device is so called because it contains within it a 
+a. Computer b. Microcomputer c. Programmable d. Sensor 
+ 
+80. A fault in a computer program which prevents it from working correctly is known as 
+a. Boot b. Bug c. Biff d. Strap 
+ 
+81. A self replicating program, similar to a virus which was taken from a 1970s science 
+fiction novel by John Bruner entitled the Shockwave Rider is 
+a. Bug b. Vice c. Lice d. Worm 
+ 
+82. A state. is a bi-stable electronic circuit that has 
+a. Multivibrator b. Flip-flop c. Logic gates d. laten 
+ 
+83. Unwanted repetitious messages, such as unsolicited bulk e-mail is known as 
+a. Spam b. Trash c. Calibri d. Courier 
+ 
+ 
+ 
+
+================================================================================
+PAGE 39
+================================================================================
+ 
+191 
+ 84. DOS stands for 
+a. Disk Operating System b. Disk operating session 
+c. Digital Operating System d. Digital Open system 
+ 
+85. Who is the chief of Microsoft 
+a. Babbage b. Bill Gates c. Bill Clinton d. none of these 
+ 
+86. Which of the following are input devices? 
+a. Keyboard b. Mouse c. Card reader d. Any of these 
+ 
+87. Examples of output devices are 
+a. Screen b. Printer c. Speaker d. All of these 
+ 
+88. Which of the following is also known as brain of computer 
+a. Control unit b. Central Processing unit 
+c. Arithmetic and language unit d. Monitor 
+ 
+89. IBM stands for 
+a. Internal Business Management b. International Business Management 
+c. International Business Machines d. Internal Business Machines 
+ 
+90. ............ translates and executes program at run time line by line 
+a. Compiler b. Interpreter c. Linker d. Loader 
+ 
+91. is an OOP principle 
+a. Structured programming b. Procedural programming c. Inheritance d. Linking. 
+ 
+92. COBOL is widely used in application s 
+a. Commercial b. Scientific c. Space d. Mathematical 
+ 
+93. RAM stands for 
+a. Random origin money b. Random only memory 
+c. Read only memory d. Random access memory 
+ 
+94. 1 Byte =? 
+a. 8 bits b. 4 bits c. 2 bits d. 9 bits 
+ 
+95. SMPS stands for 
+a. Switched mode Power Supply b. Start mode power supply 
+c. Store mode power supply d. Single mode power supply 
+ 
+96. The device used to carry digital data on analogue lines is called as 
+a. Modem b. Multiplexer c. Modulator d. Demodulator 
+ 
+97. VDU is also called 
+a. Screen b. Monitor c. Both 1 & 2 d. printer 
+ 
+98. BIOS stands for 
+a. Basic Input Output system b. Binary Input output system 
+c. Basic Input Off system d. all the above   
+ 
+ 
+
+================================================================================
+PAGE 40
+================================================================================
+ 
+192 
+ 99. Father of “C‘ programming language 
+a. Dennis Ritchie b. Prof John Keenly c. Thomas Kurtz d. Bill Gates 
+ 
+100. The instructions that tell a computer how to carry out the processing tasks are referred 
+to as computer......... 
+a. programs b. processors c. input devices d. memory modules. 
+ 
+101. An area of a computer that temporarily holds data waiting to be processed is.......... 
+a. CPU b. Memory c. Storage d. File 
+ 
+102. ........... is the key to close a selected drop -down list; cancel a command and close a 
+dialog box. 
+a. TAB b. SHIFT c. ESC d. F10 
+ 
+103. .......... is the key we use to run the selected command. 
+a. SHIFT b. TAB c. ENTER d. CTRL 
+ 
+104. ............. Is the functional key to display save-as box. 
+a. F5 b. F6 c. F9 d. F12 
+ 
+105. Data becomes ................ when it is presented in a format that people can 
+understandand use 
+a. processed b. graphs c. information d. presentation 
+ 
+106. The term ............. designates equipment that might be added to a computer system to 
+enhance its functionality. 
+a. digital device b. system add-on c. disk pack d. peripheral device 
+ 
+107. A ............ is a microprocessor -based computing device. 
+a. personal computer b. mainframe c. workstation d. server 
+ 
+108. RAM can be treated as the ......... for the computer's processor 
+a. factory b. operating room c. waiting room d. planning room 
+ 
+109. Which of the following are the functions of a operating system 
+a. Allocates resources b. Monitors Activities 
+c. Manages disks and files d. All of the above 
+ 
+110. To move a copy of file from one computer to another over a communication channel is 
+called? 
+a. File transfer b. File encryption c. File modification d. File copying 
+ 
+111. The primary function of the ............ is to set up the hardware and load and start an 
+operating system 
+a. System Programs b. BIOS c. CP d. Memory 
+ 
+112. What kind of memory is both static and non -volatile? 
+a. RAM b. ROM c. BIOS d. CACHE 
+ 
+113. .......... is computer software designed to operate the computer hardware and to 
+provide platform for running application software 
+a. Application software b. System software c. Software d. Operating system 
+
+================================================================================
+PAGE 41
+================================================================================
+ 
+193 
+ 114. The ......... is the amount of data that a storage device can move from the storage 
+medium to the Computer per second 
+a. data migration rate b. data digitizing rate c. data transfer rate d. data access rate 
+ 
+115. A device, which is not connected to CPU, is called as ....... 
+a. land-line device b. On-line device c. Off-line device d. Device 
+ 
+116. What is the other name for programmed chip? 
+a. RAM b. ROM c. LSIC d. PROM 
+ 
+117. On-line real time systems become popular in ........... generation 
+a. First Generation b. Second Generation c. Third Generation d. Fourth Generation 
+ 
+118. You use a(n) ....., such as a keyboard or mouse, to input information 
+a. output device b. input device c. storage device d. processing device 
+ 
+119. ............. is the ability of a device to "jump" directly to the requested data 
+a. Sequential access b. Random access c. Quick access d. All of the above 
+ 
+120. ............. provides process and memory management services that allow two or more 
+tasks, jobs, or programs to run simultaneously 
+a. Multitasking b. Multithreading c. Multiprocessing d. Multi-computing 
+ 
+121. The task of performing operations like arithmetic and logical operations is called...... 
+a. Processing b. Storing c. Editing d. Sorting 
+ 
+122. ALU and Control Unit jointly known as 
+a. RAM b. ROM c. CPU d. PC 
+ 
+123. RAM is an example of 
+a. Secondary memory b. Primary memory c. Main memory d. Both (1) and (2) 
+ 
+124. Magnetic disk is an example of 
+a. Secondary memory b. Primary memory c. Main memory d. Both (1) and (2) 
+ 
+125. Which one of the following is NOT a computer language 
+a. MS-Excel b. BASIC c. COBOL d. C++ 
+ 
+126. RAM is also called as 
+a. Read / Write Memory b. Long Memory c. Permanent Memory d. Primary Memory 
+ 
+127. ............ Store data or information temporarily and pass it on as directed by the 
+controlunit 
+a. Address b. Register c. Number d. Memory 
+ 
+128. Select the Odd one 
+a. Operating system b. Interpreter c. Compiler d. Assembler 
+ 
+129. A ............ is an additional set of commands that the computer displays after you make 
+aselection from the main menu 
+a. dialog box b. submenu c. menu selection d. All of the above 
+ 
+
+================================================================================
+PAGE 42
+================================================================================
+ 
+194 
+ 130. COBOL is an acronym for............. 
+a. Common Business Oriented Language b. Computer Business Oriented Language 
+c. Common Business Operated Language d. Common Business Organized Language 
+ 
+131. All of the following are examples of real security and privacy risks EXCEPT 
+a. hackers b. Spam c. Viruses d. identity theft  
+ 
+132. Which of the following is NOT one of the four major data processing functions of a 
+computer? 
+a. gathering data b. processing data into information 
+c. analyzing the data or information d. storing the data or information 
+ 
+133. All of the following are examples of storage devices EXCEPT : 
+a. hard disk drives b. printers c . floppy disk drives d. CD drives 
+ 
+134. The CPU and memory are located on the : 
+a. expansion board b. motherboard c. storage device d. output device 
+ 
+135. ............... is the science that attempts to produce machines that display the same type 
+of intelligence that humans do 
+a. Nanoscience b. Nanotechnology c. Simulation d. Artificial intelligence (Al) 
+ 
+136. Servers are computers that provide resources to other computers connected to a : 
+a. networked b. mainframe c. supercomputer d. client  
+ 
+137. When creating a computer program, the ......... designs the structure of the program 
+a. End user b. System Analyst c. Programmer d. All of the above 
+ 
+138. A computer program that converts an entire program into machine language at one 
+timeis called a/ an 
+a. Interpreter b. simulator c. characters d. compiler 
+ 
+139. Computers process data into information by working exclusively with : 
+a. multimedia b. word c. numbers d. characters 
+ 
+140. The difference between people with access to computers and the Internet and 
+thosewithout this access is known as the : 
+a. digital divide b. Internet divide c. Web divide d. E-illiteracy 
+ 
+141. Computers manipulate data in many ways, and this manipulation is called...... 
+a. upgrading b. processing c. batching d. utilizing 
+ 
+142. The ability to recover and read deleted or damaged files from a criminal's computer 
+isan example of a law enforcement specialty called: 
+a. robotics b. simulation c. computer forensics d. animation 
+ 
+143. Where does most data go first with in a computer memory hierarchy? 
+a. RAM b. ROM c. BIOS d. CACHE 
+ 
+144. The………….data mining technique derives rules from real-world case examples. 
+a. Rule discover b. Signal processing c. Neural nets d. Case-based reasoning 
+ 
+
+================================================================================
+PAGE 43
+================================================================================
+ 
+195 
+ 145. …………….are used to identify a user who returns to a Website 
+a. Cookies b. Plug-ins c. Scripts d. ASPs 
+ 
+146. Codes consisting of lines of varying widths or lengths that are computer-readable are 
+known as- a. an ASCII code b. a magnetic tape c. an OCR scanner d. a bar code 
+ 
+147. Why is it unethical to share copyrighted files with your friends? 
+a. It is not unethical, because it is legal. 
+b. It is unethical because the files are being given for free. 
+c. Sharing copyrighted files without permission breaks copyright laws. 
+d. It is not unethical because the files are being given for free. 
+ 
+148. Reusable optical storage will typically have the acronym-  
+a. CD b. DVD c. ROM d. RW 
+ 
+149. The most common type of storage devices are- a. Steel b. optical c. magnetic d. flash 
+150. A device that connects to a network without the use of cables is said to be- a. 
+Distributed b. free c. centralized d. none of these 
+ 
+151. A person who used his or her expertise to gain access to other people's computers to 
+getinformation illegally or do damage is a-  
+a. Hacker b. spammer c. instant messenger d. programmer 
+ 
+152. To access properties of an object, the mouse technique to use is-  
+a. Dragging b. dropping c. right-clicking d. shift-clicking 
+ 
+153. A DVD is an example of a (n)-  
+a. hard disk b. optical disc c. output device d. solid-state storage device 
+ 
+154. . The process of transferring files from a computer on the Internet to your computer is 
+called 
+a. Downloading b. uploading c. FTP d. JPEG 
+ 
+155. . .......... is the process of dividing the disk into tracks and sectors. 
+a. Tracking b. Formatting c. Crashing d. Allotting 
+ 
+156. . Help Menu is available at which button? 
+a. End b. Start c. Turnoff d. Restart 
+ 
+157. The technology that stores only the essential instructions on a microprocessor chip and 
+thus enhances its speed is referred to as 
+a. CISC b. RISC c. CD-ROM d. Wi-Fi 
+ 
+158. Which is not a basic function of a computer? 
+a. Store data b. Accept input c. Process data d. Copy text 
+ 
+159. ASCII is a coding system that provides 
+a. 256 different characters b. 512 different characters 
+c. 1024 different characters d. 128 different characters  
+ 
+ 
+ 
+
+================================================================================
+PAGE 44
+================================================================================
+ 
+196 
+ 160. Which part of the computer is directly involved in executing the instructions of the 
+computer program? 
+a. The scanner b. The main storage c. The secondary storage d. The processor 
+ 
+161. When a computer is switched on, the booting process performs 
+a. Integrity Test b. Power-On Self-Test c. Correct Functioning Test d. Reliability Test 
+ 
+162. A computer system that is old and perhaps not satisfactory is referred to as a(n) 
+a. Ancient system b. Historical system c. Age old system d. Legacy system 
+ 
+163. Which of the following is not a binary number? 
+a. 001 b. 101 c. 202 d. 110 
+ 
+164. Which of the following does not store data permanently? 
+a. ROM b. RAM c. Floppy Disk d. Hard Disk 
+ 
+165. Which of the following is the smallest storage? 
+a. Megabyte b. Gigabyte c. Terabyte d. None of these 
+ 
+166. Which of the following contains permanent data and gets updated during the 
+processing of transactions? 
+a. Operating System File b. Transaction file c. Software File d. Master file 
+ 
+167. Which of the following helps to protect floppy disks from data getting accidentally 
+erased? 
+a. Access notch b. Write-protect notch c. Entry notch d. Input notch 
+ 
+168. A modem is connected to 
+a. a telephone line b. a keyboard c. a printer d. a monitor 
+ 
+169. Large transaction processing systems in automated organisations use 
+a. Online processing b. Batch Processing  
+c. Once-a-day Processing d. End-of-day processing 
+ 
+170. In a computer, most processing takes place in 
+a. Memory b. RAM c. motherboard d. CPU 
+ 
+171. . Which of the following is not a storage medium? 
+a. Hard disk b. Flash drive c. DVD d. scanner 
+ 
+172. The computer abbreviation KB usually means 
+a. Key Block b. Kernel Boot c. Kilo Byte d. Kit Bit 
+ 
+173. The typical computer criminal is a(n): 
+a. Young hacker. 
+b. Trusted employee with no criminal record. 
+c. Trusted employee with a long, but unknown criminal record. 
+d. Overseas young cracker. 
+ 
+174. The common name for the crime of stealing passwords is: 
+a. Jacking. b. Identity theft. c. Spoofing. d. Hacking. 
+
+================================================================================
+PAGE 45
+================================================================================
+ 
+197 
+ 175. Collecting personal information and effectively posing as another individual is knownas 
+the crime of: 
+a. Spooling. b. Identity theft. c. Spoofing. d. Hacking.  
+ 
+176. Malicious software is known as: 
+a. Badware. b. Malware. c. Maliciousware. d. Illegalware. 
+ 
+177. A program that performs a useful task while simultaneously allowing destructive acts is 
+a. Worm. b. Trojan horse.c. Virus. d. Macro virus. 
+ 
+178. An intentionally disruptive program that spreads from program to program or from 
+diskto disk is known as a: 
+a. Trojan horse. b. Virus. c. Time bomb. d. Time-related bomb sequence. 
+ 
+179. In 1999, the Melissa virus was a widely publicized: 
+a. E-mail virus. b. Macro virus.c. Trojan horse. d. Time bomb. 
+ 
+180. What type of virus uses computer hosts to reproduce itself? 
+a. Time bomb b. Worm c. Melissa virus d. Macro virus 
+ 
+181. The thing that eventually terminates a worm virus is a lack of: 
+a. Memory or disk space. b. Time. c. CD drives space. d. CD-RW. 
+ 
+182. When a logic bomb is activated by a time-related event, it is known as a: 
+a. Time-related bomb sequence. b. Virus. c. Time bomb. d. Trojan horse. 
+ 
+183. A logic bomb that was created to erupt on Michelangelo‘s birthday is an example of  
+a. Time-related bomb sequence. b. Virus. c. Time bomb. d. Trojan horse. 
+ 
+184. What is the name of an application program that gathers user information and sends 
+itto someone through the Internet? 
+a. A virus b. Spybot c. Logic bomb d. Security patch 
+ 
+185. ------ is the measurement of things such as fingerprints and retinal scans used for 
+security access. 
+a. Biometrics b. Bio measurement c. Computer security d. Smart weapon machinery 
+ 
+186. What is the most common tool used to restrict access to a computer system? 
+a. User logins b. Passwords b. Computer keys d. Access-control software 
+ 
+187. Hardware or software designed to guard against unauthorized access to a 
+computernetwork is known as a(n): 
+a. Hacker-proof program. b. Firewall. c. Hacker-resistant server. d. Encryption safe wall. 
+ 
+188. The scrambling of code is known as: 
+a. Encryption. b. a firewall. c. Scrambling. d. Password proofing. 
+ 
+189. To prevent the loss of data during power failures, use a(n): 
+a. Encryption program. b. Surge protector. c. Firewall. d. UPS. 
+ 
+190. ------Is defined as any crime completed through the use of computer technology. 
+a. Computer forensics b. Computer crime c. Hacking d. Cracking 
+
+================================================================================
+PAGE 46
+================================================================================
+ 
+198 
+ 191. ------ refers to electronic trespassing or criminal hacking. 
+a. Cracking b. Jacking c. Spoofing d. Smarming 
+ 
+192. The first electronic computer was developed by 
+a. J.V. Attansoff b. Bill Gates c. Simur Cray d. Winton Serf 
+ 
+193. Snowbol is an/a---------  
+a. Operating system b. HLL c. Software d. Search engine 
+ 
+194. Switching device of fifth generation computer is-------- 
+a. Vacuum tubes b. Transistors c. IC d. VLSI 
+ 
+195. ---------- computers operates essentially by counting 
+a. Portable computer b. Hybrid computer c. Analog computer d. Digital computer 
+ 
+196. ---------- computer is small general purpose micro computer, but larger than portable 
+computer 
+a. Hybrid b. Digital c. Desktop d. Laptop 
+ 
+197. Cathode Ray Tube is a form of....... 
+a. Keyboard b. Mouse c. Monitor d. Mother board 
+ 
+198. Trackball is a........... 
+a. Input device b. Output device c. Programming language d. Software 
+ 
+199. ............. computer is a medium sized computer 
+a. Micro b. Mainframe c. Super d. Mini 
+ 
+200. ........... computer are of large size 
+a. Micro b. Mainframe c. Super d. Mini 
+ 
+ANSWER KEY 
+Sr. No Ans Sr No.  Ans Sr No.  Ans Sr No.  Ans Sr No.  Ans 
+1.  A 2.  B 3.  B 4.  A 5.  A 
+6.  C 7.  A 8.  B 9.  A 10.  B 
+11.  A 12.  B 13.  A 14.  B 15.  B 
+16.  A 17.  A 18.  A 19.  A 20.  B 
+21.  A 22.  D 23.  B 24.  A 25.  A 
+26.  D 27.  A 28.  A 29.  B 30.  C 
+31.  C 32.  B 33.  A 34.  D 35.  A 
+36.  B 37.  B 38.  D 39.  A 40.  B 
+41.  B 42.  C 43.  D 44.  C 45.  B 
+
+================================================================================
+PAGE 47
+================================================================================
+ 
+199 
+ 46.  B 47.  D 48.  B 49.  C 50.  D 
+51.  B 52.  A 53.  C 54.  A 55.  B 
+56.  C 57.  C 58.  B 59.  A 60.  D 
+61.  A 62.  B 63.  B 64.  C 65.  C 
+66.  A 67.  C 68.  D 69.  D 70.  D 
+71.  C 72.  B 73.  B 74.  A 75.  B 
+76.  D 77.  C 78.  A 79.  D 80.  B 
+81.  D 82.  B 83.  A 84.  A 85.  B 
+86.  D 87.  D 88.  B 89.  C 90.  B 
+91.  C 92.  A 93.  D 94.  A 95.  A 
+96.  A 97.  C 98.  A 99.  A 100. A 
+101. B 102. C 103. C 104. D 105. C 
+106. D 107. A 108. C 109. D 110. A 
+111. B 112. B 113. B 114. C 115. C 
+116. C 117. C 118. B 119. B 120. A 
+121. A 122. C 123. B 124. A 125. A 
+126. A 127. B 128. A 129. A 130. A 
+131. B 132. C 133. B 134. B 135. D 
+136. B 137. B 138. C 139. C 140. A 
+141. B 142. C 143. A 144. C 145. A 
+146. D 147. C 148. D 149. B 150. D 
+151. A 152. C 153. B 154. A 155. B 
+156. B 157. B 158. D 159. C 160. D 
+161. B 162. D 163. C 164. B 165. D 
+166. D 167. B 168. A 169. B 170. D 
+171. D 172. C 173. B 174. C 175. B 
+176. B 177. B 178. B 179. A 180. B 
+
+================================================================================
+PAGE 48
+================================================================================
+ 
+200 
+ 181. A 182. C 183. C 184. B 185. A 
+186. B 187. B 188. A 189. D 190. B 
+191. A 192. A 193. B 194. D 195. D 
+196. C 197. C 198. A 199. D 200. B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

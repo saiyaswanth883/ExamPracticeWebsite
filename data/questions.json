@@ -1,0 +1,1460 @@
+{
+  "files": [
+    {
+      "id": "computer1",
+      "name": "Computer (1)",
+      "exercises": [
+        {
+          "id": 1,
+          "name": "Exercise 1",
+          "questions": [
+            {
+              "id": 1,
+              "number": 1,
+              "question": "UNIVAC is",
+              "options": [
+                "Universal Automatic Computer",
+                "Universal Array Computer",
+                "Unique Automatic Computer",
+                "Unvalued Automatic Computer"
+              ],
+              "correctAnswer": 1
+            },
+            {
+              "id": 2,
+              "number": 2,
+              "question": "The basic operations performed by a computer are",
+              "options": [
+                "Arithmetic operation",
+                "Logical operation",
+                "Storage and relative",
+                "All the above"
+              ],
+              "correctAnswer": 3
+            },
+            {
+              "id": 3,
+              "number": 3,
+              "question": "The two major types of computer chips are",
+              "options": [
+                "External memory chip",
+                "Primary memory chip",
+                "Microprocessor chip",
+                "Both b and c"
+              ],
+              "correctAnswer": 3
+            },
+            {
+              "id": 4,
+              "number": 4,
+              "question": "Microprocessors as switching devices are for which generation computers",
+              "options": [
+                "First Generation",
+                "Second Generation",
+                "Third Gen eration",
+                "Fourth Generation"
+              ],
+              "correctAnswer": 0
+            },
+            {
+              "id": 5,
+              "number": 5,
+              "question": "What is the main difference between a mainframe and a supercomputer ?",
+              "options": [
+                "Supercomputer  is much larger than mainframe computers",
+                "Super computers are much smaller than mainframe computers",
+                "Supercomputers are focused to execute few programs as fast as possible while",
+                "Supercomputers are focused to execute as many progr ams as possible while"
+              ],
+              "correctAnswer": 1
+            },
+            {
+              "id": 6,
+              "number": 6,
+              "question": "ASCII and EBCDIC are the popular character coding systems. What does EBCDIC",
+              "options": [
+                "Extended Binary Coded Decimal Interchange Code",
+                "Extended Bit Code D ecimal Interchange Code",
+                "Extended Bit Case Decimal Interchange Code",
+                "Extended Binary Case Decimal Interchange Code"
+              ],
+              "correctAnswer": 2
+            },
+            {
+              "id": 7,
+              "number": 7,
+              "question": "The brain of any computer system is",
+              "options": [
+                "ALU",
+                "Memory",
+                "CPU",
+                "Control unit"
+              ],
+              "correctAnswer": 1
+            },
+            {
+              "id": 8,
+              "number": 8,
+              "question": "Storage capacity of magnetic disk depends on",
+              "options": [
+                "tracks per inch of surface",
+                "bits per inch of tracks",
+                "disk pack in disk surface",
+                "All above"
+              ],
+              "correctAnswer": 0
+            },
+            {
+              "id": 9,
+              "number": 9,
+              "question": "The two kinds of main memory are:",
+              "options": [
+                "Primary and secondary",
+                "Random and sequential",
+                "ROM and RAM",
+                "All abov e"
+              ],
+              "correctAnswer": 1
+            },
+            {
+              "id": 10,
+              "number": 10,
+              "question": "A storage area used to store data to a compensate for the difference in speed at",
+              "options": [
+                "Memory",
+                "Buffer",
+                "Accumulator",
+                "Address"
+              ],
+              "correctAnswer": 3
+            },
+            {
+              "id": 11,
+              "number": 11,
+              "question": "Computer is free from tiresome and boardroom. We call it",
+              "options": [
+                "Accuracy",
+                "Relia bility",
+                "Diligence",
+                "Versatility"
+              ],
+              "correctAnswer": 0
+            },
+            {
+              "id": 12,
+              "number": 12,
+              "question": "Integrated Circuits (ICs) are related to which generation of computers?",
+              "options": [
+                "First generation",
+                "Second generation",
+                "Third generation",
+                "Fourth generation"
+              ],
+              "correctAnswer": 1
+            },
+            {
+              "id": 13,
+              "number": 13,
+              "question": "CD -ROM is a",
+              "options": [
+                "Semiconductor memory",
+                "Memory register",
+                "Magnetic memory",
+                "None of above"
+              ],
+              "correctAnswer": 2
+            },
+            {
+              "id": 14,
+              "number": 14,
+              "question": "A hybrid computer",
+              "options": [
+                "Resembles digital computer",
+                "Resembles analogue computer",
+                "Resembles both a digital and analogue computer",
+                "None of the above"
+              ],
+              "correctAnswer": 0
+            },
+            {
+              "id": 15,
+              "number": 15,
+              "question": "Which type of computers uses the 8 -bit code called EBCDIC?",
+              "options": [
+                "Minicomputers",
+                "Microcomputers",
+                "Mainframe computers",
+                "Supercomputer"
+              ],
+              "correctAnswer": 2
+            },
+            {
+              "id": 16,
+              "number": 16,
+              "question": "The ALU of a computer responds to the commands coming from",
+              "options": [
+                "Primary memory",
+                "Control section",
+                "External memory",
+                "Cache memory"
+              ],
+              "correctAnswer": 1
+            },
+            {
+              "id": 17,
+              "number": 17,
+              "question": "Chief component of first-generation  computer was",
+              "options": [
+                "Transistors",
+                "Vacuum Tubes and Valves",
+                "Integrated Circuits",
+                "None of above"
+              ],
+              "correctAnswer": 0
+            },
+            {
+              "id": 18,
+              "number": 18,
+              "question": "To produce high quality graphics (hardcopy) in color, you would want to use",
+              "options": [
+                "RGB monitor",
+                "Plotter",
+                "Ink-jet printer",
+                "Laser printer"
+              ],
+              "correctAnswer": 0
+            },
+            {
+              "id": 19,
+              "number": 19,
+              "question": "What are the stages in the compilation process?",
+              "options": [
+                "Feasibility study, system design and testing",
+                "Implementation and documentation",
+                "Lexical Analysis, syntax analysis, and code generation",
+                "None of the above"
+              ],
+              "correctAnswer": 2
+            },
+            {
+              "id": 20,
+              "number": 20,
+              "question": "Which of the following IC was used in third generation of computers?  A) SSI",
+              "options": [
+                "MSI",
+                "LSI",
+                "Both a and b"
+              ],
+              "correctAnswer": 3
+            },
+            {
+              "id": 21,
+              "number": 21,
+              "question": "The main electronic component used in first generation computers was",
+              "options": [
+                "Transistors",
+                "Vacuum Tubes and Valves",
+                "Integrated Circuits",
+                "None of above"
+              ],
+              "correctAnswer": 1
+            },
+            {
+              "id": 22,
+              "number": 22,
+              "question": "A dumb terminal has",
+              "options": [
+                "an embedded microprocessor",
+                "extensive memory",
+                "independent processing capability",
+                "a keyboard and screen"
+              ],
+              "correctAnswer": 0
+            },
+            {
+              "id": 23,
+              "number": 23,
+              "question": "One millisecond is",
+              "options": [
+                "1 second",
+                "10th of a second",
+                "1000th of a second",
+                "10000th of a second"
+              ],
+              "correctAnswer": 0
+            },
+            {
+              "id": 24,
+              "number": 24,
+              "question": "The output quality of a printer is measured by",
+              "options": [
+                "Dot per sq. inch",
+                "Dot per inch",
+                "Dots printed per unit time",
+                "All the above"
+              ],
+              "correctAnswer": 2
+            },
+            {
+              "id": 25,
+              "number": 25,
+              "question": "Which of the following was a special purpose computer?",
+              "options": [
+                "ABC",
+                "ENIAC",
+                "EDVAC",
+                "All the above"
+              ],
+              "correctAnswer": 1
+            }
+          ],
+          "totalQuestions": 25
+        },
+        {
+          "id": 2,
+          "name": "Exercise 2",
+          "questions": [
+            {
+              "id": 26,
+              "number": 26,
+              "question": "What was the computer invented by Attanasoff and Clifford?",
+              "options": [
+                "Mark I",
+                "ABC",
+                "Z3",
+                "None of above"
+              ],
+              "correctAnswer": 2
+            },
+            {
+              "id": 27,
+              "number": 27,
+              "question": "Which of the following storage devices can store maximum amount of data?  A)",
+              "options": [
+                "Hard Disk",
+                "Compact Disk",
+                "Magneto Optic Disk"
+              ],
+              "correctAnswer": 1
+            },
+            {
+              "id": 28,
+              "number": 28,
+              "question": "Which computer was considered the first electronic computer until 1973 when",
+              "options": [
+                "ENIAC",
+                "MARK I",
+                "Z3",
+                "ABC"
+              ],
+              "correctAnswer": 3
+            },
+            {
+              "id": 29,
+              "number": 29,
+              "question": "A physical connection between the microprocessor memory and other parts of the",
+              "options": [
+                "Path",
+                "Address bus",
+                "Route",
+                "All the above"
+              ],
+              "correctAnswer": 0
+            },
+            {
+              "id": 30,
+              "number": 30,
+              "question": "High density double sided floppy disks could store _____ of data",
+              "options": [
+                "1.40 MB",
+                "1.44 GB",
+                "1.40 GB",
+                "1.44 MB"
+              ],
+              "correctAnswer": 0
+            },
+            {
+              "id": 31,
+              "number": 31,
+              "question": "A high quality CAD system uses the following for printing drawing and graphs A)",
+              "options": [
+                "Digital plotter",
+                "Line printer",
+                "All the above"
+              ],
+              "correctAnswer": 1
+            },
+            {
+              "id": 32,
+              "number": 32,
+              "question": "Which of the following is not an input device?",
+              "options": [
+                "OCR",
+                "Optical scanners",
+                "Voice recognition device",
+                "COM (Computer Output to Microfilm)"
+              ],
+              "correctAnswer": 3
+            },
+            {
+              "id": 33,
+              "number": 33,
+              "question": "The accuracy of the floating -point numbers representable in two 16 -bit word s of a",
+              "options": [
+                "16 digits",
+                "6 digits",
+                "9 digits",
+                "All above"
+              ],
+              "correctAnswer": 2
+            },
+            {
+              "id": 34,
+              "number": 34,
+              "question": "In most of the IBM PCs, the CPU, the device drivers, memory, expansion slots and",
+              "options": [
+                "Daughterboard",
+                "Bredboard",
+                "Fatherboard"
+              ],
+              "correctAnswer": 0
+            },
+            {
+              "id": 35,
+              "number": 35,
+              "question": "In most IBM PCs, the CPU, th e device drives, memory expansion slots and active",
+              "options": [
+                "Breadboard",
+                "Daughter board",
+                "Grandmother board"
+              ],
+              "correctAnswer": 2
+            },
+            {
+              "id": 36,
+              "number": 36,
+              "question": "Magnetic disks are the most popular medium for",
+              "options": [
+                "Direct access",
+                "Sequential access",
+                "Both of above",
+                "None of above"
+              ],
+              "correctAnswer": 3
+            },
+            {
+              "id": 37,
+              "number": 37,
+              "question": "A technique used by codes to convert an analog signal into a digital bit stream is",
+              "options": [
+                "Pulse code modulation",
+                "Pulse stretcher",
+                "Query processing",
+                "Queue management"
+              ],
+              "correctAnswer": 1
+            },
+            {
+              "id": 38,
+              "number": 38,
+              "question": "R egarding a VDU, Which statement is more correct?",
+              "options": [
+                "It is an output device",
+                "It is an input device",
+                "It is a peripheral device",
+                "It is hardware item"
+              ],
+              "correctAnswer": 3
+            },
+            {
+              "id": 39,
+              "number": 39,
+              "question": "A modern electronic computer is a machine that is meant for",
+              "options": [
+                "Doing quick mathematical calculations",
+                "Input, storage, manipulation and outputting of data",
+                "Electronic data processing",
+                "Performing repetitive tasks accurately"
+              ],
+              "correctAnswer": 0
+            },
+            {
+              "id": 40,
+              "number": 40,
+              "question": "When was vacuum tube invented?",
+              "options": [
+                "1900",
+                "1906",
+                "1910",
+                "1880"
+              ],
+              "correctAnswer": 2
+            },
+            {
+              "id": 41,
+              "number": 41,
+              "question": "Which of the following produces the best quality graphics reproduction?",
+              "options": [
+                "Laser printer",
+                "Ink jet printer",
+                "Plotter",
+                "Dot matrix printer"
+              ],
+              "correctAnswer": 3
+            },
+            {
+              "id": 42,
+              "number": 42,
+              "question": "Computers with 80286 microprocessors  is",
+              "options": [
+                "XT computer",
+                "AT computers",
+                "PS/2 computer",
+                "None of above"
+              ],
+              "correctAnswer": 2
+            },
+            {
+              "id": 43,
+              "number": 43,
+              "question": "An application suitable for sequential processing is",
+              "options": [
+                "Processing of grades",
+                "Payroll processing",
+                "Both a and b",
+                "All above"
+              ],
+              "correctAnswer": 1
+            },
+            {
+              "id": 44,
+              "number": 44,
+              "question": "Which of the following is not processing?",
+              "options": [
+                "arranging",
+                "manipulating",
+                "calculating",
+                "gathering"
+              ],
+              "correctAnswer": 0
+            },
+            {
+              "id": 45,
+              "number": 45,
+              "question": "The digital computer was developed primarily in",
+              "options": [
+                "USSR",
+                "Japan",
+                "USA",
+                "UK"
+              ],
+              "correctAnswer": 1
+            },
+            {
+              "id": 46,
+              "number": 46,
+              "question": "Software in computer",
+              "options": [
+                "Enhances the capabilities of the hardware machine",
+                "Increase the speed of central processing unit",
+                "Both of above",
+                "None of above"
+              ],
+              "correctAnswer": 3
+            },
+            {
+              "id": 47,
+              "number": 47,
+              "question": "Today’s computer giant IBM was earlier known by different name which was",
+              "options": [
+                "Computing Tabulating Recording Co.",
+                "The Tabulator Ltd.",
+                "International Computer Ltd."
+              ],
+              "correctAnswer": 1
+            },
+            {
+              "id": 48,
+              "number": 48,
+              "question": "Before a disk drive can access any sector record, a computer program must  provide",
+              "options": [
+                "Track number",
+                "Sector number",
+                "Surface number",
+                "All above"
+              ],
+              "correctAnswer": 0
+            },
+            {
+              "id": 49,
+              "number": 49,
+              "question": "The arranging of data in a logical sequence is called",
+              "options": [
+                "Sorting",
+                "Classifying",
+                "Reproducing",
+                "Summarizing"
+              ],
+              "correctAnswer": 3
+            },
+            {
+              "id": 50,
+              "number": 50,
+              "question": "What is the responsibility of the logical unit in the CPU of a computer?",
+              "options": [
+                "To produce result",
+                "To compare numbers",
+                "To control flow of information",
+                "To do math’s works"
+              ],
+              "correctAnswer": 1
+            }
+          ],
+          "totalQuestions": 25
+        },
+        {
+          "id": 3,
+          "name": "Exercise 3",
+          "questions": [
+            {
+              "id": 51,
+              "number": 51,
+              "question": "Abacus was the first",
+              "options": [
+                "electronic computer",
+                "mechanical comput er",
+                "electronic calculator",
+                "mechanical calculator"
+              ],
+              "correctAnswer": 3
+            },
+            {
+              "id": 52,
+              "number": 52,
+              "question": "If in a computer, 16 bits are used to specify address in a RAM, the number of",
+              "options": [
+                "216",
+                "65,536",
+                "64K",
+                "Any of the above"
+              ],
+              "correctAnswer": 0
+            },
+            {
+              "id": 53,
+              "number": 53,
+              "question": "Instructions and memory address are represented by",
+              "options": [
+                "Character code",
+                "Binary codes",
+                "Binary word",
+                "Parity bit"
+              ],
+              "correctAnswer": 1
+            },
+            {
+              "id": 54,
+              "number": 54,
+              "question": "The terminal device that functions as a cash register, computer terminal, and OCR",
+              "options": [
+                "Data collection terminal",
+                "OCR regi ster terminal",
+                "Video Display terminal",
+                "POS terminal"
+              ],
+              "correctAnswer": 2
+            },
+            {
+              "id": 55,
+              "number": 55,
+              "question": "A set of flip flops integrated together is called ____",
+              "options": [
+                "Counter",
+                "Adder",
+                "Register",
+                "None of the above"
+              ],
+              "correctAnswer": 2
+            },
+            {
+              "id": 56,
+              "number": 56,
+              "question": "People often call ______ as the brain of computer system",
+              "options": [
+                "Control Unit",
+                "Arithmetic Logic Unit",
+                "Central Processing Unit",
+                "Storage Unit"
+              ],
+              "correctAnswer": 0
+            },
+            {
+              "id": 57,
+              "number": 57,
+              "question": "Which is used for manufacturing chips?",
+              "options": [
+                "Bus",
+                "Control unit",
+                "Semiconductors",
+                "A and b only"
+              ],
+              "correctAnswer": 3
+            },
+            {
+              "id": 58,
+              "number": 58,
+              "question": "The value of each bead in heaven is",
+              "options": [
+                "1",
+                "3",
+                "5",
+                "7"
+              ],
+              "correctAnswer": 0
+            },
+            {
+              "id": 59,
+              "number": 59,
+              "question": "The first computer introduced in Nepal was",
+              "options": [
+                "IBM 1400",
+                "IBM 1401",
+                "IBM 1402",
+                "IBM1402"
+              ],
+              "correctAnswer": 0
+            },
+            {
+              "id": 60,
+              "number": 60,
+              "question": "Mnemonic a memory trick is used in which of the following language?",
+              "options": [
+                "Machine language",
+                "Assembly language",
+                "High level language",
+                "None of above"
+              ],
+              "correctAnswer": 3
+            },
+            {
+              "id": 61,
+              "number": 61,
+              "question": "Instruction in computer languages consists of",
+              "options": [
+                "OPCODE",
+                "OPERAND",
+                "Both of above",
+                "None of above"
+              ],
+              "correctAnswer": 1
+            },
+            {
+              "id": 62,
+              "number": 62,
+              "question": "Which generation of computer is still under development",
+              "options": [
+                "Fourth Generation",
+                "Fifth Generation",
+                "Sixth Generation",
+                "Seventh Generation"
+              ],
+              "correctAnswer": 1
+            },
+            {
+              "id": 63,
+              "number": 63,
+              "question": "A register organized to allow to move left or right operations is called a ___ _ A)",
+              "options": [
+                "Loader",
+                "Adder",
+                "Shift register"
+              ],
+              "correctAnswer": 3
+            },
+            {
+              "id": 64,
+              "number": 64,
+              "question": "Which was the most popular first-generation  computer?",
+              "options": [
+                "IBM 650",
+                "IBM 360",
+                "IBM 1130",
+                "IBM 2700"
+              ],
+              "correctAnswer": 0
+            },
+            {
+              "id": 65,
+              "number": 65,
+              "question": "Which is considered a direct entry input device?",
+              "options": [
+                "Optical scanner",
+                "Mouse and digitizer",
+                "Light pen",
+                "All the above"
+              ],
+              "correctAnswer": 1
+            },
+            {
+              "id": 66,
+              "number": 66,
+              "question": "A set of information that defines the status of resources allocated to a process is",
+              "options": [
+                "Process control",
+                "ALU",
+                "Register Unit",
+                "Process description"
+              ],
+              "correctAnswer": 2
+            },
+            {
+              "id": 67,
+              "number": 67,
+              "question": "Each set of Napier’s bones consisted of ______ rods.",
+              "options": [
+                "5",
+                "9",
+                "11",
+                "D) 13"
+              ],
+              "correctAnswer": 2
+            },
+            {
+              "id": 68,
+              "number": 68,
+              "question": "BCD is",
+              "options": [
+                "Binary Coded Decimal",
+                "Bit Coded Decimal",
+                "Binary Coded Digit",
+                "Bit Coded Digit"
+              ],
+              "correctAnswer": 0
+            },
+            {
+              "id": 69,
+              "number": 69,
+              "question": "When was the world’s first laptop computer introduced in the market and b y",
+              "options": [
+                "Hewlett -Packard, 1980",
+                "Epson, 1981",
+                "Laplink Traveling Software Inc, 1982",
+                "Tandy Model -200, 1985"
+              ],
+              "correctAnswer": 2
+            },
+            {
+              "id": 70,
+              "number": 70,
+              "question": "From which generation operating systems were developed?",
+              "options": [
+                "First",
+                "Second",
+                "Third",
+                "Fourth"
+              ],
+              "correctAnswer": 2
+            },
+            {
+              "id": 71,
+              "number": 71,
+              "question": "The first firm to mass -market a microcomputer as a personal computer was A) IBM",
+              "options": [
+                "Super UNIVAC",
+                "Radio Shaks",
+                "Data General Corporation"
+              ],
+              "correctAnswer": 1
+            },
+            {
+              "id": 72,
+              "number": 72,
+              "question": "How many address lines are needed to address each machine location in a 2048 x",
+              "options": [
+                "10",
+                "11",
+                "8",
+                "12"
+              ],
+              "correctAnswer": 0
+            },
+            {
+              "id": 73,
+              "number": 73,
+              "question": "Properly arranged data is called",
+              "options": [
+                "Field",
+                "Words",
+                "Information",
+                "File"
+              ],
+              "correctAnswer": 2
+            },
+            {
+              "id": 74,
+              "number": 74,
+              "question": "A computer consists of",
+              "options": [
+                "A central processing unit",
+                "A memory",
+                "Input and output unit",
+                "All the above"
+              ],
+              "correctAnswer": 3
+            },
+            {
+              "id": 75,
+              "number": 75,
+              "question": "Why are vacuum tubes also called valves?",
+              "options": [
+                "Because they can amplify the weak signals and make them strong",
+                "Because they can stop or allow the flow of current",
+                "Both of ab ove",
+                "None of above"
+              ],
+              "correctAnswer": 1
+            }
+          ],
+          "totalQuestions": 25
+        }
+      ]
+    },
+    {
+      "id": "computer",
+      "name": "Computer",
+      "exercises": [
+        {
+          "id": 1,
+          "name": "Exercise 1",
+          "questions": [
+            {
+              "id": "computer_12",
+              "number": 12,
+              "question": "Duplication & distribution of copyrighted software is called as ______",
+              "correctAnswer": 0,
+              "options": [
+                "Copy right b)  Distribution",
+                "Licensing d)  Piracy",
+                "Deleted folder b)  Junk",
+                "Recycle Bin d)  No where"
+              ]
+            },
+            {
+              "id": "computer_52",
+              "number": 52,
+              "question": "A computer that you can access only by using a communications line",
+              "correctAnswer": 0,
+              "options": [
+                "Super Computer b)  Remote Computer",
+                "Network computer d)  Peripheral",
+                "Ting b)  Ping",
+                "Zing d)  String"
+              ]
+            },
+            {
+              "id": "computer_65",
+              "number": 65,
+              "question": "The Information Technology Act, 2000 does not provide for",
+              "correctAnswer": 0,
+              "options": [
+                "legal recognition for transactions carried out by electronically",
+                "retention of documents in electronic form",
+                "filing and submission of documents with Govt. agencies",
+                "purchase of immovable properties online"
+              ]
+            },
+            {
+              "id": "computer_2",
+              "number": 2,
+              "question": "Who is VPIS custodian ?",
+              "correctAnswer": 0,
+              "options": [
+                "Who is VPIS custodian ?",
+                "Who operates Cash in the chest",
+                "Who attends ‘P’ review meetings",
+                "Who hands over/receives security form to/from SWO"
+              ]
+            },
+            {
+              "id": "computer_14",
+              "number": 14,
+              "question": "What is a cash drawer in CBS",
+              "correctAnswer": 0,
+              "options": [
+                "It is a wooden drawer provided to SWO to keep cash",
+                "It is a special drawer kept in strong room for day to day operation",
+                "Logical version of physical cash drawer  maintained by system in  CBS",
+                "None of these"
+              ]
+            },
+            {
+              "id": "computer_24",
+              "number": 24,
+              "question": "What is cheque truncation system",
+              "correctAnswer": 0,
+              "options": [
+                "To keep all cheques in a box",
+                "A special courier system for dispatch of cheques",
+                "To return the cheques to customers after processing",
+                "Processing of cheques on the basis of electronic image"
+              ]
+            },
+            {
+              "id": "computer_11",
+              "number": 11,
+              "question": "Which of the following statements is true ?",
+              "correctAnswer": 0,
+              "options": [
+                "Minicomputer works faster than Microcomputer",
+                "Microcomputer works faster than Minicomputer",
+                "Speed of both the computers is the same",
+                "The speeds of both these computers cannot be compared with the speed of advanced"
+              ]
+            },
+            {
+              "id": "computer_25",
+              "number": 25,
+              "question": "EBCDIC stands for",
+              "correctAnswer": 0,
+              "options": [
+                "Extended Binary Coded Decimal Interchange Code",
+                "Extended Bit Code Decimal Interchange Code",
+                "Extended Bit Case Decimal Interchange Code",
+                "Extended Binary Case Decimal Interchange Code"
+              ]
+            },
+            {
+              "id": "computer_29",
+              "number": 29,
+              "question": "Hackers",
+              "correctAnswer": 0,
+              "options": [
+                "all have the same motive",
+                "break into other people's computers",
+                "may legally break into computers as long as they do not do any damage",
+                "are people who are allergic to computers"
+              ]
+            },
+            {
+              "id": "computer_34",
+              "number": 34,
+              "question": "What is embedded system?",
+              "correctAnswer": 0,
+              "options": [
+                "The programme which arrives by being wrapped in box.",
+                "The programme which is the permanent part of the computer",
+                "The computer which is the part of a big computer",
+                "The computer and software system that control the machine"
+              ]
+            },
+            {
+              "id": "computer_37",
+              "number": 37,
+              "question": "When a file is saved for the first time",
+              "correctAnswer": 0,
+              "options": [
+                "a copy is automatically printed",
+                "it must be given a name to identify it",
+                "it does not need a name",
+                "it only needs a name if it is not going to be printed"
+              ]
+            },
+            {
+              "id": "computer_41",
+              "number": 41,
+              "question": "What characteristic of read-only memory (ROM) makes it useful?",
+              "correctAnswer": 0,
+              "options": [
+                "ROM information can be easily updated.",
+                "Data in ROM is non-volatile, that is, it remains there even without electrical power.",
+                "ROM provides very large amounts of inexpensive data storage.",
+                "ROM chips are easily swapped between different brands of computers."
+              ]
+            },
+            {
+              "id": "computer_53",
+              "number": 53,
+              "question": "ASCII stands for",
+              "correctAnswer": 0,
+              "options": [
+                "American Stable Code for International Interchange",
+                "American Standard Case for Institutional Interchange",
+                "American Standard Code for Information Interchange",
+                "American Standard Code for Interchange Information"
+              ]
+            },
+            {
+              "id": "computer_57",
+              "number": 57,
+              "question": "EEPROM stands for",
+              "correctAnswer": 0,
+              "options": [
+                "Electrically Erasable Programmable Read Only Memory",
+                "Easily Erasable Programmable Read Only Memory",
+                "Electronic Erasable Programmable Read Only Memory",
+                "None of the above"
+              ]
+            },
+            {
+              "id": "computer_147",
+              "number": 147,
+              "question": "Why is it unethical to share copyrighted files with your friends?",
+              "correctAnswer": 0,
+              "options": [
+                "It is not unethical, because it is legal.",
+                "It is unethical because the files are being given for free.",
+                "Sharing copyrighted files without permission breaks copyright laws.",
+                "It is not unethical because the files are being given for free."
+              ]
+            },
+            {
+              "id": "computer_173",
+              "number": 173,
+              "question": "The typical computer criminal is a(n):",
+              "correctAnswer": 0,
+              "options": [
+                "Young hacker.",
+                "Trusted employee with no criminal record.",
+                "Trusted employee with a long, but unknown criminal record.",
+                "Overseas young cracker."
+              ]
+            }
+          ],
+          "totalQuestions": 16
+        }
+      ]
+    },
+    {
+      "id": "general",
+      "name": "General",
+      "exercises": [
+        {
+          "id": 1,
+          "name": "Exercise 1",
+          "questions": [
+            {
+              "id": "general_28",
+              "number": 28,
+              "question": "What to do if an account holder does not wish to give a nomination?",
+              "correctAnswer": 0,
+              "options": [
+                "Should be recorded on the account opening form under full authentication",
+                "Need not be recorded any where",
+                "Should be obtained as a declaration in a separate letter",
+                "None of the above"
+              ]
+            },
+            {
+              "id": "general_10",
+              "number": 10,
+              "question": "Government commission payable to banks for  centralGovt.pension",
+              "correctAnswer": 0,
+              "options": [
+                "Rs.45 per transaction b) Rs.50 per transaction",
+                "Rs.75  per transaction d) 11.80 Paise per Rs.100 transaction",
+                "Rs.10000",
+                "Rs.50000"
+              ]
+            },
+            {
+              "id": "general_1",
+              "number": 1,
+              "question": "The payment of interest in SB accounts is subject to directive issued by –",
+              "correctAnswer": 0,
+              "options": [
+                "The payment of interest in SB accounts is subject to directive issued by –",
+                "Respective Banks",
+                "Indian Banks’ Association",
+                "Reserve Bank of India"
+              ]
+            },
+            {
+              "id": "general_3",
+              "number": 3,
+              "question": "What is OMP in YONO app?",
+              "correctAnswer": 0,
+              "options": [
+                "What is OMP in YONO app?",
+                "Online Market Place",
+                "One time money Payment",
+                "Only Money Payments"
+              ]
+            },
+            {
+              "id": "general_9",
+              "number": 9,
+              "question": "Passbooks surrendered overnight will have to be collected by the depositor within a",
+              "correctAnswer": 0,
+              "options": [
+                "write to customer to come and collect the passbook",
+                "Retain the passbook in safe custody",
+                "Dispatch the passbook to the customer by Registered AD post at his costs.",
+                "None of the above."
+              ]
+            },
+            {
+              "id": "general_2",
+              "number": 2,
+              "question": "The signature of the drawer on the cheque/withdrawal form is cancelled",
+              "correctAnswer": 0,
+              "options": [
+                "The signature of the drawer on the cheque/withdrawal form is cancelled",
+                "To avoid the risk of double payment",
+                "To indicate that the payment has been finally and irrevocably made",
+                "Not to reproduce the instrument by unscrupulous people"
+              ]
+            },
+            {
+              "id": "general_4",
+              "number": 4,
+              "question": "A genuine Rs.500/- new bank note features are",
+              "correctAnswer": 0,
+              "options": [
+                "A genuine Rs.500/- new bank note features are",
+                "The note has motif of Red Fort",
+                "The base colour of the note is Green",
+                "The signature of the Governor RBI"
+              ]
+            },
+            {
+              "id": "general_8",
+              "number": 8,
+              "question": "When the IBCH box can be opened with duplicate keys ?",
+              "correctAnswer": 0,
+              "options": [
+                "When SWO is on Casual Leave",
+                "When SWO is on Medical Leave",
+                "When SWO is on privilege leave",
+                "When SWO is on unauthorized absence."
+              ]
+            },
+            {
+              "id": "general_10",
+              "number": 10,
+              "question": "Customer relation programme should be conducted",
+              "correctAnswer": 0,
+              "options": [
+                "Every Month",
+                "Every quarter",
+                "Every year",
+                "Every month where staff strength is 100 or more and at quarterly intervals where staff"
+              ]
+            },
+            {
+              "id": "general_11",
+              "number": 11,
+              "question": "Customer call means-",
+              "correctAnswer": 0,
+              "options": [
+                "Customer coming to the branch",
+                "Staff visiting the customer",
+                "BM/MOD of the branch will call on the customer at their place of work/residence",
+                "None of the above"
+              ]
+            },
+            {
+              "id": "general_12",
+              "number": 12,
+              "question": "Customer Meet means",
+              "correctAnswer": 0,
+              "options": [
+                "Meeting all the branch customers",
+                "Meeting specific target group of customers viz., traders, farmers, pensioners",
+                "Greeting of customers by top officials",
+                "None of the above"
+              ]
+            },
+            {
+              "id": "general_13",
+              "number": 13,
+              "question": "Letter of thanks should be sent to whom by what means",
+              "correctAnswer": 0,
+              "options": [
+                "Account holder by courier service",
+                "Introducer by registered  post",
+                "Both account holder and introducer by registered post",
+                "Both account holder and introducer by ANL"
+              ]
+            },
+            {
+              "id": "general_14",
+              "number": 14,
+              "question": "Which is true about Multi City cheques",
+              "correctAnswer": 0,
+              "options": [
+                "It is payable at par at all CBS branches",
+                "Issued to current A/C, SB A/c, and cash credit accounts in addition to normal",
+                "P segment customers can use up to a limit of Rs. 10 lacs",
+                "All the above are correct"
+              ]
+            },
+            {
+              "id": "general_20",
+              "number": 20,
+              "question": "What is meant by IBTS?",
+              "correctAnswer": 0,
+              "options": [
+                "Internet banking Transfer System.",
+                "International Banking Transfer System.",
+                "Inter branch Transfer System.",
+                "None of the above"
+              ]
+            },
+            {
+              "id": "general_21",
+              "number": 21,
+              "question": "Who is authorized to give stop payment instruction?",
+              "correctAnswer": 0,
+              "options": [
+                "The drawer of the instrument",
+                "The payee of the instrument",
+                "The endorsee of the instrument",
+                "Any one who possesses the instrument"
+              ]
+            },
+            {
+              "id": "general_22",
+              "number": 22,
+              "question": "Which of the following statements is correct in case of stop payment of a cheque?",
+              "correctAnswer": 0,
+              "options": [
+                "The date and time of receiving the instruction should be noted on that letter",
+                "Ensure that the instrument in question has not already been paid",
+                "Record the particulars of the instrument stopped in the Core banking system and",
+                "All the above"
+              ]
+            },
+            {
+              "id": "general_23",
+              "number": 23,
+              "question": "Which of the following statements is correct about nomination?",
+              "correctAnswer": 0,
+              "options": [
+                "Nomination is available to all deposit accounts, safe deposit lockers, and safe deposit",
+                "Nomination should be made in favour of only one person .",
+                "Change of nominee/ cancellation of earlier nomination also permitted at any time",
+                "All the above"
+              ]
+            },
+            {
+              "id": "general_24",
+              "number": 24,
+              "question": "A term deposit receipt for Rs.15,000/- issued in the joint names of Ram and Shyam",
+              "correctAnswer": 0,
+              "options": [
+                "It can be paid to Shyam",
+                "It can be paid to Shyam as he is the joint account holder and the survivor also",
+                "As per the contract, the benefit of survivorship arises only in the event of death of",
+                "None of the above"
+              ]
+            },
+            {
+              "id": "general_25",
+              "number": 25,
+              "question": "Kumar drew a cheque for Rs.2550/- in favor of Mr.Srinivas. He wrote in figures as",
+              "correctAnswer": 0,
+              "options": [
+                "As Kumar is a valuable customer Rs.2550/- will be paid",
+                "Rs. 2550/- will be paid to Srinivas and the same will be advised to Mr. Kumar",
+                "As per NI act , if the amount in the cheque is stated differently in words and figures,",
+                "None of the above"
+              ]
+            },
+            {
+              "id": "general_29",
+              "number": 29,
+              "question": "You are in a single window counter. You come across  a Rs.500/- forged note. Which",
+              "correctAnswer": 0,
+              "options": [
+                "The note should be impounded first",
+                "Staff are advised not to take any Rs.500/- notes",
+                "A statement in duplicate should be obtained from the customer who presented it,",
+                "a and c are correct"
+              ]
+            },
+            {
+              "id": "general_30",
+              "number": 30,
+              "question": "One rupee coins form part of :",
+              "correctAnswer": 0,
+              "options": [
+                "Currency chest",
+                "Hand Balance",
+                "Small Coin Depot",
+                "None of these"
+              ]
+            },
+            {
+              "id": "general_41",
+              "number": 41,
+              "question": "What is the eligible age of a minor when the deposit is accepted from a",
+              "correctAnswer": 0,
+              "options": [
+                "10 years",
+                "18 years",
+                "20 years",
+                "No age restriction of minor when the deposit is accepted from natural"
+              ]
+            },
+            {
+              "id": "general_49",
+              "number": 49,
+              "question": "Which of the following is not the features of a demand loan ?",
+              "correctAnswer": 0,
+              "options": [
+                "Payable on demand",
+                "Can be disbursed in stages",
+                "Further debits to the account except interest application and insurance",
+                "None of the above"
+              ]
+            },
+            {
+              "id": "general_54",
+              "number": 54,
+              "question": "Which of the following documents are taken for giving a loan on Term Deposit advice",
+              "correctAnswer": 0,
+              "options": [
+                "DP Note &  DP delivery letter",
+                "Security delivery letter",
+                "TDR duly discharged over revenue stamp without date",
+                "All the above"
+              ]
+            },
+            {
+              "id": "general_55",
+              "number": 55,
+              "question": "What is the rate of interest charged on loans against term deposits?",
+              "correctAnswer": 0,
+              "options": [
+                "0.50% over TDR rate",
+                "1.00% over TDR rate",
+                "2.00% over TDR rate",
+                "0.75 % over TDR rate"
+              ]
+            }
+          ],
+          "totalQuestions": 25
+        },
+        {
+          "id": 2,
+          "name": "Exercise 2",
+          "questions": [
+            {
+              "id": "general_59",
+              "number": 59,
+              "question": "Which of the following are the Objectives of B.P.R?",
+              "correctAnswer": 0,
+              "options": [
+                "Increased customer satisfaction and convenience",
+                "B.M to focus more on sales and marketing",
+                "Simplify processes at operational level",
+                "Improved market share"
+              ]
+            }
+          ],
+          "totalQuestions": 1
+        }
+      ]
+    }
+  ]
+}

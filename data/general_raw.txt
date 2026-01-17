@@ -1,0 +1,3522 @@
+
+================================================================================
+PAGE 1
+================================================================================
+ 
+GENERAL BANKING  
+ 
+EXERCISE - 1  
+ 
+1) A complaint received from a customer is required to be settled by the bank finally with in 
+a period of  _______  days       
+a) 30   b) 15   c) 21   d) 45 
+ 
+2) Currency chest comprises of _________      
+a) All notes and rupee coins  b) All currency notes only  
+c) All notes and all coins  d) All coins only 
+ 
+3) Chief Associate (CS&S) can accept cash receipts up to Rs.___ on a bank account  
+a) Rs.5000 b) Rs.25000  c) Rs.50000  d) Without limit  
+ 
+4) As per RBI guidelines Bank should issue account payee Demand Draft if the amount 
+exceeds. 
+a) Rs.50,000/-      b) Rs.10,000/- c) Rs.20,000/- d) Rs.1,00,000/-  
+  
+5) Who is authorized to pass reversing entries in IBIT a/c  
+a) Branch Manager    b) Accountant c)  Passing  Official     d) Any of these 
+ 
+6) After generating the Reference Number to open account through YONO app, in how 
+many days, customer has to visit the Branch? 
+ 
+a) 7 days   b) 10 days     c) 20 days      d) 15 days  
+ 
+7) The Reference Number generated in YONO app for YONO Cash is valid up to … 
+   
+a) 240 minutes b) 120 minutes c) 60 minutes   d) 30 minutes 
+ 
+8) Once a year, the unclaimed Banker’s cheques (which are debited from Charges 
+account) outstanding for more than 3 years is credited to 
+a) Interest a/c b) Current a/c c) Charges a/c d) Exchange a/c  
+  
+9) Associate (CS&S) can make payments of SB withdrawals up to Rs.___  
+a) Rs.5000  b) 25000 c) 35000  d) 100000 
+ 
+10) Under Single Window system which of following activities has been eliminated 
+a) Issue of tokens   b) Receipt Scroll   
+c) Receipt/Payment Scroll  d) All of these 
+      
+11)  RBI Clean note policy covers        
+a) Notes  b) Coins c) Notes and coins  d) None of these 
+ 
+12)  Double passing of cheques are applicable for all Cash transactions of Rs.____ and 
+above  
+a) 1 lakh  b) 10 lakh  c) 5 lakh  d) 25 lakh 
+ 
+13)  Maximum no. of withdrawals  allowed  in a  SB account  per month:  
+a) 30  b) 15  c)  50  d)  Depends on average balance 
+
+================================================================================
+PAGE 2
+================================================================================
+ 
+7 
+  
+ 
+14) Excess found in cash balance is transferred to Commission A/c at ____intervals.  
+a) Quarterly b) Monthly  c) Half – yearly d) Yearly 
+ 
+15) Passing Powers of Spl. Associate is Rs.__ for cash and Rs.__ for transfer transactions 
+      a) Rs.50000, 100000 b) 200000, 600000 c) 100000, 500000 d) None 
+ 
+16)  Customer relations programme is held at branches at _____ intervals.  
+a) Monthly  b) Half-yearly  c) Yearly d) Quarterly 
+ 
+17)  Our annual closing day is ______   
+a) 31st December b) 30th June c) 31st March d) 30th September 
+   
+18)  The ceiling for petty cash expenses is Rs._____      
+a) Rs.100 b) Rs.500 c) Rs.5000 d) Rs.200 
+ 
+19)  Time intervals for updating the KYC details of existing High/Medium/Low risk accounts 
+a)  5/3/2 yrs   b) 20/10/5 yrs  
+c)  10/5/2 yrs   d) 2/8/10 yrs 
+ 
+20)  While paying an instrument the paying cashier cancels the signature of ____  
+a) Passing Official  b) Drawer c) Payee d) Drawee 
+ 
+21)   Dishonored cheques should be returned to the customer latest within ____  
+a) 5 days   b) 3 days c) 2 days d) 24 hours 
+ 
+22) BC & OR, DRP are entered in which register?  
+a) Miscellaneous Register b) Security Register  
+c) Branch Document Register   d) Key Register 
+ 
+23) Maximum deposit to be maintained by Minor account operated by Guardian  
+a) Rs.20,00,000     b) Rs.5,00,000 
+c) Rs.50,00,000     d) Rs.15,00,000 
+ 
+ 24) Charges monthly return (Abstract) is to be sent to Controllers at ____intervals. 
+ a) Monthly     b) Quarterly      c) Half yearly     d)  Yearly 
+ 
+25) When a Rs.100/- note is found in the branch / cash dept. it is credited to__a/c           
+      a) Suspense A/c   b) Interest A/c   c) Sundry Deposit A/c    d) Interest A/c 
+ 
+26) The average life of a Coin is ______  
+       a) 5 – 10 Years      b) 10 – 15 years  c) 15 – 20 years d) 20 – 25 years 
+ 
+27) What is the maximum amount that can be held in a minor’s SB a/c  
+       a) Rs.20,000 b)Rs.50,000  c) Rs.10,00,000 d) No ceiling 
+28) What to do if an account holder does not wish to give a nomination?  
+a) Should be recorded on the account opening form under full authentication 
+b) Need not be recorded any where 
+c) Should be obtained as a declaration in a separate letter 
+d) None of the above 
+29) What is the maximum amount that can be drawn through a cheques? 
+
+================================================================================
+PAGE 3
+================================================================================
+ 
+8 
+        a) Rs.100000 b) Rs.500000  c) Rs.1000000  d) No ceiling 
+ 
+30) Inoperative SB a/cs are those where there have been no ___ in the last__months. 
+      a) Transactions /12     b) transactions /24 
+      c) withdrawals /12      d) withdrawals /24 
+ 
+ 
+ 
+EXERCISE - 1  
+ 
+1. c 7.  a 13.  D 19.  d 25.  c 
+2. a 8.  c 14.  A 20.  b 26.  b 
+3. d 9.  c 15.  B 21.  d 27.  c 
+4. c 10.  d 16.  D 22.  c 28.  a 
+5. a 11.  c 17.  C 23.  a 29.  d 
+6. d 12.  b 18.  D 24.  a 30.  d 
+ 
+ 
+ 
+
+================================================================================
+PAGE 4
+================================================================================
+ 
+9 
+ EXERCISE - 2  
+ 
+1. What is the minimum transaction is permitted in Currency chest 
+operations ? 
+a) Rs.50000 b) Rs.25000 
+c) Rs.100000 d) Rs.10000 
+2. CTS stands for 
+a) Cheque truncation system b) Cheque transfer system 
+c) Cheque table system d) None of these 
+3. Petty Cash is checked by--- 
+a) Accountant b) Cash Officer 
+c) Accounts Manager d) Branch Manager 
+ 
+4. What is the maximum amount of TDR that can be accepted in the sole 
+name of minor 
+a) Rs.50000 b) Rs.200000 
+c) Rs.25000 d) Rs.100000 
+5. What is the rate of interest that is payable on SB accounts to Staff 
+members up to one lakh balance? 
+a) 3.50% b) 3.00% 
+c) 4.00% d) 3.70% 
+6. What is the interest payable on current a/c of a deceased individual. 
+a) SB rate b) TDR rate 
+c) SB + 2% rate d) CA rate 
+7. What is the minimum amount of Deposit under Senior Citizen Deposit 
+scheme? 
+a) Rs.10000 b) Rs.5000 
+c) Rs.1000 d) Rs.50000 
+ 
+8. Abnormal delay in respect of Short Credits (SC) means  delay beyond 
+a) 90 days b) 60 days 
+c) 45 days d) 30 days 
+ 
+9. As per KYC Guidelines threshold limit for a business enterprises means--
+-- 
+a) Rs. 5 lacs b) 25% of annual income 
+c) one month turnover d) 3 months turnover 
+ 
+10. Government commission payable to banks for  centralGovt.pension 
+payments is--- 
+a) Rs.45 per transaction b) Rs.50 per transaction 
+c) Rs.75  per transaction d) 11.80 Paise per Rs.100 transaction
+ 
+     
+11. 
+ 
+ Maximum Balance in “Small deposit Account” is 
+a) 
+c) Rs.10000 
+Rs.20000 b) 
+d) Rs.50000 
+Rs.25000 
+ 
+12. The maximum limit of deposit under SCSS is restricted to be __________  
+
+================================================================================
+PAGE 5
+================================================================================
+ 
+10 
+ a) 10 lacs b) 30 lacs 
+c) 20 lacs d) 15 Lacs 
+ 
+13. Minimum amount under SBI Flexi Deposit (RD)? 
+a) 1000 b) 10000 
+c) 5000 d) 100 
+14. ATM card is issued to a minor with an age of : 
+a) 12 years b) 8 years 
+c) 10 years d) ATM not issued 
+15. Maximum Number of  Withdrawals  per month allowed in SBI tiny A/C are 
+a) 4 b) 3 
+c) 2 d) 1 
+16. Minimum period for which a TDR can be made 
+a) 30 days b) 45 days 
+c)   7 days d) 15 days 
+17. In TDRs made by illiterates photograph is to be renewed for every  ? 
+ 
+a) 5 years b) 10 years 
+c) 3 years d) Every year 
+18. What is P.M.E.G.P ? 
+a) Prime Minister’s 
+Employment Generation 
+Programme b) Prime Minister’s Employment 
+Guarantee Programme 
+c) Prime Minister’s 
+Environment Guarantee 
+Programme 
+ d) None of the above 
+19. Which type of ATM card is issued for BSBD account? 
+a) Rupay Card b) VISA Card 
+c) Master Card d) Global Card 
+20. The maximum repayment period under SBI Realty Scheme is 
+__________ 
+a) 240 months b) 120 months 
+c) 180 months d) 200 months 
+ 
+21. Under SBI Car Loan Scheme for new vehicles, sanctioned to salaried 
+employees, the loan should be repaid within a maximum period of 
+________ years. 
+a) 8 b) 7 
+c) 6 d) 5 
+ 
+22. SBI loan to the pensioners is available to all pensioners drawing pension 
+from our branches aged up to _____ years. 
+a) 70 b) 72 
+c) 76 d) 75 
+23. Maximum loan for medical available for studies in India under “SBI 
+Student Loan” is 
+a) 50 Lacs b) Rs.15 lacs   
+
+================================================================================
+PAGE 6
+================================================================================
+ 
+11 
+ c) Rs.20 lacs  d) Rs.7.50 lacs   
+ 
+24. Loans against LIC Policies are granted based on--- 
+a) Face Value  of LIC Bond b) Surrender Value  of LIC Bond 
+c) Maturity Value  of LIC Bond d) Paid Value  of LIC Bond 
+25. SBI Xpress Credit is a  ___________ scheme. 
+a) Housing loan b) Personal loan 
+c) Car Loan d) Education Loan 
+ 
+26. Maximum age for Two Wheeler Loan?  
+a) 57  b) 65 
+c) 70 d) No Age Limit 
+27. What is Maximum Loan under High Value Super Bike Loan? 
+a) 25 Lacs b) 10 Lacs 
+c) 5 Lacs d) 3 Lacs 
+28. Currency transfer transactions data of Currency chest are reported to 
+FSLO daily through which software 
+a) LOTUS b) E Kuber 
+c) CBS d) LOS 
+29. What is minimum loan under Online overdraft against TDR/STDR through 
+YONO? 
+a) 10000 b) 20000 
+c) 5000 d) 1000 
+30. The facility granted in respect of Loan against TDR/STDR is : 
+a) TL b) DL 
+c) DL or OD d) OD 
+ 
+ 
+EXERCISE – 2  
+ 
+1. c 7.  c 13.  c 19.  a 25.  b 
+2. a 8.  c 14.  c 20.  b 26.  b 
+3. d 9.  c 15.  a 21.  b 27.  a 
+4. b 10.  c 16.  c 22.  c 28.  b 
+5. d 11.  b 17.  c 23.  a 29.  c 
+6. a 12.  b 18.  a 24.  b 30.  c 
+ 
+
+================================================================================
+PAGE 7
+================================================================================
+ 
+12 
+ EXERCISE - 3  
+ 
+1. The payment of interest in SB accounts is subject to directive issued by – 
+a) Respective Banks    
+b) Indian Banks’ Association 
+c) Reserve Bank of India 
+d) None of the above. 
+ 
+2. While on duty an armed guard should hold………number of cartridges 
+a)  15        b)5 c) 10 d) 20 
+ 
+3. What is OMP in YONO app? 
+a) Online Market Place 
+b) One time money Payment 
+c) Only Money Payments 
+d) None of these 
+ 
+4. Mr.X and Mr.Y have locker in joint names Mr.X is visually impaired.  Mr.Y wants to 
+operate the locker alone.  Is it permitted? 
+         a) Yes   b) No      c) Can’t say d) Depends on Mr.X’s decision 
+ 
+5. The maximum balance that can be maintained in a Savings Bank Account (other than in 
+a Minor’s account) is Rs. ______ 
+ a) Rs. 2 lacs      b) Rs. 5 lacs    
+ c) Rs. 10 lacs      d) No such ceiling 
+ 
+6. Which of the following is not a Negotiable instrument?     
+a) Term Deposit Receipt  b) Cheque  
+C) Bill of exchange   d) Promissory Note 
+ 
+7. Failure to maintain the minimum balance will attract a service charge based on the 
+average minimum balance which will be recovered from each account on a _____ 
+basis 
+ a) Monthly average balance b) No charges  c) Half yearly   d) annually  
+ 
+8. The overnight cash retention limit to the SWO/Asst.(Cash) in In-Branch-Cash- Handling 
+process is up to _____ 
+ a) Rs. 100000        b) Rs.25000       c)  No limit        d) Rs.50000 
+ 
+9. Passbooks surrendered overnight will have to be collected by the depositor within a 
+week’s time failing which the Bank shall dispose of the same in what manner? 
+a) write to customer to come and collect the passbook 
+b) Retain the passbook in safe custody 
+c) Dispatch the passbook to the customer by Registered AD post at his costs. 
+d) None of the above. 
+ 
+ 
+10. The Use of Standard Pass Book with Standard Column measurements for all products is 
+called 
+a) Uniform Pass Book    b) Universal Pass Book 
+     c) ComputerisedPass Book  d) None 
+ 
+
+================================================================================
+PAGE 8
+================================================================================
+ 
+13 
+ 11. The minimum cash deposit acceptable to the Bank in a Savings Bank a/c is ____. 
+ a) Rs. 5/-   b) Rs. 10/-    c) Rs. 20/-   d) No minimum amount 
+ 
+12. Nomination for Safe Custody Articles left with the Bank I s available under  
+  
+a) Sec 45ZA of BR Act b) Sec 45ZB of BR Act c) Sec 45 ZC of BR Act 
+d) Sec 45ZD of BR Act 
+ 
+13.   How many Nominations are allowed under SSY account? 
+ a) 1  b) 4   c) 2 d) No such stipulation. 
+ 
+14.  Education loan for vocational education and training is:  
+         a) SBI Skill Loan      b)  Career Loan    
+         c) SBI Scholar loan   d)  SBI Student loan 
+ 
+15.   In SB Account, all withdrawals must be in multiples of Rs. 1/- only. However an account 
+holder can not withdraw an amount smaller than Rs.___(including drawing by cheque). 
+ a) Rs. 10/-   b) Rs. 20/-   c) Rs. 50/-   d) No such limit 
+ 
+16. Who is responsible for deficiency in respect of tampered bundles/note packets in the 
+valut is 
+ a) SWO  b) Accountant      c) Cash Officer      d) Joint Custodians 
+ 
+17.    If the account holder is illiterate, the left hand thumb impression (LTI) on the Letter of 
+Authority should be attested by two persons known to the Bank or by- 
+ a) A magistrate under his court seal b) Two persons known to the Bank 
+ c) A Gazetted Officer    d) Either a or b 
+ 
+ 18. Cheque Truncation System (CTS) is working in how many grids?    
+       a)  5      b) 6   c) 7       d) 3 
+ 
+19.  SBI Combo Home Loan is for 
+ a) Purchase of plot     b) Construction of House      c) Purchase of House              
+       d) Purchase of plot and construction 
+ 
+20.  The Maximum incentive payable for suggestion given by staff under StaffSuggestion 
+scheme is : 
+a) Rs.1,00,000/-   b) Rs.1500  c) Rs.1000 d) Rs.200 
+ 
+21.Bulk Deposit means 
+     a. Below Rs.1 cr    b) Rs. 1 Cr.        c) Rs. 2cr and above  d) None of these 
+ 
+22.  If an SB account is closed after 14 days and before one year of its opening, charges of 
+Rs.— + ST will    be collected  
+ a)150       b) 220   c) 250  d) 500 
+ 
+23. Charges for issuing duplicate passbook for all segments ? 
+ 
+ a) Free  b) 50+GST c) 75+GST d) 100+GST 
+ 
+24.  If an SB account is closed beyond one year of date of opening charges of Rs.— + GST 
+will    be collected  
+
+================================================================================
+PAGE 9
+================================================================================
+ 
+14 
+  a)450       b) No charges  c) 550  d) 600 
+ 
+25) Monthly Average Balance for Silver Current account to be maintained? 
+ a) 50000   b)  10000  
+ c) 5000            d)  100000 
+ 
+26) Allowance payable to messengers for printing of passbooks under empowerment 
+is_____ per month. 
+ a) Rs.620/-   b) Rs.1050/-  c) Rs.645/- d) Rs.675/-  
+ 
+27. YONO full form is ______ 
+      a) You Only Need Only b) You Only Need One 
+      c) Yours Only Need One d) Youth Only Need One 
+ 
+28. Which of the following are called low cost deposits/CASA:  
+      a) Current Accounts and SB 
+accounts b) TDR 
+      c) STDR d) RD 
+ 
+29. Pension Drawing Savings Bank account can be opened by the Pensioner – 
+ a) Singly in own name  b) Jointly with Spouse eligible for family pension 
+ c) Jointly with Children  d) No Such stipulation. 
+ 
+30.   SB Interest will be paid only if it works out to Rs. ____ or more 
+ a) Rs. 1  b) Rs. 2  c) Rs. 5  d) Rs. 10 
+ 
+ 
+EXERCISE – 3  
+ 
+1. c 7.  a 13.  b 19.  d 25.  a 
+2. c 8.  d 14.  a 20.  a 26.  b 
+3. a 9.  c 15.  c 21.  c 27.  b  
+4. b 10.  b 16.  d 22.  d 28.  a 
+5. d 11.  b 17.  d 23.  d 29.  b 
+6. a 12.  c 18.  d 24.  b 30.  a 
+ 
+ 
+
+================================================================================
+PAGE 10
+================================================================================
+ 
+15 
+ EXERCISE - 4  
+ 
+1. The validity period of a cheque is defined in _____________. 
+a. RBI Act, 1934 c. SARFAESI Act, 2002  
+b. BR Act, 1949 d. NI Act, 1881 
+ 
+2. Home Loan sanctioned is valid for _____ Months? 
+a. 6 c. 2 
+b. 1 d. 3 
+ 
+3. Minimum amount of loan,  in which a notice can be issued under 
+SARFAESI Act, 2002 for recovery of  Bad debts: 
+a. Rs.1 Lac c. Rs.5  Lacs 
+b. Rs.2  Lacs d. Rs.10 Lacs 
+ 
+4. As per Banking Regulation Act, 1949, Records means _______. 
+a. Vouchers c. Account Opening Forms 
+b. Ledgers/Registers/Data in 
+Electronic form d. All of the above 
+ 
+5. Maximum deposit amount for Mahila Samman Savings Certificate? 
+a. 5 Lacs c. 10 Lacs 
+b. No Cap d. 2 Lacs 
+ 
+6. In mPassbook how many transactions can be viewed ? 
+a. 10 c. 150 
+b. 149 d. Unlimited 
+ 
+7. The Banking Laws (Amendment) Act, 1983 inserted a new _____ in the 
+Banking Regulation Act, 1949 to provide for the facility of nominations by 
+depositors in banks. 
+a. Sec.45 ZE c. Sec 45 ZB 
+b. Sec.45 ZC d. Sec.45 ZA 
+ 
+ 
+8. Educational loans applications are to be disposed of within ____ days. 
+a) 7 c) 30 
+b) 15 d) None of these  
+ 
+9. A PPF account can be opened in _____  
+a) Head Post Office c) Public Sector Bank 
+b) GPO d) All of the above 
+ 
+10. As per banks instructions ,Education loans up to a limit of Rs ---Lacs  are 
+given without taking any collateral security. 
+a) 7.00 c) 7.50 
+b) 7.75 d) 8 
+ 
+
+================================================================================
+PAGE 11
+================================================================================
+ 
+16 
+  
+11. Maximum period allowed under Mahila Samman Savings Certificate? 
+a) 2 Years c) 3 Years 
+b) 5 Years d) 10 Years 
+ 
+12. Coins up to ____ are called small coins. 
+a) 20 paise c) 50 paise 
+b) 25 paise d) Re.1 
+ 
+13. Mini Statement of ATM contains _______no. of transactions. 
+a) One c) 5 
+b) 4 d) 10 
+ 
+14. Deposit accounts which have not been operated for more than 10 years are 
+called: 
+a) Dormant accounts c) Unclaimed deposits 
+b) Inoperative accounts d) None of these 
+ 
+15. Maximum amount for which an  IOI can be  issued: ____. 
+a) Rs.99,99,99,999 c) Rs.10 lacs 
+b) Rs.99,99,999 d) Rs. 1 lac 
+ 
+16. State Bank of India Act was passed in _____. 
+a) 1951 c) 1958 
+b) 1955 d) 1962 
+ 
+17. Revalidation of draft can be made up to  
+a) 12 Months b) 6 Months 
+c) 24 Months d) Since discontinued 
+ 
+18. In case of payment of draft, the paying Banker is protected under section ____ 
+of Negotiable Instrument Act1881, if other conditions are satisfied: 
+a) 85 b) 85A 
+c) 131 d) None of these 
+ 
+19. For valued constituents, a duplicate draft can be issued without insisting 
+for any surety, where the amount of draft is below Rs.---------: 
+a. Rs.60, 000/- b. Rs.80, 000/- 
+c. Rs.50, 000/- d. Since discontinued 
+ 
+20. The drawer of a cheque has the right to stop its payment. In the case of a bank 
+draft 
+a. The branch issuing the draft 
+has a right to stop its payment b. Only the applicant for the draft 
+has a right to stop its payment 
+c. Payment of bank draft cannot 
+be stopped d. None of the above 
+ 
+
+================================================================================
+PAGE 12
+================================================================================
+ 
+17 
+  
+21. Amrith Kalash deposit is available for ______Days? 
+a. 1100 b. 400 
+c. 365 d. 100 
+ 
+22. A bank draft can be revalidated.... 
+a. Once b. Twice 
+c. No restriction d. Not revalidated 
+ 
+23. Banker Cheques are to be credited to charges account if they are 
+unclaimed for - 
+a. Six months b. One Year 
+c. Three years d. None of theses 
+ 
+24. RTGS Scheme is managed by---------- 
+a. State Bank of India b. Indian Bank’s Association 
+c. Reserve Bank of India d. None of the above 
+ 
+25. IOI stands for 
+a. Internet operated instruments b. Inter Office Instruments  
+c. Indian Overseas Instruments d. None of the above 
+ 
+26.  Inter Office Instrument replaces 
+a. Drafts b. Banker Cheques 
+c. TDR/STDR d. Both a & b 
+ 
+27. Plastic Cards implanted with a computer chip is known as 
+a. Credit Card b. Smart Card 
+c. Debit Card d. ATM Card 
+ 
+ 
+28. ‘PIN’ in respect of Debit, Credit or Smart card refers to? 
+a. Permanent Index Number b. Personal Index Number 
+c. Personal Identification Number d. Permanent Identification 
+Number 
+ 
+29. PAN/GIR number are required to be obtained when Drafts/IOIs/BCs are 
+issued  for amounts in cash---  
+a. Rs.10,000 and above b. Rs.25,000 and above 
+c. Rs.50,000 and above d. Rs.1 lac and above 
+ 
+30. Time frame for collection of cheques drawn on branches of other Banks 
+located at Metropolitan and Major “A” Class Cities is….. 
+a. 6 days b. 8 days 
+c. 10 days d. 7 days 
+ 
+31. The relationship between the banker and purchaser of a draft___ 
+a. Creditor and debtor b. Debtor and Creditor 
+c. Agent and Principal d. Principal and Agent 
+ 
+ 
+
+================================================================================
+PAGE 13
+================================================================================
+ 
+18 
+ 32. ATM Global card daily maximum POS limit is  
+a. 75,000/- b. 1,00,000/- 
+c. 2,00,000/- d. 5,00,000/- 
+ 
+33. Inter Office Instrument will have a unique-----digit serial number 
+a.  6  b. 12 
+c. 15 d. 16 
+ 
+34. For Savings Bank account how many cheques are free for every financial 
+year? 
+a. Ten b. Two 
+c. Three d. No free cheques 
+ 
+35. What is the normal tenure of the Banking Ombudsman? 
+a. 5 years b. 3 years  
+c. 1 year d. 10 years 
+ 
+36. What is maximum amount of award that a Banking Ombudsman can award? 
+a. Rs.20 lakh b. Rs.15  lakh 
+c. Rs.25 lakh d. Rs. 10 lakh 
+ 
+37. Where can a customer book IRCTC train tickets in SBI?  
+a. YONO app b. SBI quick app 
+c. SBI Samadhan app d. In any Branch 
+ 
+ 
+38. “Ankur” is a publication of  ____________. 
+a. State Bank Staff College, 
+Hyderabad b. State Bank Academy, Gurgaon 
+ 
+c. SBIRD, Hyderabad d. Strategic Training Unit 
+ 
+39. Single window concept envisages _________. 
+a. product specific counters b. single point of delivery 
+c. a part of CBS d. a part of BPR 
+ 
+40. In lockers rent is collected on which date? 
+a. 1st April b. 2nd April 
+c. Yearly intervals d. Any time 
+ 
+ 
+ 
+
+================================================================================
+PAGE 14
+================================================================================
+ 
+19 
+ EXERCISE – 4  
+1. d 11.  a 21.  b 31.  b 
+2. d 12.  c 22.  d 32.  a 
+3. a 13.  d 23.  c 33.  B 
+4. d 14.  c 24.  c 34.  a 
+5. d 15.  a 25.  b 35.  B 
+6. b 16.  b 26.  d 36.  A 
+7. d 17.  d 27.  b 37.  A 
+8. b 18.  b 28.  c 38.  D 
+9. d 19.  d 29.  c 39.  B 
+10. c 20.  c 30.  d 40.  B 
+ 
+
+================================================================================
+PAGE 15
+================================================================================
+ 
+20 
+ EXERCISE - 5  
+ 
+1. Health Care Business Loan can be sanctioned as…. 
+a. Only as a Term Loan b. Only as a Cash Credit 
+c. Either as a Cash Credit or as a 
+Term Loan or both d. None of the above 
+ 
+2. A PPF account becomes irregular when 
+a. Form H is not submitted by the 
+account holder after 15 years b. No withdrawals are made in the 
+account 
+c. minimum stipulated amount of 
+Rs.500 is not deposited during 
+one financial year d. Amount deposited in the account 
+during one financial crosses the 
+maximum amount of Rs.70,000 
+ 
+3. The minimum quantum of deposit to enjoy the differential interest rate to 
+Senior Citizens is 
+a. Rs.1000 b. Rs.5000 
+c. Rs.10000 d. Rs.25000 
+ 
+4. Savings Plus is 
+a. SB + MOD b. SB + TDR 
+c. CA + CLTD d. CA + STDR 
+ 
+ 
+5. Multi Option Deposits (MOD) are 
+a. TDRs only b. Either TDRs or STDRs 
+c. STDRs only d. Liquid Term Deposits 
+ 
+6. How many nominations are allowed for SB Joint Account? 
+a. 1 b. 2 
+c. 3 d. 4 
+ 
+7. The REGISTER Which contains the details of the particulars of land, 
+building, Title deeds Which are created as security to the loans is called 
+as 
+a. Liability Register b. Title deeds Deposit register 
+c. Cash credit register d. Mortgage Register 
+ 
+8. Letters sent by borrowers by registered post, stating that they have 
+voluntarily deposited their title deeds with the bank for the purpose of 
+availing loan.. 
+a. Confirmation letter b. Under taking letter 
+c. Letter of Under taking d. Witness letter 
+ 
+9. While creating Registered mortgage , SF/MF are exempted from paying  
+ Stamp duty for loans up to a limit of Rs.  _____Lakhs. 
+a. 1 lakh  b. 2 Lakh 
+c. 3 Lakh d. 5 Lakh 
+ 
+
+================================================================================
+PAGE 16
+================================================================================
+ 
+21 
+  
+10. Produce Marketing Loan can be availed by 
+a. Any customer of the branch b. Only farmer  
+c. Any non-customer d. None of these 
+ 
+11. How long is a limit sanctioned under KCC valid subject to annual review? 
+a. 1 year b. 2 yeas 
+c. 5 yeas d. 4 yeas 
+ 
+12. The members in SHG should not be more than ____ 
+a. 10 b. 15 
+c. 20 d. 5 
+ 
+13. In KCC Personal accident insurance is covered up to Rs______ amount 
+a. 25000 b. 100000 
+c. 75000 d. 55000 
+ 
+14. Crop loans are sanctioned for_____ 
+a. Land owners b. Share croppers 
+c. Tenant farmers d. All the above 
+ 
+15. Tractor is considered to have a life span of _____ 
+a. 10000 Working hours b. 1000 Working hours 
+c. 9000 Working hours d. 600 Working hours 
+ 
+16. The maximum quantum of daily cash withdrawal limit in an SBI ATM Gold 
+Debit Card is 
+a. Rs 50000/- b. Rs.2.00 lacs 
+c. Rs.1.00 lac d. Rs.25000 
+ 
+17. Tax deduction at source (TDS) is to be done where interest payment 
+exceeds (other than senior citizens) : 
+a. Rs.5000  b. Rs.40,000 
+c. Rs.20,000 d. None of the above 
+ 
+18. Who cannot be a nominee in any deposit account? 
+a. Male Minor b. Blind 
+c. Female Minor d. None of these 
+ 
+19. The minimum and maximum amount of deposit in a PPF account is 
+a. Rs.50; Rs.75,000 b. Rs.500; Rs.1,25,000 
+c. Rs.500; Rs.1,00,000 d. Rs.500; Rs.1,50,000 
+ 
+20. Validity period of IOI Draft is : 
+a. 3 months b. 6 months 
+c. 12 months d. None of these 
+ 
+
+================================================================================
+PAGE 17
+================================================================================
+ 
+22 
+  
+21. Maximum Loan eligible under PAPL for Non CSP through YONO? 
+a. Rs.5,00,000/- b. Rs.14,00,000/- 
+c. Rs.2,00,000/- d. Rs.10,00,000/- 
+ 
+22. Which section deals  with Minors: 
+a. Sec. 11 of Indian Contract b. Sec. 85 of NI Act 
+c. Sec. 21 of Partnership act d. Sec  187 of BR Act 
+ 
+23. Validity period of Income Tax Refund Order (ITRO) is : 
+a. 1 year b. 18 months  
+c. 3 months d. None of these 
+ 
+24. Minimum Pension Loan amount can be sanctioned Rs……. 
+a. Rs.25,000/- b. Rs.50,000/- 
+c. Rs.1,00,000/- d. No such limit. 
+ 
+25. What is the Maximum loan under Preapproved Xpress credit (PAXC) can 
+be sanctioned on YONO app in case of Platinum customers? 
+a. Rs.2,00,000/- b. Rs.8,00,000/- 
+c. Rs.2,50,000/- d. Rs.15,00,000/- 
+ 
+26. What is the maximum POS limit through ATM platinum card per day 
+ 
+a. Rs.200000/- b. Rs.15000/- 
+c. Rs.400000/- d. Rs.500000/- 
+ 
+27. Government commission for e-Receipts…. 
+a. Rs.75 per transaction b. Rs.9 per transaction 
+c. Rs.50 per transaction d. Rs.5.5 per transaction 
+ 
+28. State Bank Any where is renamed as…… 
+a. YONO bright b. YONO lite 
+c. YONO kite d. YONO quick 
+ 
+29. In case of individual what is the thresh hold limit under KYC guidelines? 
+a. 1 Months turnover b. 1 years income 
+c. 25% of annual income of the 
+customer d. Lower of 25% of annual income 
+of the customer 
+ 
+30. Tax Deducted At Source (TDS) deducted  is to be credited to respective 
+Government account within ____________ 
+a. One week  b. 20 days 
+c. 30 days d. 7 days of next month 
+ 
+31. Please expand VPIS. 
+a. Valuable paper invention 
+system b. Valuable paper inventory 
+system 
+c. Value paper inventory system d. None of the above 
+ 
+
+================================================================================
+PAGE 18
+================================================================================
+ 
+23 
+ 32. Where can you make enquiry about maturity value/rate of interest of new 
+Recurring Deposits opened in “Mydreams” option in YONO app? 
+a. In CBS only b. In Customer 360  
+c. Review page d. None of the enquiry 
+ 
+33. Soon after entering any account number in any place in CBS what key 
+should be hit to know about the prima face details of the account 
+a. F7 b. F12 
+c F8 d. None of the above 
+ 
+34. What is the radial button for account number in CBS? 
+a. F7 b.  F12 
+c. F8 d.  None of the above 
+ 
+35. How many digits are there in an account number in CBS? 
+a. 11 b.  10 
+c. 12 d.  13 
+ 
+ 
+36. What is the button to be used to know the CBS a/c number from bank 
+master number? 
+a. F1 b.  F10 
+c. F11 d.  F8 
+ 
+37. Maximum amount of loan that can be given to a family pensioners:  
+a. Rs.3 lacs b.  Rs.5 lacs 
+c. Rs.4 lacs d.  Rs.2 lacs 
+ 
+38. The duty of Grahak Mitra is to 
+a. Greet and Guide the 
+customers b. Help in ATM cards/Internet 
+banking mobilization 
+c. Help customers in opening 
+a\cs d. All the above 
+ 
+39. Currency chest is the property of : 
+a. Joint custodians b.  RBI 
+c. SBI d.  Indian Banks Association 
+ 
+ 
+40. Which of the following is not a commercial crop? 
+a. Jute b.  Sugarcane 
+c. Paddy d.  Cotton 
+ 
+41. How many dreams can be created in YONO app? 
+a. Only one b.  More than 1 
+c. No dream can be created d.  None of these 
+ 
+
+================================================================================
+PAGE 19
+================================================================================
+ 
+24 
+  
+42. What is online SBI? 
+a. SBI’s website b.  SBI Internet Banking service 
+c. SBI’s data  warehousing 
+project d. SBI Core Banking Solutions 
+ 
+43. A minor can open accounts with a maximum deposit of 
+a. Rs.1.00 lac b.  Rs.0.50 lac 
+c. Rs.2.00 lac d.  Rs.10.00 lac 
+ 
+44. Form 15 G is applicable to 
+a. Citizens below 70 years of age b.  Citizens below 67 years of age 
+c. Citizens below 65 years of age d.  Citizens below 60 years of age 
+ 
+45. How many times can a Negotiable Instrument be negotiated? 
+a. Only once b.  Twice only 
+c. Thrice only d.  No limit 
+ 
+46. Expand “MODS"   
+a. Multi Open Deposit Scheme  b.  Multi Option Deposit Scheme 
+c. Multiple Option Deposit 
+Scheme d. None of these 
+ 
+47. As per Income Tax act up to what amount TDR can be paid in cash  
+a. Below Rs.50000/- b.  Below Rs.20000/- 
+c. Rs10000/- d.  Rs100000/- 
+ 
+48. TDS is not applicable for 
+a. TDR b. STDR 
+c. RD& SB accounts d. None of the above 
+ 
+49. Which of the following accounts cannot be opened by a minor? 
+a. S.B account b. STDR 
+c. TDR d. None of these 
+ 
+50. Which of the following is not an alternative delivery channel of SBI? 
+a. ATM b. Internet Banking 
+c. Mobile Banking d. RTGS 
+ 
+ 
+ 
+ 
+ 
+ 
+
+================================================================================
+PAGE 20
+================================================================================
+ 
+25 
+ EXERCISE – 5  
+ 
+1. c 11.  C 21. c 31. b 41. b 
+2. c 12.  C 22. a 32. c 42. b 
+3. c 13.  B 23. c 33. a 43. d 
+4. a 14.  D 24. a 34. b 44. d 
+5. b 15.  A 25. d 35. a 45. d 
+6. a 16.  A 26. a 36. d 46. b 
+7. b 17.  B 27. b 37. b 47. b 
+8. a 18.  D 28. b 38. d 48. d 
+9. c 19.  D 29. d 39. b 49. d 
+10. b 20.  A 30. d 40. c 50. d 
+ 
+
+================================================================================
+PAGE 21
+================================================================================
+ 
+26 
+ EXERCISE – 6  
+ 
+1. The signature of the drawer on the cheque /withdrawal form is cancelled by whom           
+a. Passing officer       b. Paying cashier          
+c. Day-book checking official    d. Branch manager 
+ 
+2. The signature of the drawer on the cheque/withdrawal form is cancelled                              
+a. To avoid the risk of double payment 
+b. To indicate that the payment has been finally and irrevocably made 
+c. Not to reproduce the instrument by unscrupulous people 
+d. All the above  
+ 
+3. The sweeper found Rs.100 note while sweeping the bank premises and the same is 
+handed over to the accountant. This amount should be credited to                                       
+a. Sundry Deposit Account  b. Suspense Account 
+     c. Branch charges account  d. should be kept with the head cashier  
+  
+4. A genuine Rs.500/- new bank note features are 
+a. The note has motif of Red Fort  
+b. The base colour of the note is Green 
+c.   The signature of the Governor RBI 
+d.   All the above 
+ 
+5. IBCH box to be verified by the Cash officer……. 
+a. Weekly          b. Randomly   
+c. Fortnightly  d. Monthly 
+ 
+6. The Jr. Associate (CS&S) (other than those receiving special allowance) can issue 
+counterfoils for cash receipts to the depositor independently (bank as well as govt.) 
+a. Rs.1000/- b. Rs.2000/-  c. Rs.15000/-  d. Rs. 5000/- 
+ 
+7. Threshold amount in Savings Plus account is ………. 
+a. 10,000/-     b. 15,000/- c) 20,000/-   d. 35,000/- 
+ 
+8. When the IBCH box can be opened with duplicate keys ? 
+ 
+a. When SWO is on Casual Leave 
+b. When SWO is on Medical Leave 
+c. When SWO is on privilege leave 
+d. When SWO is on unauthorized absence. 
+ 
+9.  Customer day is celebrated on---- of every month                                                             
+e. 1st day  b. 10th day  c. 10th to 20th d. 20th 
+ 
+10. Customer relation programme should be conducted                                            
+a. Every Month    
+b. Every quarter  
+c. Every year 
+d. Every month where staff strength is 100 or more and at quarterly intervals where staff 
+strength is less than 100  
+ 
+11. Customer call means-                                                                                                       
+
+================================================================================
+PAGE 22
+================================================================================
+ 
+27 
+ a. Customer coming to the branch 
+b. Staff visiting the customer 
+c. BM/MOD of the branch will call on the customer at their place of work/residence 
+d. None of the above 
+ 
+12. Customer Meet means                                                                                                   
+a. Meeting all the branch customers 
+b. Meeting specific target group of customers viz., traders, farmers, pensioners  
+c. Greeting of customers by top officials 
+d. None of the above 
+ 
+13.  Letter of thanks should be sent to whom by what means                                            
+a. Account holder by courier service 
+b. Introducer by registered  post 
+c. Both account holder and introducer by registered post 
+d. Both account holder and introducer by ANL 
+ 
+14. Which is true about Multi City cheques                                                                       
+a. It is payable at par at all CBS branches 
+b. Issued to current A/C, SB A/c, and cash credit accounts in addition to normal 
+cheques 
+c. P segment customers can use up to a limit of Rs. 10 lacs 
+d. All the above are correct 
+ 
+15. Value cap for payment of Multicity Cheques at Non-home branches for Savings Bank 
+account of HNI/NRI is…. 
+a. Rs.20,00,000/- b. Rs.2500,000/- c.  Rs.40,00,000/- d. Rs.50,00,000/-  
+ 
+16. Which of these is an office account 
+a. Suspense A/c   b. Savings bank a/c    c. current a/c    d. Demand loan A/c 
+ 
+17. When it is not possible to put through certain debit entries or undetermined expenses 
+through the correct account , they are parked temporarily in this account 
+       a. Branch Charges account   b. Suspense account 
+       c. Sundry Deposit account   d. None of the above   
+ 
+18. All expenses relating to branch are debited to which account?                                      
+       a. Suspense Account   b. Branch Charges Account 
+       c. Branch clearing General account d. None of the above 
+ 
+19. Which branch can undertake periodic updation of KYC in CBS? 
+       a. Home Branchb.Non Home Branch c. Both branches d.None of these 
+ 
+20. What is meant by IBTS? 
+a. Internet banking Transfer System. 
+b. International Banking Transfer System. 
+c. Inter branch Transfer System. 
+d. None of the above 
+ 
+21. Who is authorized to give stop payment instruction? 
+a. The drawer of the instrument 
+b. The payee of the instrument 
+
+================================================================================
+PAGE 23
+================================================================================
+ 
+28 
+ c. The endorsee of the instrument 
+d. Any one who possesses the instrument 
+ 
+22. Which of the following statements is correct in case of stop payment of a cheque?                                            
+a. The date and time of receiving the instruction should be noted on that letter 
+b. Ensure that the instrument in question has not already been paid 
+c. Record the particulars of the instrument stopped in the Core banking system and 
+record the same particulars in stop payment register under authentication 
+d. All the above 
+ 
+23. Which of the following statements is correct about nomination?                                
+a. Nomination is available to all deposit accounts, safe deposit lockers, and safe deposit 
+articles 
+b. Nomination should be made in favour of only one person . 
+c. Change of nominee/ cancellation of earlier nomination also permitted at any time 
+during the currency of the account. 
+d. All the above 
+ 
+24. A term deposit receipt for Rs.15,000/- issued in the joint names of Ram and Shyam 
+payable to former or survivor has been presented by Shyam for premature payment. 
+Which of the following statement is correct ? 
+a. It can be paid to Shyam 
+b. It can be paid to Shyam as he is the joint account holder and the survivor also 
+c. As per the contract, the benefit of survivorship arises only in the event of death of 
+former, i.e Ram. The right on the deposit is with Ram only during his life time. Hence 
+sanctioning of loan or premature payment of the deposit during the life time of former 
+in this case is  not permitted 
+d. None of the above 
+ 
+ 
+25. Kumar drew a cheque for Rs.2550/- in favor of Mr.Srinivas. He wrote in figures as 
+Rs.2550/- but erroneously wrote in words as Rupees two thousand five hundred only. 
+Mr Srinivas presented the cheque across the counter for payment. Sri Kumar is a 
+valuable customer of your branch and there is  sufficient balance in the account, and 
+you are there in the counter. What will you do ? 
+ 
+a. As Kumar is a valuable customer Rs.2550/- will be paid 
+b. Rs. 2550/- will be paid to Srinivas and the same will be advised to Mr. Kumar 
+c. As per NI act , if the amount in the cheque is stated differently in words and figures, 
+the amount written in words shall be paid. Hence Rs. 2500/- only will be paid . 
+d. None of the above 
+ 
+26. Maximum retention limit of cash by a teller at any point of time is-                        
+a. Rs.50,000/-      b. Rs.100,000/- c. Rs. 500,000/- d. Rs. 200,000/- 
+
+================================================================================
+PAGE 24
+================================================================================
+ 
+29 
+  
+27. In Gold Loans, Cash officer is responsible for  _______________- 
+a. Purity    b. Value of the Gold   c. Weight    d. All of these 
+ 
+28. Vault  register is  kept in ___________. 
+a. Currency Chest/Strong Room       b. Handsafe of Accountant.     
+c. Branch Manager's custody     d. Cashier Officer's  Cabin 
+ 
+29. You are in a single window counter. You come across  a Rs.500/- forged note. Which 
+among the following are the proper steps ? 
+a. The note should be impounded first 
+b. Staff are advised not to take any Rs.500/- notes 
+c. A statement in duplicate should be obtained from the customer who presented it, 
+stating how he received the note. 
+d. a and c are correct  
+e.  
+30. One rupee coins form part of : 
+a. Currency chest 
+b. Hand Balance 
+c. Small Coin Depot 
+d. None of these 
+ 
+31. Number of withdrawals allowed for a current account in a year                                     
+a. 60  b. 120    c. 150   d. No restriction on number of withdrawals 
+ 
+32. Monthly average balance for Platinum Current Account is….. 
+       a. 1,00,000/-  b. 2,00,000/-   c. 5,00,000/- d. 10,00,000/- 
+ 
+33. Government Commission for physical receipts is….. 
+a. Rs.12 per txn b. Rs.65 per Txn c. Rs.40 per txn d. Rs.65 per Txn 
+ 
+34. Service charges for non maintenance of average monthly balance in Gold Current 
+accounts   
+       a. 1000+GSt  b.2000+GST  c. 500+GST d. 4000+GST 
+ 
+35.  In how many clicks loan can be created in YONO app?     
+     a. 2 clicks     b. 3 clicks 
+     c. 4 clicks     d. 5 clicks 
+ 
+36. Service charges to be recovered for ATM Card undelivered due to wrong address 
+a. 50+GST  b. 180+GST 
+  c. 100+GST      d. No Charges 
+ 
+37.  Ordinary postal charges are  
+a. Rs.10+GST   b. Rs.5+GST c. Rs.25+GST   d. Rs.20+GST 
+ 
+38.  Deposits payable on maturity after a fixed time are known as                                 
+a. Time deposits   b. Demanddeposits 
+c. Annuity deposits   d. None of these 
+ 
+39. Minimum amount of deposit for term deposit is                                                        
+a. Rs.500/- b. Rs.1000/-  c. Rs. 1500/-  d. Rs. 2000/- 
+
+================================================================================
+PAGE 25
+================================================================================
+ 
+30 
+  
+40. Maximum period for which a deposit can be opened in the bank                             
+       a. 5 years   b. 7 years  c. 9 years  d. 10 years 
+ 
+41. What is the eligible age of a minor when the deposit is accepted from a  
+natural guardian on behalf of the minor 
+a. 10 years  
+b. 18 years   
+c. 20 years   
+d. No age restriction of minor when the deposit is accepted from natural  
+Guardian on behalf of the minor 
+ 
+42. What is the penalty charged for premature payment of term deposit upto Rs.5 lacs 
+which has run for a period above 7 days?                                                                             
+a. 0.50%  b.1.00%  C.1.25%  D. No penalty is charged  
+ 
+43. Undelivered Cards, afater how many days are to be Hot-listed? 
+ 
+a. 30 days   b.45 days   c. 90 days  d. Never 
+ 
+44. FATF full form? 
+       a.  Financial Area Team Force b. Financial Area Task Force      c.  Financial Action 
+Task Force  d. Financial Action Task Field 
+ 
+45. Interest  rates applicable for R.D accounts are similar to that of                          
+       a. Savings bank accounts  b. Time deposit rates       
+       c. Separate rates available  d. Bank rate 
+46. What is the minimum period of deposit for Recurring deposit accounts 
+a. 6 months   b. 12 months   c. 24 months  d. 36 months 
+ 
+47. Minimum amount of deposit for a recurring deposit account is Rs.   
+ a. 25/-    b. 50/- c. 75/-      d. 100/- 
+ 
+48. Interest free Loans sanctioned to Staff  by  our Bank :                                            
+a. Festival Advance          b. Computer Loan 
+c. Demand loans   d. Housing Loan 
+ 
+49. Which of the following is not the features of a demand loan ? 
+a. Payable on demand   
+b. Can be disbursed in stages 
+c. Further debits to the account except interest application and insurance  
+premium are not allowed in the account 
+d. None of the above  
+50. Which of the following is not a Government sponsored Scheme: 
+a. PMEGP  b. PMAY  c. SGSY    d.  SHG Loans 
+
+================================================================================
+PAGE 26
+================================================================================
+ 
+31 
+  
+51. Which of the following is a running account 
+a. Cash credit a/c  b. Demand loan a/c    c. Term loan a/cd. none of these 
+ 
+52. Clean Note Policy is introduced and monitored by : 
+a. SBI     b.  RBI      c.  IBA        d.    None of these 
+ 
+53. Which of the following tests are used for testing the purity of the gold?                    
+      a. Touch stone method  b. Nitric Acid Test 
+      c. Specific gravity test          d. All the three above 
+ 
+54. Which of the following documents are taken for giving a loan on Term Deposit advice 
+     a.  DP Note &  DP delivery letter 
+b. Security delivery letter 
+c. TDR duly discharged over revenue stamp without date 
+d. All the above  
+ 
+55. What is the rate of interest charged on loans against term deposits? 
+a. 0.50% over TDR rate 
+b. 1.00% over TDR rate 
+c. 2.00% over TDR rate 
+d. 0.75 % over TDR rate  
+ 
+56. While giving loan on LIC policy, the charge created is known as--                          
+a. Hypothecation b. Pledge c. Assignment  d. Lien 
+ 
+57. The amount of loan for 12 months is  given on a LIC policy is --                                
+a. Face value of the policy  b. Total amount of premiums paid 
+     c. Total premiums paid             d. 85% of Surrender value 
+ 
+58. B.P.R stands for                                                                                                          
+ a. Branch Process Redesign       b. Below Poverty Range 
+       c. Business Process Re-engineering       d. Branch Performance Report 
+ 
+59. Which of the following are the Objectives of B.P.R?                                                
+a. Increased customer satisfaction and convenience 
+b. B.M to focus more on sales and marketing 
+c. Simplify processes at operational level 
+d. Improved market share 
+e. All the above  
+ 
+60. Which of the following is not a BPR roll out?                                                             
+a. Currency Administration Cell (CAC) b. Drop Box 
+c. Grahak Mitra     d. Single Window Operator 
+ 
+61. What is the maximum gold loan that can be given under Agricultural segment 
+a. 1 lakh  b. 5 lakh  c. 10 lakh d. 25 lakhs 
+ 
+62. LTV ratio of Agri Gold loans to be maintained at 
+a. 55%      b. 60%  c. 75%  d. 80% 
+ 
+63. What is the maximum gold loan limit that can be sanctioned under Psegment 
+
+================================================================================
+PAGE 27
+================================================================================
+ 
+32 
+ a. Rs.3 lacs b. Rs.4 lacs  c. Rs. 5lacs        d. Rs.50 lacs  
+ 
+EXERCISE – 6  
+1. b 16. a 31.  d 46.  b 61.  d 
+2. d 17. b 32.  d 47.  d 62.  c 
+3. a 18. b 33.  c 48.  a 63.  d 
+4. d 19. c 34.  b 49.  b   
+5. d 20. c 35.  c 50.  d   
+6. c 21. a 36.  c 51.  a   
+7. d 22. d 37.  d 52.  b   
+8. d 23. d 38.  a 53.  d   
+9. c 24. c 39.  b 54.  d   
+10. b 25. c 40.  d 55.  b   
+11. c 26. c 41.  d 56.  c   
+12. b 27. d 42.  a 57.  d   
+13. c 28. a 43.  b 58.  c   
+14. d 29. d 44.  c 59.  e   
+15. d 30. a 45.  b 60.  b   
+ 
+
+================================================================================
+PAGE 28
+================================================================================
+ 
+33 
+ EXERCISE – 7  
+ 
+1. This is not one of the four pillars of BPR 
+a. Branch Redesign b. Change Management 
+c. CPC Design d. Alternate Channel Design 
+ 
+2. Drop Box should not be used for 
+a. Other Bank Cheques b. Drafts 
+c. Non Home branch cheques  d. Credit card payments, Govt. 
+challans 
+ 
+3. Overdraft in SB can be allowed up to Rs 10,000 under PMJDY scheme 
+a. After one month b. After three months 
+c. After two months d. After six months 
+ 
+4. Savings Bank interest rate is regulated by 
+a. IBA b. No Regulation 
+c. RBI d. Govt of India 
+ 
+5. Maximum balance is SBI TINY (Special) Account is 
+a. Rs 100,000/- b. No limit 
+c. Rs 50,000/- d. Rs 500,000/- 
+ 
+6. TDS provisions are  applicable to  
+a. Flexi Deposit account b. RD account 
+c. STDR account d. All of the above 
+ 
+7. Monthly Average Balance of regular current account is  
+a. Rs.1,000/- b. Rs.5,000/- 
+c. Rs.10,000/- d. Rs.50,000 
+ 
+8. Housing loans under Priority Sector means, limits upto 
+a. Rs 35 lakh in Metro b. Rs 25 lakhs in other centers 
+c. Rs 50 lakh in all centers d. Both a & b 
+ 
+9. Expand LTV 
+a. Low Transaction Value b. Low Tax Value 
+c. Loan Term Value d. Loan To Value 
+ 
+10. Max repayment period available for H.L (including moratorium) 
+a. 30 years  b. 25 years  
+c. 20 years d. 28 years 
+ 
+11. Staff matters including promotions in our Bank is looked after by:  
+a. BPR b. PBBU 
+c. HRD  d. SMEBU 
+ 
+12. Maximum  amount eligible under SBI Realty 
+a. 20 lakh b. 10 lakh 
+c. 5 cr d. 15Crs 
+ 
+13. Max age of the borrower to avail loan under Car loan 
+
+================================================================================
+PAGE 29
+================================================================================
+ 
+34 
+ a. 60 b. 68 
+c. 70 d. 75 
+ 
+14. Max amount of Education Loan under SBI Student loan for studies in 
+India & Abroad 
+a. 50 lakh and 7.5 lakh b. 7.5 lakh and 15 lakh 
+c. 10 lakh and 15 lakh d. 7.5 lakh and 20 lakh 
+ 
+15. Margin for Education Loan above Rs.7.5 lacs for studies in India and 
+abroad?  
+a. 5% and 10% b. 5% and 15% 
+c. 5% and 20% d. 5% and 25% 
+ 
+16. The online training Programme in our Bank is named as : 
+a. Gyanarjana b. Gyanodaya 
+c. Bhagya Rekha d. None of these  
+ 
+17. Max  Staff Housing Loan for a Subordinate Staff member of our Bank:  
+a. Rs.25 lacs b. Rs.28 lacs 
+c. Rs.45 lacs d. Rs.32 lacs 
+ 
+18. Which of the following staff loan carry lowest interest rate: 
+a. Two wheeler Loan b. Individual Housing Loan 
+c. Personal Loan / O.D. d. None of these 
+ 
+19. Ceiling on Memento to Staff on retirement for award staff member is : 
+a. Rs.6,000/- b. Rs.2500/- 
+c. Rs.5000/- d.  No memento 
+ 
+20. Silver Jubilee award is given to our staff members who have completed 
+____________years of service. 
+a. 20   b. 30 
+c. 25 d. On retirement 
+ 
+21. What is ceiling up to which Proceeds of time deposits including interest 
+can be paid in cash as per Income Tax Act? 
+a. Below Rs.20,000/- b. Below Rs.10,000/- 
+c. Below Rs.50,000/- d. Below Rs.100,000/- 
+ 
+ 
+ 
+ 
+22. Tax will be deducted on TDR & STDR payments if the interest income 
+Exceeds Rs.__________per year 
+a. Above Rs.5000/- b. Above Rs.40,000 
+c. Above Rs.20,000 d. Above Rs. 25,000 
+23. Our Bank day is celebrated on : 
+a. 1st April b. 1st July 
+c. 31st March d. 1st Jan 
+ 
+24. As per latest Budget, the ceiling on Gratuity has been increased to 
+__________ 
+
+================================================================================
+PAGE 30
+================================================================================
+ 
+35 
+ a. Rs.3.5 lacs b. Rs. 20 lacs 
+c. Rs.10 lacs d. Rs.7.5 lacs 
+ 
+25. One of the following is not the four key elements under KYC Norms 
+a. Customer Acceptance 
+Policy b. Customer Identification Policy 
+c. Monitoring of Transactions d. ORM 
+ 
+26. A customer has been defined in  
+a. Banking Regulation Act  b. Negotiable Instruments Act 
+c. Anti-Money Laundering Act d. KYC guidelines 
+ 
+27. A Probate is    
+a. Will of the deceased b. The last will of a person certified 
+by legal heirs 
+c. A Registered Will of the 
+deceased d. Certified copy of a Will 
+ 
+28. The relation between the bank and customer in case of  loan accounts 
+a. Creditor and Debtor b. Debtor and Creditor 
+c. Principal and Agent d. None 
+ 
+29. Funds in one of the following account are not freely repatriable   
+a. NRE A/C b. RFC A/C 
+c. FCNB A/C d. NRO A/C 
+ 
+30. Minor can use ATM card independently in which account  
+a. Pehla Udaan b. Current Account 
+c. MOD Accunt d. Yuva Account 
+ 
+31. A Minor on his account can give nomination  
+a. He can b. No, he cannot 
+c. On his behalf, his guardian d. Both b & C 
+ 
+32. SB product for minors below 10 years of age  
+a. Pehla Kadam b. Flexi Deposit 
+c. Pehli Udaan d. Annuity Deposit 
+ 
+33. Which of  the following is pension scheme  
+a. SBI Tax Savings Scheme b. Flexi Deposit Scheme 
+c. Annuity Deposit Scheme d. Public Provident Fund 
+ 
+34. Ombudsman is appointed by   
+a. Ministry of Finance b. RBI 
+c. IBA d. None of the above 
+ 
+35. Maximum finance that can be sanctioned  to a  SHG for first time linkage 
+(1st dose)  is____ savings (Principal +Interest) 
+a. 4 times  b. 3 times 
+c. 2 times d. None 
+ 
+
+================================================================================
+PAGE 31
+================================================================================
+ 
+36 
+ 36. Third Party Cash payment limit at hon home branch for P Segment 
+is Rs…….  
+a. 10,000/- b. 15,000/- 
+c. 50,000/- d. 25,000/-. 
+ 
+37. AB1 is ________ Agreement.  
+a. Guarantee  b. Hypothecation 
+c. Mortgage d. None 
+ 
+38. For conversion of Crop loan to Term loan the document obtained is 
+a. AB1 b. AB2 
+c. AB7 d. AB4 
+ 
+39. Voice Recognition services are available in which app of SBI?  
+a. YONO lite b. YONO 
+c. SBI Samadhan d. SBI quick 
+ 
+40. To avail APY what is the upper age limit?  
+a. 40 b. 60 
+c. 30 d. None of the above 
+ 
+41. The maximum income per annum  for PMEGP eligibility   
+a. Rs 100000 b. Rs 500000 
+c. Rs 200000 d. No such ceiling 
+ 
+42. Minimum loan amount under SBI Asset Backed Agri Loan (Premium 
+Kisan Gold Card)  
+a. 3 lakhs b. 5 lakhs 
+c. 10 lakhs d. 4 lakhs 
+ 
+43. The Master Policy obtained by SBI  from  SBI Life to cover group 
+insurance of employees of SBI:  
+a. SBI Raksha b. Super Ganga 
+c. Super Suraksha d. SBI Life 
+ 
+44. Prime Minister Mudra Yojana loan under Shishu product is given   
+a. UptoRs 25000 b. Rs 10000 
+c. Upto Rs.50000 d. Rs 100,000 
+ 
+45. Prime Minister Mudra Yojana loan under Kishore product is given 
+for  
+a. Rs.50,000 b. Above Rs.50,000 to Rs.5,00,000 
+c. Rs.5,00,000 to Rs.10,00,000 d. Above 5,00,000 
+ 
+46. Agri. Gold loan is sanctioned as  
+a. Overdraft  b. Cash Credit 
+c. Term Loan d. Demand Loan 
+ 
+47. Under COPRA, 1986, District Consumer Disputes Redressal Forum 
+(DCDRF) popularly known as ‘District Commission’ will deals cases 
+up to Rs……  
+a. Upto Rs.10.00 Lac b. Upto Rs.50.00 Lac 
+
+================================================================================
+PAGE 32
+================================================================================
+ 
+37 
+ c. Upto Rs.1.00 crore d. Upto Rs.20.00 Lac 
+ 
+48. Safe keeping charges of Gold loans after expiry of term is 
+a. 50 +GST b. 100 +GST 
+c. 200 +GST d. 500 +GST 
+ 
+49. Kharif Season is from  
+a Oct to Mar b Apr to May 
+c Apr to Sep d Oct to Mar 
+ 
+50. Sec 131 of NI Act give protection to  
+a. Collecting Banker b. Paying Bankder 
+c. customer d. None of the above 
+ 
+51. Legal Death means a person missing for more than _____ years  
+a. 5  b. 6 
+c. 7 d. 10 
+ 
+52. Min. drawing permitted per cheque in SB Account is Rs  
+a. 5 b. 50 
+c. 150 d. 100 
+ 
+53. Interest on SB Account shall be paid  onthe basis  ---------------.  
+a. Monthly products  b. Minimum balance of the month 
+c. Daily products d. None of the above  
+ 
+54. Prime Minister Mudra Yojana loan under Tarun product is given for  
+a. Rs. 5 lacs to Rs.10 lacs b. Rs.2 lacs to Rs.5 lacs 
+c. Upto Rs.5 lacs d. Upto Rs.3 lacs 
+ 
+ 
+55. Under which Act paid cheques can be returned to the customer on 
+request  
+a. N I Act b. RBI Act 
+c. SBI Act d. Banking Regulation Act  
+ 
+ 
+56. A complaint submitted by customer must be finally settled within  
+a. 21 days b. 15 days 
+c. 7 days d. 14 days 
+ 
+57. The maximum Education loan under SBI GLOBAL ED-VANTAGE 
+Scheme  
+a. Rs.2.5 crore b. Rs.1 crore 
+c. Rs.30 lacs d. Rs.1.5 crore 
+ 
+58. PPF account cannot be opened in the name of    
+a. HUF b. NRI 
+c. Trust d. All above 
+ 
+59. Maximum credits in a financial year in SBI Insta Account 
+a. Rs 100,000 b. Rs 200,000 
+
+================================================================================
+PAGE 33
+================================================================================
+ 
+38 
+ c. Rs 400,000 d. Rs 500,000 
+ 
+60. Max balance in a small account  
+a. 10,000 b. 5,000 
+c. 50,000 d. 1,00,000 
+ 
+61. The certificate of chest balance as on ____ is submitted to RBI by the 
+chest branch 
+a. 31st March b. 31st May 
+c. 30th June d. 30th Sep 
+ 
+62. Min amount that can be deposited / withdrawn form the chest is Rs___ 
+and in multiples of Rs_______ 
+a. 1 lakh and 50000 b. 50000 and 50000 
+c. 1 lakh and 1 lakh d. None of these 
+ 
+63. An Insurer has died after 3 years from the commensment of the policy, 
+which type of insurance claim will be treated by the insurance Company? 
+a. Non-early death claims b. Early death claims 
+c. Survival claim d. Maturity Claim 
+ 
+64. Which one of the following can NOT do cash receipts / payments in 
+CBS?  
+a Branch Manager b Vault Custodian 
+c Cash Officer d Field Officer 
+ 
+ 
+65. How many transactions can be viewed in YONO app?  
+a. 150 b. 149 
+c. 10 d. unlimited 
+ 
+66. Safe custody Receipt of duplicate keys of a branch is held:  
+a. By the accountant outside 
+the strong room b. By the cash officer outside the 
+strong room 
+c. By the Branch Manager 
+outside the strong room d. By any one of the above 
+ 
+67. Relationship between banker and customer in case of Articles in Safe 
+Custody is:  
+a. Lessor - lessee b. Creditor - Debtor 
+c. Trustee - Beneficiar y d. Bailor - bailee 
+ 
+68. Progress report on Hindi implementation is to be submitted:  
+a. Quarterly b. Half yearly 
+c. Monthly d. Yearly 
+ 
+69. Definition of priority sector is formulated by  
+a. Reserve Bank of India b. Govt. of India 
+c. Indian Banks Association d. Ministry of Finance 
+ 
+70. The maximum balance in Basic Savings Bank Account is Rs.___  
+a. No ceiling b. 5,00,000 
+
+================================================================================
+PAGE 34
+================================================================================
+ 
+39 
+ c. 50,000 d. 10,000 
+ 
+71. A subsidiary of our Bank doing Life Insurance business is :  
+a. SBI  SOCIETY GENERAL b. SBI  MF 
+c. SBI  LIFE d. SBI -VISA 
+ 
+ 
+72. What is the most powerful body in the control of money supply   
+a. The government b. The public 
+c. The police d. The RBI 
+ 
+73. A person who owes money to the firm is called ___  
+a. Creditor b. Debtor 
+c. Customer d. Supplier  
+ 
+74. The banking ombudsman scheme covers the following banks.  
+a. Scheduled commercial 
+banks b. Regional Rural Banks 
+c. Cooperative Banks d. All the above 
+ 
+75. State Bank Collect is _________ product for collection of fees  
+a. Pension account b. Term Deposit 
+c. Tax Savings account d. Current account 
+ 
+76. Max withdrawal in a month in Small account  
+a. Rs.50,000 b. Rs.25,000 
+c. Rs.10,000 d. Rs.1,000 
+ 
+77. Nomination facility has been introduced on the recommendations of   
+a. Talwar Committee b. Goiporia committee 
+c. Tambe Committee d. Narasimham Committee 
+ 
+ 
+78. SHGs must function for a minimum period of ___ months before it 
+becomes eligible for first bank linkage (finance).  
+a. 6 months b. 12 months 
+c. 18 months d. 3 months 
+ 
+79. As per revised RBI guidelines on Priority Sector Banks should not 
+insist for "No dues or status certificates" from small borrowers up to 
+a limit of   
+a. Rs.50,000 b. Rs.25,000 
+c. Rs.1,00,000 d. Rs.10,000 
+ 
+80. Sukanya Samriddhi Account is opened for girls of age  
+a. Upto 21 years  b. Upto 18 years 
+c. Upto 10 years d. Upto 5 years  
+ 
+81. Min amount for RTGS transactionis :  
+a. Rs.2,00,000 b. Rs.2,50,000 
+c. Rs.5,00,000 d. Rs.50,000 
+ 
+
+================================================================================
+PAGE 35
+================================================================================
+ 
+40 
+  
+82. The recoveries effected in AUCA accounts are to be credited to  
+a. Charges account   b. AUCA 
+c. Profit & Loss account d. INCA 
+ 
+83. What is the maximum amount that can be settled to deceased 
+constituent without surety  
+a. Up to Rs.5 lakh b. Up to Rs.2 lakh 
+c. Up to Rs.10000 d. None of these 
+ 
+84. Scale of finance for important crops grown in the District is fixed by 
+a. RBI b. NABARD 
+c. Dist Level Tech Committee d. Regional office  
+ 
+ 
+85. Conversion of Crop Loan to ATL can be done when there is crop loss due 
+to 
+a. Flood b. Drought 
+c. Any other natural calamity d. Any of the above 
+ 
+86. PAIS covers KCC holders up to the age of 
+a. 50 b. 60 
+c. 70 d. 80 
+ 
+87. Consumption Loans under KGC can be granted up to 
+a. 20% of total limit b. 30% of total limit 
+c. 40% of total limit d. 50% of total limit. 
+ 
+88. What is the maximum balance in all accounts under a CIF of a minor 
+inPehla Kadam product 
+a. Rs.2 lacs b. Rs.5 lacs 
+c. Rs.10 lacs d. Rs. 1 lac 
+ 
+89. The full form of GRC is 
+a. Gross Risk Cover b. Green Remit Card 
+c. Green Reward Card d. Grand Reward Card 
+ 
+90. The maximum number of nominees in Public Provident Fund Account 
+a. 1 b. 2 
+c. 4 d. 3 
+ 
+EXERCISE – 7  
+ 
+1. b 16. b 31. b 46. d 61. b 76. c 
+2. d 17. c 32. a 47. b 62. a 77. a 
+3. d 18. b 33. c 48. b 63. a 78. a 
+4. b 19. a 34. b 49. c 64. b 79. a 
+5. b 20. c 35. a 50. a 65. b 80. c 
+6. d 21. a 36. d 51. c 66. c 81. a 
+7. b 22. b 37. b 52. b 67. d 82. a 
+8. d 23. b 38. c 53. c 68. a 83. a 
+
+================================================================================
+PAGE 36
+================================================================================
+ 
+41 
+ 9. d 24. b 39. a 54. a 69. a 84. c 
+10. a 25. d 40. a 55. d 70. a 85. d 
+11. c 26. d 41. d 56. a 71. c 86. c 
+12. d 27. d 42. a 57. d 72. d 87. a 
+13. c 28. a 43. c 58. d 73. b 88. c 
+14. a 29. d 44. c 59. a 74. d 89. b 
+15. b 30. a 45. b 60. c 75. d 90. c 
+
+================================================================================
+PAGE 37
+================================================================================
+ 
+42 
+  
+Exercise - 8  
+1. What is the minimum age to avail a housing loan?. 
+a) More than 18 years                     (b) More than 20 years    
+c) More than 21 years                     (d) More than 25 years 
+ 
+2. Which of the following housing loan products is sanctioned as an Overdraft?  
+(a) SBI Flexi Loan   (b) SBI Maxgain loan (c) SBI Freedom   (d) SBI Optima  
+                
+3 Which of the following Housing Loan products is sanctioned for purchase of house 
+plot? 
+(a) SBI Freedom         (b) SBI Optima     (c) SBI Realty    (d) SBI Maxgain 
+ 
+4. Under SBI Realty Housing Loan Scheme the customer has to give an undertaking 
+to complete construction of house within______ years. 
+(a) 1 year                    (b) 3 years             (c)  5 years          (d) 4 years 
+ 
+5. Reward points on using Debit cards are valid up to  _____ . 
+(a) 36 months            (b)24 months           (c) 12 months      (d)48 months 
+ 
+6. What is “Her Ghar Scheme? 
+(a) Personal Loan for house   (b) Pre approved Housing Loan 
+(c) Housing Loan for women   (d) None of the above 
+ 
+7. The pre approved Pension Loan eligible amount on YONO app? 
+(a) Rs.14,00,000/- (b)Rs.5,00,000/-  (c) Rs.2,50,000/-   (d)Rs.4,00,000/- 
+ 
+8. Which is not available on BHIM SBI Pay? 
+(a) Payment through QR Code         (b) Payment through VPA 
+(c) Shopping                                 (d) Payment through Account details 
+ 
+9. Special  Mention Account is a __________. 
+(a) Doubtful Asset          (b) Standard Asset having sign of sickness                 (c) 
+Sub Standard Asset   (d) None of these 
+ 
+10. NPA means_______________. 
+(a) Net Performing Asset          (b) Non Performing Asset 
+(c) No Privilege Account           (d) Non  Personal Account         
+11. SBI Xpress Credit is_____ 
+(a) Housing Loan        (b) Car loan      (c) Personal Loan     (d) Pension Loan 
+ 
+12. SBI Green Car Loans scheme is designed to buy which car? 
+(a) Electric Cars  (b) Solar Cars (c) Petrol Cars  (d) Diesel Cars 
+ 
+13. SBI Reverse Mortgage Loan is sanctioned to _____ 
+(a) Senior Citizens of 60 years and above age     (b) Pensioners 
+(c)  Employees                                                (d) None of the above 
+
+================================================================================
+PAGE 38
+================================================================================
+ 
+43 
+  
+14. The quantum of Loan under Reverse Mortgage Loan Scheme( subject to 90% of 
+value of the property) _____ 
+(a) Minimum Rs.1.00 lac & Maximum Rs.10.00 lacs 
+(b) Minimum Rs.2.00 lacs & Maximum Rs.50.00 lacs 
+(c) Minimum Rs.3.00 lacs & Maximum Rs.1.50 Crore 
+(d) Minimum Rs.5.00 lacs & Maximum Rs.1.00 Crore 
+ 
+15. Overdraft amount eligible for Gold variant of Corporate Salary accounts? 
+(a) 50,000         (b) 75,000            (c) 1,00,000           (d) 2,00,000 
+ 
+16. Overdraft amount eligible for Platinum variant of Corporate Salary accounts? 
+(a) 50,000   (b) 1,00,000                (c) 2,00,000       (d) 3,00,000 
+ 
+17. In YONO app which account will be opened in “Mydreams” 
+(a) Recurring Deposit   (b) Term Deposit  
+(c) Spl.Term Deposit    (d) Tax Saver Fixed Deposit 
+ 
+18.  Under SBI Pension Loan Scheme, loans are sanctioned to ______? 
+(a) Service pensioners   (b) Family pensioners 
+(c)  Both pensioners and Family pensioners       (d) SBI Employees 
+ 
+19. Under SBI Car Loan Scheme , loans are sanctioned to ________? 
+(a) Employees & Professionals                (b) Self-employed persons 
+(c)  Businessmen & Agriculturists            (d) All the above 
+ 
+20. The maximum loan that can be sanctioned for new cars under Car Loan Scheme 
+is______? 
+(a) Rs.5.00 lacs      (b) Rs.10.00 lacs (c)  Rs.20.00 lacs   (d) No upper ceiling 
+ 
+21. Borrower’s stake (margin) under Car Loan Scheme is ___ 
+(a) 5%                  (b) 10%           (c) 15%                  (d) 20% 
+ 
+22. Car Loan can be sanctioned for purchase of _______? 
+(a) New cars                                       (b) Pre-owned cars( second hand) 
+(c) Both New and Pre-owned cars        (d) Only Maruthi cars 
+ 
+23. Which of the following statements are True in respect of SBI Student Loan 
+Scheme? 
+(a) Loans are sanctioned to students along with their guardians. 
+(b) For studies in India and for studies abroad. 
+(c) Loans are also sanctioned for professional diploma courses. 
+(d) Simple rate of interest charged on loan amount during the education period. 
+(e) All the above 
+24. SBI Scholar is _______?  
+(a) An Education Loan Scheme               (b) A Scholarship Scheme 
+(c)  Personal Loan Scheme                     (d) All the above 
+ 
+
+================================================================================
+PAGE 39
+================================================================================
+ 
+44 
+  
+25. Under SBI Scholar Scheme education loan is sanctioned for studies in __? 
+(a) Government Colleges                               (b) Private Colleges 
+(c) Reputed Institutes like IITs and IIMs         (d) Polytechnic Colleges 
+ 
+26. Who can open account through YONO app? 
+(a) Who are above 18 years                 (b) Literates  
+(c) Able to sign uniformly                    (d) All of these 
+ 
+27. What is Tej app? 
+(a) BhimSbi Pay   (b) YONO App      (c) Paytm     (d)Googlepay 
+ 
+28. The Maximum loan sanctioned for studies abroad under student loan is 
+Rs._________. 
+(a) 20 Lacs              (b)  15 Lacs          (c) 10 Lacs       (d) 7.5 Lacs 
+ 
+29. The minimum loan against the pledge of gold ornaments for Personal Segment 
+customers ___________ 
+(a) Rs.3000                (b) Rs.5000          (c) Rs.20000          (d) Rs.15000 
+ 
+30. Maximum repayment period allowed for Per Segment Gold Loans is _____ 
+(a) 6 months       (b) 12 months          (c) 24 months    (d) 36 months 
+ 
+31. What is BCOR…… 
+(a) Business Continuity and Operational Resilience    
+(b) Business Correspondent and Operational Resilience  
+(c) Business  Continuity and Operational Risk    
+(d)  Business Correspondent  and Operational Risk  
+ 
+32. The maximum loan under Laghu Udyami scheme is ________ 
+(a) Rs.2 lacs           (b) Rs.5 lacs       (c) Rs.10 lacs          (d) Rs.20 lacs 
+ 
+33. Loans under SME Credit Card are sanctioned as______ 
+(a) Cash Credit    (b) Term Loan    (c) Demand Loan    (d) Both a & b only 
+ 
+34. Under SME Credit Card the customer must score minimum  _____marks out of 60 
+marks in Credit Score to become eligible for loan. 
+(a) 20 marks            (b) 30 marks         (c) 36 marks           (d) 50 marks 
+ 
+35. The loan under SME Smart Score is sanctioned to meet ________ 
+(a) Working Capital needs   (b) Expenditure for acquisition of fixed assets 
+(c)  Both a& b above          (d) None of the above 
+ 
+36. To be eligible for loan under SME Smart Score Scheme, the Chief  Promoter / 
+Chief Executive of the Unit should be below ____ years of age. 
+(a) 40 years              (b) 50 years            (c)  60 years         (d) 66 years 
+ 
+ 
+
+================================================================================
+PAGE 40
+================================================================================
+ 
+45 
+  
+37. The Minimum loan under SME Smart Score is _________ 
+(a) Rs.10 lacs       (b) above Rs.10 lacs     (c) Rs.20 lacs        (d) above Rs.20 lacs 
+ 
+38. Maximum limit of Insta Savings Bank account is……… 
+(a) Rs.5,00,000/-   (b) Rs.2,00,000/-  (c) Rs.1,00,000/-   (d) Unlimited. 
+ 
+39. What is QR Code 
+(a) Quick Response Code  (b) Quick Rescue Code 
+(c) Quick Recourse Code  (d) Quick Remittance Code 
+ 
+40. The artificial intelligence assistant in YONO App is called___________ 
+(a) CIA   (b) SIA    (c) Siya       (d) Seeya 
+ 
+41. The length of MPIN in YONO app  
+(a) 8 digits    (b)4 digits       (c)5 digits       (d)6 digits 
+ 
+42. Maximum number of Nominations can be made in Deposit accounts? 
+(a) Only one          (b) Two          (c) Three only        (d) Unlimited 
+ 
+43. Which current account is having Nomination facility? 
+(a) Partnership firm   (b)  Company account 
+(c) Proprietary firm   (d)  Trust account 
+ 
+44. In a day how many times Locker can be operated? 
+(a) One time only   (b) Two times only     (c) Three times      (d) No limit 
+ 
+45. In a year how many times locker can be operated without any fee? 
+(a) 10 times         (b) 12 times      (c) 20 times     (d) No such ceiling 
+ 
+46. Repayment period of Gold Loan Bullet repayment period _______ 
+(a) 3 months       (b) 6  months     (c) 12  months (d) All the above 
+ 
+47. The repayment of Preapproved Xpress Credit is  
+a)72 months   (b)60 months     (c) 48 months    (d) 6 to 12 months 
+ 
+48. Maximum age limit for sanction of Pension Loan? 
+(a) 76 Years   (b)  78 Years    (c) 72 Years      (d)  74 Years 
+ 
+49. Under Fxout which is a foreign outward remittance product, how many currencies 
+are available to remit…… 
+ (a) 6 Currencies   (b) 97 Currencies 
+ (c) 3 Currencies    (d) 8 Currencies 
+ 
+ 
+50. Minimum and maximum age for sanction of a Car Loan are : 
+ (a) 21 , 70 years    (b)  18, 70 years   (c) 21 , 58 year   (d) None of these 
+ 
+
+================================================================================
+PAGE 41
+================================================================================
+ 
+46 
+  
+51. Which of the following is not our current Housing Loan product? 
+(a) SBI Maxgain             (b) SBI Realty 
+(c) SBI Green Home       (d) SBI Flexi pay Home Loan 
+ 
+52. Which of the following is not one of the stages of money laundering?. 
+(a)  Layering    (b) Integration   (c)  Placement       (d) Phishing 
+ 
+53. Fxout a foreign outward remittance facility is available in:  
+a) All Branches   (b) Forex Branches   (c) PBB Branches   (d) CAG Branches 
+ 
+54. Minimum period for which a TDR can be opened? 
+(a) 1 day         (b) 30 days            (c) 90 days             (d) 7 days 
+ 
+55. The salaries & allowances are now paid in our  Bank through:  
+(a) PPG Dept   (b) HRD     (c) HRMS  (D) Branch Establishment   
+ 
+56. What is the minimum Loan amount under SBI Car loan? 
+(a) Rs. 1.00 lakh   (b) Rs. 2.00 lakh    (c) Rs.3.00 lakh        (d) Rs. 5.00 lakh 
+ 
+57. Foreign Student studying in India has to open which type of account? 
+(a) NRE account   (b) NRO account  (c) Domestic account    (d) FCNR B account 
+ 
+58. Corporate Salary Package (CSP) has been launched with the objectives of: 
+(a) For entering into Corporate Tie-ups with reputed Corporates and Institutions to 
+open the Salary Accounts of their employees with us. 
+(b) Their employees would get a plethora of benefits in asset products.  
+(c) This Corporate Salary Package (CSP) would help us to build a good 
+relationship with such employees of corporates/Institutions, 
+(d) All the above 
+ 
+59. How many variants of ‘ Corporate Salary Accounts’ are offered to employees 
+under ‘ Corporate Salary Package’ scheme. 
+(a) Corporate Salary A/c – Silver         (b) Corporate Salary A/c – Gold 
+(c) Corporate Salary A/c – Diamond    (d) Corporate Salary A/c – Platinum 
+(e)   Corporate Salary A/c – Rhodium   (f) All the above  
+60. ATM cash safe password is to be changed for every…….days: 
+(a) 30 days   (b) Quarterly  (c) Half yearly    (d)Annually 
+ 
+61. YONO Cash per day limit is ________ 
+(a) Rs.25,000/-   (b) Rs.20,000/-  (c) Rs.10,000/-   (d) Rs.50,000/- 
+ 
+62. Toll free number for YONO  _______ 
+(a) 1033        (b)18004253800  (c)1800111101   (d)1800112211 
+ 
+63. One reward point of YONO is equal to …… 
+(a) 1 Rupee   (b) 0.75 paise     (c) Rs.0.50 paise   (d) 0.25 paise 
+ 
+
+================================================================================
+PAGE 42
+================================================================================
+ 
+47 
+  
+64. Which feature is not available in YONO Krishi? 
+(a) YONO Bachat   (b) YONO Mitra   (c) YONO Mandi  (d) YONO Kisan Bazar 
+ 
+65. KCC borrowers are covered under __________ 
+(a) Personal Accident Insurance Scheme    (b) Life Insurance Scheme 
+(c)  General Insurance Scheme                 (d) Medical Insurance scheme 
+ 
+66. In which product loan can be sanctioned against SARFAESI Compliant property 
+under Agri Segment 
+(a) ABAL                          (b) KCC 
+(c) KGC                         (d) Produce Martk’g Loan 
+ 
+67. ATM Magnetic stripe cards are replaced by…… 
+(a) Rupay Cards (b) Platinum Cards 
+(c) EmV Cards                (d) Global Cards 
+ 
+68. What is MAB in the contest of POS mahines? 
+(a)  Monthly Average Balance              (b)  Minimum Averagae Balance 
+(c)  Merchant Acquisition Business        (d)  Merchang Acquiring Business 
+ 
+69. What is Fastag? 
+(a) Point of sales                                (b) QR code facility 
+(c) Payment Wallet to pay toll tax        (d) Chip card to pay Toll tax 
+ 
+70. The maximum amount under SBI Loan to Pensioner is Rs.  
+(a)  Rs.50,000                                   (b) Rs.3.00 lacs 
+(c)  Rs.14.00 lac                                (d) Rs.2.00 lacs 
+ 
+71 What is a small account? 
+(a) Account opened with PAN CARD     (b) Account opened without OVD 
+(c) Account opened at CSP Point           (d) None of the above 
+ 
+72 In a Small Account the aggregate of all withdrawals and transfers in a month does 
+not exceed rupees? 
+(a) 20000                  (b) 30000               (c) 10000        (d) 5000 
+ 
+73 In a Small account the Balance at any point of time does not exceed rupees? 
+(a) 50000            (b) 10000             (c) 100000       (d) 1000000 
+ 
+74 How many types of Officially valid documents are available for KYC purpose? 
+(a) 54                  (b) 5                   (c) 6             (d) 8 
+ 
+
+================================================================================
+PAGE 43
+================================================================================
+ 
+48 
+  
+75 The aggregate of all credits of a small account in a financial year does not exceed 
+rupees? 
+(a) 10000             (b) 100000                (c) 50000           (d) 1000000 
+ 
+76 The operations in the small accounts can be further extended for how many 
+months if the account holder submits proof of acknowledgement for having 
+applied for any OVD? 
+(a) 12                (b) 24                  (c) 6              (d) None of the above 
+ 
+77 What is the minimum installment amount under RD scheme? 
+(a) 1000              (b) 500                  (c) 100                 (d) 50 
+ 
+78 What is minimum and maximum tenor for RD? 
+(a) 6 Months and 5 Year                (b) 1 Year and 10 Years 
+(c) 3 Months and 10 Years            (d) None of the above 
+ 
+79 Where there is default in payment of three or more consecutive installments in RD 
+and term =< 5 years the penalty will be? 
+(a)Penalty shall be Rs.1.50 for every Rs.100/- 
+(b)Penalty shall be Rs.2.00 for every Rs.100/ 
+(c) Penalty shall be Rs.10/-  
+(d) No penalty 
+ 
+80 Where there is default in payment of three or more consecutive installments in RD 
+and term >= 5 years the penalty will be? 
+(a) Penalty shall be Rs.1.50 for every Rs.100/- 
+(b) Penalty shall be Rs.2.00 for every Rs.100/- 
+(c) Penalty shall be Rs.10/-  
+(d) No penalty. 
+ 
+81 In case six consecutive installments are not received, RD will be? 
+(a) RD account will be closed at the 
+(b) The account should prematurely and the proceeds will be credited to SB a/c 
+(c) Amount will be credited charges.  
+(d) None of the above. 
+ 
+82 How much loan amount can we sanction against RD? 
+(a) 90% of the balance in RD    (b) 100% of the balance in RD. 
+(c) 75% of the balance in RD (d) No loan sanctioned against RD. 
+83 What is the minimum deposit for PPF account in a year? 
+(a) Rs.500/-       (b) Rs.1000/-            (c) Rs.50/         (d) Rs.100/ 
+ 
+
+================================================================================
+PAGE 44
+================================================================================
+ 
+49 
+ 84 What is the maximum deposit for PPF account in a year? 
+(a) Rs.50000/-       (b) Rs.150000/-      (c) Rs.5000/-    (d) Rs.1500000/- 
+ 
+85 What is the tenure and lock in period for PPF accounts? 
+(a) 15 Years and 3 years                (b) 15 Years and 5 years 
+(c) 10 Years and 5 years                (d) 15 Years and 10 years 
+ 
+86 Number of nominations allowed under PPF account? 
+(a) 1                  (b) 2                      (c) 3                    (d) Any number of persons 
+ 
+87 Form used for Nominations purpose under PPF account? 
+(a) Form 1                 (b) Form 2           (c) Form A               d) Form C 
+ 
+88 Minimum and Maximum no of subscriptions allowed under PPF account? 
+(a) Minimum: 1 & Maximum: 12              (b) Minimum: 1 & Maximum: No limit 
+(c) Minimum: 2 & Maximum: 24              (d) Minimum: 1 & Maximum: 24 
+ 
+89 The minimum & maximum amount that can be accepted in Term Deposit is? 
+(a) Rs.100/- & No Maximum                (b) Rs.1000/- & No Maximum  
+(c) Rs.10000/- & Rs.10.00 Crore         (d) Rs.500/- & Rs. 100.00 Crore 
+ 
+90 A Special term deposit can be opened with a minimum and multiples of? 
+(a) Rs.1000/- and Rs.100/-            (b) Rs.10000/- and Rs.1000/- 
+(c) Rs.1000/- and Rs.1000/-          (d) Rs.100/- and Rs.100/- 
+ 
+91 How much loan amount can be sanctioned against TDR? 
+(a) 75% TDR (Principal)                              (b) 75% TDR (Principal+ Accrued 
+interest) 
+(c) 90% TDR (Principal+Accrued interest)  (d) 90% TDR (Principal) 
+ 
+92 STDR can be issued for a tenure of? 
+(a) Min:  7 days and Max: 120 months         b) Min: 3 months and Max: 120 
+months 
+(c) Min: 6 months and Max: 120 months      d) Min: 12 months and Max: 120 
+months 
+ 
+93 How much loan amount can be sanctioned against STDR? 
+a) 90% STDR (Principal+ Accrued int)    (b) 75% STDR (Principal+ Accrued int) 
+(c) 90% STDR (Principal)                        (d) 75% STDR (Principal) 
+ 
+94 The maximum deposit accepted in term deposit account of minor in single name? 
+(a) 20 Lakh             (b) 2 Lakh                     (c) 10 Lakh           (d) 1 Lakh 
+ 
+
+================================================================================
+PAGE 45
+================================================================================
+ 
+50 
+  
+95 Whats is the age criteria to enroll into Sukanya Samriddhi Account Scheme? 
+(a) Min- Since Birth; Max-10 years           (b) Min- Since Birth; Max-21 years 
+(c) Min- 3 Months ; Max-10 years             (d) Min- Since Birth; Max-18 years 
+ 
+96 What is the minimum subscription in a year in SSA? 
+(a) Rs.50/-                 (b) Rs.250/-           (c) Rs.500/-          (d) Rs.100/- 
+ 
+ 
+97 The total amount deposited in a year in SSA shall not exceed? 
+(a)Rs.100000/-       (b) R Rs.50000/-        (c) Rs.200000/-     (d) Rs.150000/- 
+ 
+98 What is the Penalty for default in installment for a year? 
+(a) Rs.150/-            (b) Rs.50/-               (c) Rs.100/-         (d) Rs.500/- 
+ 
+99 What is the tenure of SSA? 
+(a) 21 Years                                               (b) 18 years 
+(c) 21 Years from the date of opening       (d) 18 Years from the date of opening  
+ 
+100 Withdrawal is permissible only when? 
+(a) Girl child attains 21 years of age          (b) After completion of 15 years 
+(c) Girl child attains 18 years of age          (d) No withdrawal is allowed 
+ 
+101 Pehla Kadam is a Savings Bank account opened for? 
+(a) Minor of any age operated single operated 
+(b) Minor of age below 10 years with Guardian  
+(c) Minor of age above 10 years  
+(d) For all age group 
+ 
+102 Pehli Udaan is a Saving Bank account opened for? 
+(a) Minor of any age operated single operated 
+ b) Minor of age above 10 years who can sign uniformly. 
+(c) Minor of age below 10 years  
+(d) For all age group 
+ 
+103 The maximum balance in Pehla Kadam and Pehli Udaan SB accounts is capped 
+at? 
+(a) 5 Lakh           (b) 1 Lakh              (c) 2 Lakh           (d) 10 Lakh 
+ 
+104 The aggregate balance on the Minor’s CIF is capped at? 
+(a) 5 Lakh              (b) 1 Lakh               (c) 10 Lakh             (d) 2Lakh 
+ 
+
+================================================================================
+PAGE 46
+================================================================================
+ 
+51 
+  
+105 To open a Saving Account under Pehla Kadam the documents required? 
+(a) Proof of DOB of the Minor and KYC of parent/Guardian 
+(b) KYC of both Minor and Parent/G 
+(c) 10 Lakh KYC of Minor  
+(d) KYC of Parent/Guardian 
+106 For Saving Accounts opened under Pehla Kadam and Pehli Udaan the facilities 
+available are? 
+(a) INB with limited transaction rights            b) Photo embossed ATM 
+(c) Auto sweep of Rs.10000/-                        d) All the above 
+ 
+107 What is the minimum and maximum tenure for Flexi Deposit? 
+(a) Min: 5 Years & Max: 7 Years             b) Min: 1 Years & Max: 10 Years  
+(c) Min: 1 Years & Max: 5 Years             d) Min: 3 Years & Max: 7 Years 
+108 What is the minimum and maximum amount to be deposited in Flexi Deposit in a 
+year? 
+(a) Min: Rs.5000/-, Max: Rs.50000/-            b) Min: Rs.500/-, Max: Rs.50000/-  
+(c) Min: Rs.1000/-, Max: Rs.50000/-            d) Min: Rs.5000/-, Max: Rs.100000/ 
+ 
+109 What is the minimum amount to be deposited under Annuity Deposit Scheme? 
+(a) Rs.10000/-           (b) Rs.25000/-               (c) Rs.50000/-        (d) Rs.100000/- 
+ 
+110 What is the minimum monthly annuity to be received is? 
+(a) Rs.10000/-          (b) Rs.1000/-            (c) Rs.500/-         (d) Rs.5000/- 
+ 
+111 What is the maximum amount to be deposited under Annuity Deposit Scheme? 
+(a) Rs.1000000/-         (b) Rs.10000000/-            (c) Rs.100000/-          (d) No limit 
+ 
+112 What is the tenure for Annuity Deposit? 
+(a) 2/3/5/7 Years         (b) 3/5/7/10 Years       (c) 3/5/7/9 Years            (d) 1 to 10 
+years 
+ 
+113 The types of deposit accounts opened under Capital Gain Scheme? 
+(a) Current account and TDR/STDR  
+(b) Savings Bank account and TDR 
+(c) Saving Bank account and Current Account 
+(d) Any of the above accounts 
+114 What is the period of deposit under Capital Gain Scheme? 
+(a) 3 to 5 years from the date of transaction 
+(b) 2 to 3 years from the date of transaction 
+(c) 1 to 3 years from the date of transaction 
+(d) 1 to 5 years from the date of transaction 
+ 
+
+================================================================================
+PAGE 47
+================================================================================
+ 
+52 
+ 115 What is the minimum amount in case of Cap Gains Term Deposits? 
+(a) Rs.1000/-           (b) Rs.10000/-             (c) Rs.500/-          (d) Rs.5000/- 
+ 
+116 How many number of nominations allowed under Capital Gain Scheme? 
+ (a) Only one        (b) Up to two          (c) Up to three          (d) Any number 
+ 
+117 Maximum cash withdrawals allowed per instance from Saving Account opened 
+under CGAS? 
+(a) Rs.10000/-             (b) Rs.15000/-                  (c) Rs.20000/-           (d) 
+Rs.25000/- 
+ 
+118 Which form is used for nomination purpose under CGAS? 
+(a) Form A              (b) Form B                      (c) Form E              (d) Form F 
+ 
+119 What is the deposit period under Saving Plus Scheme? 
+(a) (a) 2 to 5 years           (b) 1 to 5 years               (c) 3 to 5 years        (d) 5 years 
+ 
+ 
+120 What is the minimum threshold amount under Saving Plus Scheme? 
+(a) Rs.25000/-           (b) Rs.35000/-             (c) Rs.10000/-           (d) Rs.20000/- 
+ 
+121 What is the resultant balance amount under Saving Plus Scheme? 
+(a) Rs.25000/-            (b) Rs.35000/-             (c) Rs.15000/-            (d) Rs.10000/- 
+ 
+122 What is the sweep amount under Saving Plus scheme and multiples of? 
+(a) Rs.1000/- Multiples of Rs.1000/-             (b) Rs.5000/- Multiples of Rs.1000/- 
+(c) Rs.10000/- Multiples of Rs.1000/-           (d) Rs.10000/- Multiples of Rs.100/- 
+ 
+123 What is the method adopted in MOD break up? 
+(a) FIFO - First in first out                      (b) LIFO - Last in first out 
+(c) Based on Customer Choice             (d) None of the above 
+ 
+124 In Pehla Kadam/Pehli Udaan accounts the threshold amount should be? 
+(a) Rs.20000/-            (b) Rs.10000/-            (c) Rs.15000/-              (d) Rs.5000/- 
+ 
+125 What is the maximum amount can be deposited under Senior Citizen Saving 
+Scheme (SCSS) 2004? 
+(a) Rs.10.00 Lakh         (b) Rs.15.00 Lakh       (c) Rs.30.00 Lakh   (d) Rs.50.00 
+Lakhs 
+ 
+126 What is the tenure allowed under Senior Citizen Saving Scheme (SCSS) 2004? 
+(a) 5 Years                 (b) 5 Years           (c) 7 Years          (d) 10 Years  
+ 
+127 The form used for nomination in SCSS? 
+(a) Form – A                 (b) Form – C                   (c) Form – E            (d ) Form – F 
+
+================================================================================
+PAGE 48
+================================================================================
+ 
+53 
+  
+128 Premature closure is allowed in SCSS after how many years? 
+(a) After 1 year     (b) After 2 year   (c) After 3 year  (d) Premature closure not 
+allowed 
+ 
+129 The form used for premature closure in SCSS? 
+(a) Form - A               (b) Form – C                   (c) Form - E               (d) Form – F 
+ 
+130 Except PSB, what are the other private banks than can open SCSS accounts? 
+(a) ICICI       (b) IDBI        (c) Both 1 & 2     (d) No private bank is authoraized to 
+open 
+ 
+131 Which scheme provide option for sweep and reverse sweep? 
+(a) Suraksha Deposit Scheme                       (b) Power Jyothi Current Account 
+(c) Power Jyothi POS Current Account         (d) Surabhi Deposit Scheme 
+ 
+132 Who are not eligible to open the Surabhi Deposit Current Account? 
+(a) Individuals                        (b) Corporate Institutions.    
+(c) Trusts                               (d) Small & Medium Enterprise. 
+ 
+133 What is the minimum and maximum period for CLTD (Corporate Liquid Term 
+Deposit)? 
+(a) Min: 15 days &Max : 2 years            (b) Min: 7 days & Max : 3 years 
+(c) Min: 7 days &Max : 1 year                (d) Min: 7 days & Max : 10 years 
+ 
+134 What is the MAB to open CA under Surabhi Deposit Scheme? 
+(a) Rs.10000/-           (b) Rs.20000/-          (c) Rs.50000/-      (d) Rs,100000/- 
+ 
+135 What is the minimum frequency of Sweep under Surabhi Deposit Scheme? 
+(a) at the end of day       (b) Monthly          (c) Fortnightly        (d) 
+Weeklys,100000/- 
+ 
+136 the Threshold limit for auto sweep is? 
+(a) Rs.100000/-           (b) Rs.10000/-           (c) Rs.50000/-         (d) Rs.1000/- 
+ 
+137 What is the MAB for Power Jyothi Current Account? 
+(a) Rs.10000/-           (b) Rs.50000/-            (c) Rs.100000/-         (d) Rs.5000/- 
+ 
+138 What is the penalty for non maintaining MAB in Power Jyothi Current Account? 
+(a) Rs.2000/- +GST                       (b) Rs.4000/- +GST 
+(c) Rs.8000/- +GST                       (d) Rs.1000/- +GST 
+139 The current account suggested for Startup Entrepreneurship? 
+(a) Power Jyothi CA                        (b) Shubharambh Current Account 
+(c) Power Jyothi PUL CA                (d) Diamond CA 
+ 
+
+================================================================================
+PAGE 49
+================================================================================
+ 
+54 
+ 140 What is the MAB for Shubharambh Startup Current Account? 
+(a) Rs.20000/-                  (b) Rs.10000/- 
+(c) Rs.50000/-                  (d) Rs.100000/- 
+ 
+141 What are the Non-Maintaining of MAB Charges in Shubharambh Startup Current 
+Account? 
+(a) Rs.1000/- per month +GST              (b) Rs.2000/- per month +GST 
+(c) Rs.4000/- per month +GST              (d) Rs.500/- per month +GST 
+ 
+142 Which types of customer are not eligible to open Shubharambh Startup Current 
+Account? 
+(a) Private Limited Company                (b) Limited Liability Partnership 
+(c) Registered Partnership Firm           (d) Proprietary Firm  
+ 
+143 Which of the following is not a Current Account Variant? 
+(a) Silver              (b) Gold                    (c) Diamond              (d) Platinum 
+ 
+144 What is MAB for Diamond Variant Current Account? 
+(a) Rs.10.00 Lakh         (b) Rs.1.00 Lakh        (c) Rs.15.00 Lakh       (d) Rs.5.00 
+Lakh 
+ 
+145 What is the penalty for non maintaining the MAB in Gold Variant Current Account?  
+(a) Rs.500/- + GST                     (b) Rs.2000/- + GST 
+(c) Rs.1000/- + GST                   (d) Rs.4000/- + GST 
+ 
+146 What is the penalty in Platinum Variant Current Account if the MAB maintained is 
+less than 5 lakh? 
+(a) Rs.4000/- + GST                        (b) Rs.8000/- + GST 
+(c) Rs.2000/- + GST                        (d) Rs.500/- + GST 
+ 
+147 What is the penalty in Diamond Variant Current Account if the MAB maintained is 
+above 2.5 lakh? 
+(a) Rs.4000/- + GST                     (b) Rs.2000/- + GST 
+(c) Rs.1000/- + GST                     (d) Rs.8000/- + GST 
+ 
+148 What is the MAB for Rhodium Current Account  
+(a) Rs.10,00,000/-                             (b) Rs. 25,00,000/- 
+(c) Rs. 50,00,000/-                            (d) Rs. 75,00,000/- 
+ 
+149 What is full form BCSBI? 
+(a) Banking Codes for State Bank of India 
+(b) Banking Codes and Standards Business of India 
+(c) Banking Codes and Standards Board of India 
+(d) None of the above 
+ 
+
+================================================================================
+PAGE 50
+================================================================================
+ 
+55 
+ 150 BCSBI was registered as a society under the Societies Registration Act, 1860 in? 
+(a) 2002               (b) 2005                 (c) 2006          (d) 2010 
+ 
+151 As per BCSBI what is the permitted time for redressal of customer complaint? 
+(a) 90 days               (b) 30 days                   (c) 21 days          (d) 60 days 
+ 
+152 What are the code in BCSBI? 
+(a) Codes of Bank’s Commitment to customers 
+(b) Codes of Bank’s Commitments to MSME customers 
+(c) Both of the above      
+(d) Banking practices code 
+ 
+153 Customer Service Committee meeting to be conducted in the branches at time 
+interval? 
+(a)Monthly              (b) Quarterly               (c) Half yearly              (d) Fortnightly 
+ 
+154 What is frequency for conducting Preventive Vigilance Committee Meeting? 
+(a)Monthly              (b) Quarterly                (c) Half yearly             (d) Yearly 
+ 
+ 
+ 
+155 out of the below mentioned options, who can not be treated as Politically Exposed 
+Persons? 
+(a) Heads of States or Central Government         (b) Senior politicians 
+(c) Senior government / judicial                            (d) District Collector 
+ 
+156 Politically Exposed Persons  are categorized under which risk?  
+(a) Low Risk            (b) Medium Risk        (c) High Risk         (d) Acceptable Risk 
+ 
+157 The risk updation periodicity of High Risk Customers is? 
+(a) 3 Years                (b) 2 Years                    (c) 5 Years             (d) 8 Years 
+ 
+158 What is the full form of VCIP? 
+(a) Video based Customer Identification procedure 
+(b) Video based Customer Interaction procedure 
+(c) Video based Customer Identification process 
+(d) Video based Customer Important process 
+ 
+159 What is the full form of CDIF? 
+(a) Customer Data Input form  
+(b) Customer Data Important form 
+(c) Customer Due Diligence Input form  
+(d) Customer Data Information File 
+160 How many types of Red Flag Indicators issued by FIU-IND? 
+(a) 50                  (b) 25                   (c) 30                (d) 80 
+
+================================================================================
+PAGE 51
+================================================================================
+ 
+56 
+  
+161 Which of the following are the Prerequisites for Google Pay? 
+(a) Android mobile or iPhone with 4.2 and above version 
+(b) Active Indian bank account with debit card 
+(c) Active Mobile number 
+(d) All the above 
+ 
+162 In Google Pay VPA is a virtual id in the form of? 
+(a) Uniqueid@sbi                  (b) Uniqueid@oksbi 
+(c) Uniqueid@ybl                  (d) mobileno@oksbi 
+ 
+163 What is the maximum transaction limit per day on GOOGLE PAY? 
+(a) Rs.10000/-                (b) Rs.100000/-     (c) Rs.50000/-       (d) No such limit 
+ 
+164 Which of the following is not true about GOOGLE PAY? 
+(a)Funds transfer through MMID       (b) Account number & IFSC Code  
+(c) QR Code                                      (d) Through phone number 
+ 
+ 
+165 The designated mail ID for reporting issues related to UPI related transactions? 
+(a) Supportupi@sbi.co.in                 (b) Support.upi@sbi.co.in 
+(c) Support.google@sbi.co.in           (d)unauthoraisedtransaction@sbi.co.in  
+ 
+166 The mode transaction is used to quickly transfer money with nearby G-Pay users 
+using Audio? 
+(a) Tez Mode           (b) G Pay Mode           (c) VPA Mode             (d) QR Mode 
+ 
+167 Which option is not true for BHIM SBI Pay? 
+(a) Virtual Payment Address(VPA)              (b) Account number & IFSC Code  
+(c) QR Code                                                 (d) MMID 
+168 What is the maximum transaction limit per day on BHIM SBI Pay? 
+(a) Rs.10000/-                          (b) Rs.100000/- 
+(c) Rs.50000/-                          (d) No such limit 
+ 
+169 What is the maximum number of accounts can be mapped in BHIM SBI Pay? 
+(a) 1                 (b) 5               (c) 10              (d) No such limit 
+ 
+170 What is daily transaction limit for pay money during first seven days 
+of registration? 
+(a) Rs.10000/-              (b) Rs.5000/-              (c) Rs.100000/-     (d) Rs.1000/- 
+ 
+171 In BHIM SBI Pay VPA is a virtual id in the form of? 
+(a) uniqueid@oksbi                      (b) mobileno@sbi 
+(c) uniqueid@sbi.co.in                        (d) uniqueid@sbi 
+ 
+
+================================================================================
+PAGE 52
+================================================================================
+ 
+57 
+ 172 The Technology that is used in SBI FASTag to read the Tag is? 
+(a) RFID              (b) SBI FAST                     (c) EMV           (d) NFC 
+ 
+173 For Fastags, NHAI has classified vehicles in to how many types? 
+(a) 5                    (b) 6                     (c) 7                 (d) 8 
+ 
+174 Contact Center Toll Free Number for Fastag in SBI? 
+(a)1800111101                         (b) 1800110018  
+(c) 1800111109                        (d) 1800111118 
+175 Designated mail id for FASTag related complaints? 
+(a) help.fastag@sbi.co.in                       (b) helpline.fastag@sbi.co.in 
+(c) helpdesk.fastag@sbi.co.in              (d) fastag@sbi.co.in  
+ 
+176 For Limited KYC FASTag Account Monthly reload limit capped at? 
+(a) Rs.1000/-          (b) Rs.5000/-          (c) Rs.100000/-             (d) Rs.10000/- 
+177 Validity Period of FASTag? 
+(a) 1 year             (b) 10 years           (c) 20 years           (d) Unlimited 
+ 
+178 With Bharat QR Transaction per day and per user are? 
+(a) Rs.50000/-           (b) Rs.100000/-            (c) Rs.10000/-          (d) Rs.2000/- 
+ 
+179 The Monthly Service Fee/Rental for Bharat QR provided for SBI? 
+(a) Rs.100/-           (b) Rs.1000/-               (c) Rs.500/-                (d) Nil 
+ 
+180 Which of the following is not true about Pre-requisites by merchant for Bharath 
+QR? 
+(a) Smart mobile phone                 (b) Account with SBI 
+(c) QR code Scanner                     (d) data connection 
+ 
+181 Which of the following are not the benefits of Bharath QR to the bank? 
+(a) CASA balances                               (b) Merchant discount rate 
+(c) It has no CAPEX and less OPEX    (d) Monthly rental 
+ 
+182 The information which is not stored in dynamic QR code ? 
+(a) Merchant ID          (b) Terminal ID            (c) Merchant Address      (d) Amount. 
+ 
+183 Full form QR code? 
+(a) Quality Reader Code                             (b) Quick Reader Code 
+(c) Quick Response Code                           (d) Quick Remember Code 
+184 To catering to the requirements of the Realtors the current account suggested is? 
+(a) RERA Current Account                          (b) Realtors Current Account 
+(c) Subharambh Current Account                (d) Arthia Current Account 
+ 
+
+================================================================================
+PAGE 53
+================================================================================
+ 
+58 
+ 185 New accounts under Realtor’s Current Account can be opened only with 
+the approval of? 
+(a) DGM (B&O) or DGM in CAG/MCG           (b) GM of the Network 
+(c) CGM of the circle                                      (d) No approval required    
+ 
+186 Real Estate Regulatory Authority (“RERA”) act implemented in the year? 
+(a) 2015                    (b) 2016                 (c) 2017              (d) 2014  
+ 
+187 How many Current Accounts will be opened under Realtors Current Account? 
+(a) 1                  (b) 2                    (c) 4                 (d) 3 
+ 
+188 Which account will be registered with RERA Authority?  
+(a) Account 1                 (b) Account 2               (c) Account 3     (d) None of the 
+above 
+ 
+189 Auto Sweep from Account No 1 to Account No 2 and Account No 3 in the ratio of? 
+(a) 80:20                    (b) 90:10                     (c) 70:30                (d) 50:50 
+ 
+190 What is the salary criteria for Gold Variant Salary Package Account? 
+(a) Rs.50001 to Rs.100000                 (b) Rs. 25001 to Rs. 50000 
+(c) Rs. 20000 to Rs. 25000                  (d) Rs.10000 to Rs.25000 
+ 
+191 What is the salary criteria for Platinum Variant Salary Package Account? 
+(a) Rs.50001 to Rs.100000                        (b) Rs. 25001 to Rs. 50000 
+(c) Rs. 100001 to Rs.200000                      (d) Rs.75001 to Rs.100000 
+ 
+192 Overdraft Amount allowed under Diamond Salary Package Account? 
+(a) Rs.1.00 lakh                   (b) Rs.2.00 lakh 
+(c) Rs. 3.00 lakh                  (d) Rs.5.00 Lakh 
+ 
+193 Concession on locker Rent for Platinum variant Accounts? 
+(a) 10%              (b) 50%                  (c) 25%            (d) 5% 
+ 
+194 SBI RISHTEY schme is eligible which variant of Salary Package Accounts? 
+(a) Silver                   (b) Gold and above variants 
+(c) CSP lite               (d) None of the above 
+ 
+195 PAI coverage for Diamond Variant Salary Package? 
+(a) Rs.15 lakh                           (b) Rs.10 lakh 
+(c) Rs.20 lakh                           (d) Rs.25 lakh 
+ 
+196 What is the path for entering the cheque details for depositing at CDK?  
+(a) YONO>Service Requets>Cheques>Cheque Deposit 
+(b) YONO>Service Requets>Cheques>Cheque 
+(c) YONO>Cheques>Cheque Deposit 
+
+================================================================================
+PAGE 54
+================================================================================
+ 
+59 
+ (d) YONO>Cheque Deposit 
+ 
+197 How many cheques can be submitted at once in CDK? 
+(a) 5             (b) 20              (c) 10              (d) 5 
+ 
+198 Within how many days we have to submit the physical cheques in the CDK? 
+(a) 10          (b) 15          (c) 20        (d) 30 
+ 
+199 Howmany Alphanumeric digits are there in an IFS Code? 
+(a) 10            (b) 11              (c) 12          (d) 9 
+ 
+200 What is the path for raising a complaint in Yono? 
+(a) YONO>Service Request>Raise a complaint          (b) YONO>Raise a 
+complaint 
+(c) YONO>Get In Touch>Raise a complaint                (d) None of the above  
+ 
+201 Which of the following facility is not available in Pre Yono Login screen? 
+(a) Raise a complaint                (b) Balance Enquiry 
+(c) View Transactions               (d) Forget password 
+ 
+202 The PRINCIPAL OFFICER as per the ‘ AML/CFT Structure in Bank? 
+(a) GM (AML-CFT)                       (b) GM  
+(c) MD (SA, R&C)                         (d) DMD (AML-CFT) 
+203 FIU-IND stands for 
+(a) Financial Investigation Unit-India         (b) Financial Investment Unit-India  
+(c) Financial Intelligence Unit-India           (d) Financial Integration Unit-India  
+ 
+204 What are the steps in Money Laundering? 
+(a) Placement             (b) Layering            (c) Integration           (d) All the above 
+ 
+205 The Prevention of Money Laundering Act, 2002 came into force with effect from? 
+(a) 01.07.2005         (b) 01.08.2005              (c) 01.07.2006             (d) 01.08.2006 
+  
+206 The software used for transaction monitoring at AML/ CFT Cell Jaipur? 
+(a) LAMS             (b) iAlerts          (c) AMLOCK            (d) FARB 
+ 
+207 CCR (Counterfeit Currency Report) be submitted bank to FIU-IND by 
+(a) 7th of the succeeding month               (b) 21th of the succeeding month 
+(c) 15th of the succeeding month             (d) 30th of the succeeding month 
+ 
+208 Independent Internal Complaint Committees (ICC) is required to be constituted 
+at _____levels 
+(a) Corporate Centre                      (b) LHO, Zonal Offices 
+(c) RBOs level                                (d) All the above 
+ 
+
+================================================================================
+PAGE 55
+================================================================================
+ 
+60 
+ 209 The complaint can be made within how many days of the date on incident under  
+Garima Policy? 
+(a) 30 days              (b) 60 days                (c) 90 days               (d) 45 days 
+ 
+210 The Internal Committee for investigating cases of sexual harassment is headed by  
+(a) a male officer                (b) a Lady officer of senior rank  
+(c) a Lady staf                    (d) any one 
+ 
+211 What is Sexual Harassment at workplace ? 
+(a) Sexually determined behavior                                      (b) Unwelcome 
+behaviour 
+(c) Unwelcome sexually determined behavior                   (d) Misbehaviour 
+ 
+212 Sexual Harassment case the inquiry will be completed within ____ days 
+(a) 30 days                   (b) 45 days                     (c) 60 days               (d) 
+90days  
+ 
+213 Garima policy enacted under which guidelines?  
+(a) Disha Guidelines                   (b) Vishaka Guidelines 
+(c) Nirbhaya Guidelines              (d) SBI guidelines 
+ 
+214 A woman of any age, whether employed or not, subjected to any act of 
+sexual harassment at the workplace is identified as?  
+(a) Disclosure             (b) Aggrieved woman             (c) Complainant        (d) 
+Garima 
+ 
+215 The Garima Portal can be accessed on SBI Times under which path? 
+(a) Home Page>>Quick Links>>GARIMA      (b) Home Page>>Quick 
+Links>>POSH 
+(c) Home Page>Departments>>GARIMA       (d) None of the above 
+ 
+216 Victim of sexual harassment should 
+(a) keep it secret                                   (b) not delay in repelling 
+(c) file complaint immediately               (d) Both b and c 
+ 
+217 What does the Internal Committee for investigating cases of sexual 
+harassment comprise of ? 
+(a) only supervising staff            (b) only award staff 
+(c) only third parties  
+(d) one representative of supervising staff and award staff and a third party 
+218 Grant leave to the aggrieved woman (Sexual Harassment case) up to a period of 
+____ months 
+(a) 1 month               (b) 2 months                   (c) 3 months            (d) 4 months 
+ 
+
+================================================================================
+PAGE 56
+================================================================================
+ 
+61 
+ 219 The against whom a complaint of sexual harassment has been made is called as?  
+(a) Victim                (b) Aggrieved Women               (c) Accused         (d) 
+Respondent 
+ 
+220 What is the validity period of Yono Cash request? 
+(a) 60 minutes            (b) 120 minutes                 (c) 30 minutes         (d) 240 
+minutes 
+ 
+221 For which of the following amount customer cannot create Yono Cash request? 
+(a) Rs.18000/-            (b) Rs.12000/-              (c) Rs.20000/-            (d) Rs.25000/- 
+ 
+222 Under YONO Cash, minimum withdrawal is? 
+(a) Rs.500/-           (b) Rs.1000/-             (c) Rs.5000/-          (d) Rs.2000/- 
+ 
+223 The maximu no of transactions per day allowed under YONO Cash? 
+(a) 1                      (b) 2                      (c) 3                   (d) 4 
+ 
+224 The maximum amount that can be withdrawn under Yono Cash at CSP? 
+(a) Rs.20000/-            (b) Rs.2000/-            (c) Rs.10000/-           (d) Rs.5000/- 
+ 
+225 The maximum amount that can be withdrawn under Yono Cash at POS?  
+(a)Rs.5000/-              (b) Rs.1000/-               (c) Rs.10000/-       (d) Rs.2000/- 
+ 
+226 What is the no. of monthly ATM transactions that banks can restrict for use by 
+other bank customers, at centres other than 6 metro centres namely, Mumbai, 
+Kolkata, Delhi, Chennai, Hyderabad, Bangalore:  
+(a) 5 financial transactions                                   (b) 5 non-financial transactions  
+(c) 5 financial and non-financial transactions      (d) 3 financial transactions 
+227 DAC full form 
+(a) Document Arranged Centre                 (b) Document Arrangement Centre 
+(c) Document Accounts Centre                 (d) Document Archival Centre 
+228 FATCA full form? 
+(a) Foreign Account Tax Complete Act 
+(b) Foreign Account Tax Control Act 
+(c) Foreign Audit Tax Compliance Act     
+(d) Foreign Account Tax Compliance Act 
+229 Which of the following erroneous data will have impact the Tax compliance? 
+(a) Residential Status         (b)Date of Birth            (c) PAN       (d) All of the above 
+230 Which of the following is treated data infringements in CBS? 
+(a) Security not created of secured loan 
+(b) Unauthorised change of Homebranch of a home loan account 
+(c) Unauthorised interest adjustments to loan account 
+(d) All of the above 
+ 
+
+================================================================================
+PAGE 57
+================================================================================
+ 
+62 
+ 231 What is the effect of entering wrong customer type while opening CIF in CBS? 
+(a) No effect                                                      (b) May have wrongful benefits  
+(c) May not get the actual eligible benefits      (d) Both b and c are true 
+ 
+232 What is the penal provision for 1st instance of data infringement by an employee? 
+(a) The employee will be counselled to remain careful and not to repeat the 
+mistake in future. 
+(b) Stoppage of annual increment for minimum two months. 
+(c) The employee will be advised/ indicated to remain more careful failing which 
+disciplinary action will be initiated and penalty/ fine will be imposed. 
+(d) None of the above  
+ 
+233 FATF full form 
+(a) Financial Action Task Force                (b) Financial Action Target Force 
+(c) Financial Auto Task Force                   (d) Financial Account Task Force  
+ 
+234 New/Modified CIFs shall be duly risk categorized in AMLOCK on ___ basis 
+(a) T+1 Basis                   (b) T+2 Basis 
+(c) T+0 Basis                   (d) T+3 Basis 
+ 
+235 What are the important features in Yono Krishi? 
+(a) Mandi                                   (b) Mitra 
+(c) Agri gold loan                       (d) All the above 
+ 
+ 
+236 Under YONO KRISHI, Mandi is for enabling farmers for ________ 
+(a) Purchase of implements, pumpsets etc., 
+(b) It is weather forecast and other non banking needs 
+(c) Farmer can arrange for insuring their crops 
+(d) None of the above 
+ 
+237 Under Mitra in YONO Krishi, a farmer can ____ 
+(a) Purchase of implements, pumpsetsetc           (b) Get Agri Gold Loan data 
+(c) Weather forecast and other help                     (d) None of the above 
+ 
+238 The Agri lending through partnership model with Corporates is under which 
+feature? 
+(a) Khata                    (b) Mandi                (c) SAFAL             (d) Mitra 
+239 The maximum agri gold loan under Yonokrishi? 
+(a) Rs.20.00 Lakh     (b) Rs.25.00 Lakh     (c) Rs.30.00 Lakh        (d) Rs.15.00 
+Lakh 
+240 Which category of YONO Krishi offers investment products like Mutual Funds, 
+Demat accounts etc? 
+(a) Yono Krishi                (b) Khata              (c) Mitra              (d) YONO Bachat 
+ 
+
+================================================================================
+PAGE 58
+================================================================================
+ 
+63 
+ 241 Which of the following facilities are not available in RINB? 
+(a) Home branch transfer of Saving           (b) PAN registration 
+(c) Pension loan                                         (d) e-Filing of IT returns 
+ 
+242 State Bank Collect can not be enabled with which of the following CINB facility? 
+(a) Khatha Plus              (b) Saral                 (c) Vyapaar                (d) Vistaar 
+ 
+243 Number of variants of CINB are ? 
+(a) 5                       (b) 4                     (c) 6                      (d) 3 
+ 
+244 Which of the following CINB facility can be enabled through CBS ? 
+(a) Khatha Plus                   (b) Khata                       (c) Vyapaar               (d) 
+Vistaar 
+ 
+245 Which of CINB variant is compatible for Proprietary firms who need only enquiry 
+rights? 
+(a) Khatha Plus                  (b) Khata                        (c) Vyapaar                  (d) 
+Saral 
+ 
+246 The Fund transfer limit under SARAL for SBI accounts? 
+(a) 10 Lakh per day                        (b) 15 Lakh per day 
+(c) 20 Lakh per day                        (d) 25 Lakh per day 
+ 
+247 Funds Transfer using Quick Transfer in RINB and CINB is? 
+(a) Rs.10000/-            (b) Rs.15000/-             (c) Rs.25000/-           (d) Rs.100000/- 
+ 
+248 Per day limit on addition of new beneficiaries in CNIB? 
+(a) 3                 (b) 5                     (c) 6                  (d) 10 
+249 Yono Business is an integrated platform for which of the following corporate facing 
+applications? 
+(a) CINB and CMP only                     (b) CMP and SCF only 
+(c) SCF, eTrade and eForex only      (d) CINB, SCF, eTrade, CMP and eForex 
+ 
+250 In the which type of deposit, the high rate of interest is provided by the Bank?  
+(a) Current Account                    (b) Recurring Deposit Account  
+(c) Fixed Deposit Account          (d) Savings Account  
+ 
+251 Max amount Government/ Tax transactions allowed under Saral and Vyapaar? 
+(a) Rs.25.00 Lakh                         (b) Rs.10.00 Lakh 
+(c) Rs.50.00 Lakh                         (d) Rs.200.00 Lakh 
+ 
+252 Transfer within Self Accounts under YONO lite 
+(a) Rs.200.00 Lakh                      (b) Rs.20.00 Lakh 
+(c) Rs.10.00 Lakh                        (d) Rs.100.00 Lakh 
+ 
+
+================================================================================
+PAGE 59
+================================================================================
+ 
+64 
+ 253 What is the minimum & maximum amount stipulated for RTGS transaction?  
+(a) No Minimum, No Maximum 
+(b) No Minimum, Maximum Rs.5 Lakhs 
+(c) Minimum 2 Lakhs, Maximum 10 Lakhs  
+(d) Minimum 2 Lakhs, Maximum No Limit 
+ 
+254 Which is the first bank to launch Debit card in India? 
+(a) Standard Chartered Bank                       (b) Citi Bank  
+(c) ABN Amro Bank                                      (d) American Express Bank 
+ 
+255 Which of the following is not negotiable instrument?  
+(a) Cheque          (b) Dividend warrant             (c) Bank draft         (d) Bill of 
+exchange  
+ 
+256 BCSBI is a ……  
+(a) Independent and autonomous body                   (b) floated by BSE & NSE  
+(c) Government of India undertaking                       (d) bank  
+ 
+257 KYC means ……  
+(a) Know Your Card                              (b) Know Your Cost  
+(c) Know Your Customer                      (d) Know Your Creditor  
+ 
+258 RTGS means ……  
+(a) Real Towards Gross Settlement                 (b) Real Turn Gross Settlement  
+(c) Real Technique Gross Settlement              (d) Real Time Gross Settlement  
+ 
+259 Expand ECS ……  
+(a) Electronic Clearing System                   (b) Electronic Centered System  
+(c) Electronic Cross Systems                     (d) Electronic Conversion Systems  
+ 
+260 EFT is introduced by ……  
+(a) IRDA                    (b) RBI                     (c) SEBI               (d) NSE  
+261 Fixed deposits and recurring deposits are ……  
+(a) Repayable after an agreed period  
+(b) Repayable on demand  
+(c) Not repayable  
+(d) Repayable on demand or after an agreed period as per bank's choice  
+262 What is the full form of EBLT?  
+(a)  External Benchmark Loan rate  
+(b)  Even Benchmark Lending rate 
+(c)  External Benchmark Lending rate 
+(d)  Even Benchmark Loan rate 
+263 MICR technology used for clearance of cheques by banks refers to ……  
+(a) Magnetic Ink Character Recognition  
+(b) Magnetic Ink Company Recognition  
+(c) Magnetic Ink Cross Recognition  
+(d) Magnetic Ink Community Recognition  
+ 
+264 In India, the law regulating the Negotiable instruments are ……  
+(a) Banking Regulation Act 1949  
+
+================================================================================
+PAGE 60
+================================================================================
+ 
+65 
+ (b) Reserve Bank of India Act 1934  
+(c) Negotiable Instruments Act 1881  
+(d) Companies Act 1956  
+ 
+265 Current Accounts are mainly opened by ……  
+(a) Professionals                    (b) Agriculturalist  
+(c) Salaried class people        (d) Trading and industrial concern  
+ 
+266 The apex institution in agricultural finance is ……  
+(a) NABARD              (b) EXIM Bank            (c) Reserve Bank of India         (d) 
+IDBI  
+ 
+267 Expand NEFT  
+(a) National Electronic Fund Transfer            (b) Neutral Electronic Fund Transfer  
+(c) Nominal Electronic Fund Transfer            (d) Natural Electronic Fund Transfer  
+ 
+268 The primary relationship between a banker and customer starts from the time  
+(a) when customer visits that bank                                  (b) when customer opens  
+(c) when customer visits that bank to made queries       (d) All of the above  
+ 
+269 Which one of the following is the most important relationship between banker and 
+customer?  
+(a) Debtor and Creditor                 (b) Bailee and Bailor  
+(c) Agency and Principal               (d) Trustee and Beneficiary  
+ 
+270 When customer's account overdrawn or when customer has taken loan from 
+banker, then the customer is a ……  
+(a) Creditor                  (b) Agent                (c) Debtor               (d) Bailor  
+ 
+271 When banker received deposits from the customer, then the banker becomes 
+…… of the customer  
+(a) Debtor                 (b) Creditor                 (c) Bailee               (d) Trustee  
+ 
+272 What does the term "PIN" stands for?  
+(a) People Identification Number                (b) Personal Instruction Number  
+(c) Personal Identification Number             (d) Personal Information Number  
+ 
+273 The ATM installed at bank premises is called as …… ATM  
+(a) Off-site            (b) Branch                (c) None of the above          (d) On-site  
+ 
+274 Cheque is payable on ……  
+(a) Demand             (b) Usage           (c) Fixed future date         (d) After sight  
+ 
+275 Full form of BHIM ......  
+(a) Bharat Interface for Money  
+(b) Bank Account Holders Interface for Mobile Transfers  
+(c) Bank Holding Internet Mobility  
+(d) Bank Host Interface for Money  
+ 
+276 What is the full form of IFSC?  
+(a) International Financial System code  
+
+================================================================================
+PAGE 61
+================================================================================
+ 
+66 
+ (b) Indian Financial System code  
+(c) Industrial Financial System code  
+(d) Inter Bank Financial System code  
+ 
+277 Interest in SB account is calculated on ......  
+(a) Minimum balance during the month  
+(b) Balance as on 30th of the month  
+(c) Minimum balance between 10th and last day of the month  
+(d) On daily balance basis  
+ 
+278 Fixed Deposits is otherwise called as ……  
+(a) Accrued Deposits                     (b) Time deposits  
+(c) Recurring Deposits                  (d) Demand Deposits  
+ 
+279 What is the minimum interest payable in savings a/c?  
+(a) Re. 1/-                    (b) 0.50 paise              (c) Rs. 5/-              (d) Rs. 100/-  
+ 
+280 What is the full form of UPI?  
+(a) Unified Payment Interface             (b) Union Payment Internet  
+(c) United Payment Internet                (d) Umbrella Payment Interface  
+ 
+281 Who can open current account?  
+(a) individuals (singly or jointly)         (b) partnership firms  
+(c) limited companies                        (d) All  
+ 
+282 Which is a non fund based limit?  
+(a) cash credit            (b) overdraft           (c) demand loan         (d) bank 
+guarantees  
+ 
+283 In which of the following current accounts nomination is allowed?  
+(a) opened by individuals      (b) proprietorship         (c) partnership     (d) Both a 
+and b  
+ 
+284 What is the minimum and maximum amount in NEFT?  
+(a) Min – 200000, Max – No limit              (b) Min – No amount, Max – 200000  
+(c) No minimum & no maximum                (d) Min – 50000, Max – 200000  
+285 What is the full form of IMPS?  
+(a) Immediate Mobile Payment System  
+(b) Important Messenger Payment Service  
+(c) Immediate Payment System 
+(d) Immediate MMDC Payment Service  
+286 What is the full form of CTR?  
+(a) Cash Transaction Report                (b) Clearing Transaction Report  
+(c) Current Transaction Report             (d) None of the above  
+ 
+287 What is the full form of STR?  
+(a) Suspicious Transaction Report               (b) Savings Transaction Report  
+(c) Suspicious Traveller Report                    (d) Savings Tallying Report  
+ 
+288 Nomination in deposit account is ......  
+(a) compulsory in single account  
+
+================================================================================
+PAGE 62
+================================================================================
+ 
+67 
+ (b) compulsory in joint account  
+(c) compulsory in single account but optional in joint account  
+(d) optional in all accounts  
+ 
+289 The full form of ASBA ......  
+(a) Application supported by Blocked amount  
+(b) Application supported by Brokers account  
+(c) Application supported by Bond account  
+(d) Adjustment supported by Blocked account  
+ 
+290 The charge on immovable property to be created is known as ......  
+(a) Lien          (b) Assignment              (c) Mortgage           (d) Hypothecation  
+ 
+291 In Sukanya Samvridhi Scheme account can be opened by guardian on behalf of 
+minor girl child of age upto ...... years  
+(a) 5                    (b) 10                     (c) 12                  (d) 15  
+ 
+292 Our Bank Pays interest in Savings account ......  
+(a) Yearly                (b) Monthly                  (c) Quarterly                 (d) Half Yearly  
+ 
+293 What is the additional rate of interest payable to Staff Senior Citizen on Term 
+Deposit?  
+(a) 0.5%                       (b) 1%                         (c) 1.5%                   (d) 2%  
+ 
+294 A bearer cheque containing two parallel lines. It gives the meaning ...... 
+(a) Cash can be paid                        (b) Cash cannot be paid  
+(c) It is an invalid cheque                  (d) It is an order cheque  
+ 
+295 How many times a negotiable instrument can be negotiated?  
+(a) Once                   (b) Twice                    (c) Thrice                    (d) No limit  
+ 
+296 ‘A’ maintaining an SB Account dies intestate. No nomination had been made by 
+him. Balance in the account is Rs 50000/- . Which of the following is not required 
+for settling the claim without legal representation?  
+(a) Death Certificate of ‘A’  
+(b) Claim format signed by claimants  
+(c) Stamped Letter of Indemnity by claimants  
+(d) Stamped Letter of Indemnity by Surety  
+ 
+297 A Cheque which is not crossed is called ……  
+(a) Uncrossed cheque                    (b) Open cheque  
+(c) Order cheque                            (d) Bearer cheque  
+ 
+298 ...... is popularly known as Plastic cards or Plastic money  
+(a) Smart cards         (b) Electronic cards            (c) Credit cards         (d) Debit 
+cards 
+ 
+
+================================================================================
+PAGE 63
+================================================================================
+ 
+68 
+  
+ 
+KEY - EXERCISE – 8  
+1 a 51 c 101 a 151  b 201  a 251  d 
+2 b 52 d 102 b 152  c 202  a 252  a 
+3 c 53 a 103 a 153  a 203  c 253  d 
+4 b 54 d 104 c 154  b 204  d 254  b 
+5 a 55 c 105 a 155  d 205  a 255  b 
+6 c 56 a 106 d 156  c 206  c 256  a 
+7 b 57 b 107 a 157  b 207  c 257  c 
+8 c 58 d 108 a 158  c 208  d 258  d 
+9 b 59 f 109 b 159  a 209  c 259  a 
+10 b 60 a 110 b 160  d 210  b 260  b 
+11 c 61 b 111 d 161  d 211  c 261  a 
+12 a 62 c 112 b 162  b 212  d 262  c 
+13 a 63 d 113 b 163  b 213  b 263  a 
+14 c 64 d 114 b 164  a 214  b 264  c 
+15 c 65 a 115 a 165  b 215  a 265  d 
+16 d 66 a 116 c 166  a 216  d 266  a 
+17 a 67 c 117 d 167  d 217  d 267  a 
+18 c 68 d 118 c 168  b 218  c 268  b 
+19 d 69 c 119 b 169  d 219  d 269  a 
+20 d 70 c 120 b 170  b 220  d 270  c 
+21 c 71 b 121  a 171  d 221  d 271  a 
+22 c 72 c 122  c 172  a 222  a 272  c 
+23 e 73 a 123  b 173  c 223  b 273  d 
+24 a 74 c 124  a 174  b 224  c 274  a 
+25 c 75 b 125  c 175  c 225  d 275  a 
+26 d 76 a 126  a 176  d 226  c 276  b 
+27 d 77 c 127  b 177  d 227  d 277  d 
+28 d 78 b 128  a 178  a 228  d 278  b 
+29 c 79 a 129  c 179  d 229  d 279  a 
+30 d 80 b 130  c 180  c 230  d 280  a 299 The balance in the savings account is Rs.5000/-. A cheque for Rs.6000/- is given 
+for payment. It will be returned with the reason …… 
+(a) Refer to Drawer                          (b) Exceeds arrangements  
+(c) Funds Insufficient                       (d) Payment Stopped by the Drawer  
+ 
+300 If ‘A’ and ‘B’ are having savings a/c and the operational instruction is Either or 
+Survivor, who can withdraw money from the account?  
+(a)A only                                  (b) B only  
+(c) both separately can do       (d) both should do jointly  
+ 
+
+================================================================================
+PAGE 64
+================================================================================
+ 
+69 
+ KEY - EXERCISE – 8  
+31 a 81 b 131  d 181  d 231  d 281  d 
+32 c 82 a 132  a 182  c 232  a 282  d 
+33 d 83 a 133  b 183  c 233  a 283  d 
+34 c 84 b 134  a 184  b 234  b 284  c 
+35 c 85 b 135  d 185  d 235  d 285  c 
+36 d 86 d 136  a 186  b 236  a 286  a 
+37 b 87 a 137  b 187  d 237  c 287  a 
+38 c 88 b 138  d 188  b 238  c 288  d 
+39 a 89 b 139  b 189  c 239  b 289  a 
+40 b 90 a 140  a 190  b 240  d 290  c 
+41 d 91 d 141  a 191  c 241  c 291  b 
+42 a 92 c 142  d 192  b 242  b 292  c 
+43 c 93 a 143  a 193  c 243  c 293  c 
+44 d 94 b 144  d 194  b 244  b 294  b 
+45 b 95 a 145  b 195  c 245  b 295  d 
+46 d 96 b 146  b 196  a 246  d 296  d 
+47 a 97 d 147  b 197  c 247  c 297  d 
+48 a 98 b 148  c 198  d 248  d 298  c 
+49 b 99 c 149  c 199  b 249  d 299  c 
+50 a 100 c 150  c 200  c 250  c 300  c 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+================================================================================
+PAGE 65
+================================================================================
+ 
+70 
+ Exercise - 9  
+ 
+1. Which one is not a key element of KYC policy 
+a. Introduction of customer b.  Customer acceptance policy 
+c. Monitoring of Transaction d.  Risk Management 
+ 
+2. Which one is not an OVD? 
+a. Passport b.  Driving License 
+c. Pan Card d.  Employee ID card 
+ 
+3. The unique customer identification code used in our bank is 
+called________ 
+a. Customer Information form b.  Customer Information File 
+c. Customer Identification File d.  Customer Identification form 
+ 
+4. Which one is not a category for classification of customer depending upon 
+the risk? 
+a. Low risk b.  Medium Risk 
+c. High Risk d.  Very High Risk 
+ 
+5. What is the frequency for updation of KYC in case of low risk customer 
+a. 2 year b.  8 year 
+c. 10 year d.  5 year 
+ 
+6. What is the frequency for updation of KYC in case of Medium risk 
+customer 
+a. 2 year b.  8 year 
+c. 10 year d.  5 year 
+ 
+7. What is the frequency for updation of KYC in case of High-risk customer 
+a. 2 year b.  8 year 
+c. 10 year d.  5 year 
+ 
+8. Politically exposed person of foreign origin should be classified under 
+which risk? 
+a. Low risk b.  Medium Risk 
+c. High Risk d.  Very High Risk 
+ 
+9. Where does AML/CFT cell situated? 
+a. Corporate Centre, Mumba b.  Delhi 
+c. Jaipur d.  Kolkatta 
+ 
+10. Banks are required to file the electronic copy of the Customer’s KYC 
+records/data (Customer information, Photograph, Signature, KYC 
+Documents) with the Central KYC Records registry (C-KYCR) within days 
+after the commencement of an account-based relationship with a 
+customer. 
+a. 2 days b.  7 days 
+c. 3 days d.  Next day it self 
+
+================================================================================
+PAGE 66
+================================================================================
+ 
+71 
+  
+11. Cross Border Wire Transaction Reports (CBWTR), the value of more than 
+______ rupees or its equivalent in foreign currency where either the origin 
+or destination of fund is in India to be reported. 
+a. Rs. 1,00,000 /- b.  Rs. 10,00,000 /- 
+c. Rs. 5,00,000 /- d.  Rs. 50,000 /- 
+ 
+12. KYC compliance and fraud prevention day observes on 
+a. 1st Aug b.  1st Oct 
+c. 1st Dec d.  1 st Sept 
+ 
+13. AML CFT Awareness Day 
+a. 1 st July b.  1 st September 
+c. 2 nd November d.  30th November 
+ 
+14. CRM stands for 
+a. Customer Response 
+Management b. Customer Request 
+Management 
+c. Customer Relationship 
+Management d. Customer Review Management 
+ 
+15. VPA stands for 
+a. Virtual Portal Application b.  Value payment App 
+c. Virtual Payment Address d.  Virtual Payment Application 
+ 
+16. What does QR stand for in Bharat QR? 
+a. Quick Receipt b.  Quick Response 
+c. Quartely Receipt d.  Quick Resolution 
+ 
+17. BHIM stands for 
+a. Bharat Interface for Money b.  Bharat Inter-transfer for money 
+c. Bharat Interchange for Money d.  None of these 
+ 
+18. What is the maximum transaction limit per day on GOOGLE PAY? 
+a. Rs.10000/- b.  Rs.100000/- 
+c. No such limit d.  Rs.50000/- 
+ 
+19. Number of variants of CINB are ? 
+a. 5 b.  4 
+c. 3 d.  6 
+ 
+20. The amount under Quick Transfer in YONO? 
+a. 25000 b.  50000 
+c. 100000 d.  10000 
+ 
+21. What is Tarun Category under PMMY? 
+a. Loans upto Rs. 50000/- b.  Above Rs. 50000/- to Rs. 5 lacs 
+c. Above Rs. 5 lacs to Rs. 10 
+lacs d. Above Rs. 1 lac to Rs. 10 lacs 
+
+================================================================================
+PAGE 67
+================================================================================
+ 
+72 
+  
+22. Which of the following is not a variant in MUDRA scheme 
+a. Shishu b.  Kishore 
+c. Varun d.  Tarun 
+ 
+23. What is the target group for Stand-Up India? 
+a. SC/ST b.  Physically Handicapped 
+c. Women d.  Both a and c 
+ 
+24. Maximum loan amount that can be financed under Stand-Up India is 
+a. Rs. 25 lacs b.  Rs. 100 lacs 
+c. Rs. 200 lacs d.  Rs. 50 lacs 
+ 
+25. Min loan amount that can be financed under Stand Up India is 
+a. > Rs. 10 lacs b.  > Rs. 5 lacs 
+c. Rs. 1 lac d.  None of the above 
+ 
+26. What is full form of NPA? 
+a. Net Present Asset b.  Net Preformance Asset 
+c. Non Performing Asset d.  Net Performing Asset 
+ 
+27. Expand TAT 
+a. Time After Time b.  Turn Around Time 
+c. Things After Turn d.  None of these 
+ 
+28. What is the minimum pension guaranteed by the Govt of India under the 
+Atal Pension Yojana? 
+a. Rs. 1000 b.  Rs. 2000 
+c. Rs. 3000 d.  Rs. 5000 
+ 
+ 
+29. What is the maximum pension guaranteed by the Govt of India under the 
+Atal Pension Yojana? 
+a. Rs. 1000 b.  Rs. 2000 
+c. Rs. 3000 d.  Rs. 5000 
+30. What is the minimum age at which a subscriber can join the Atal Pension 
+Yojana? 
+a. 25 years b.  22 years 
+c. 18 years d.  15 years 
+ 
+31. What is the maximum age at which a subscriber can join the Atal Pension 
+Yojana? 
+a. 30 years b.  40 years 
+c. 50 years d.  60 years 
+ 
+32. What is the annual premium payable by the subscriber to the Pradhan 
+Mantri Jeevan Jyoti Bima Yojana? 
+a. Rs. 210 b.  Rs. 436 
+c. Rs. 450 d.  Rs. 510 
+ 
+
+================================================================================
+PAGE 68
+================================================================================
+ 
+73 
+  
+33. Entry to the Pradhan Mantri Jeevan Jyoti Bima Yojana is not allowed after 
+the age of - 
+a. 45 years b.  50 years 
+c 55 years d.  60 years 
+ 
+34. What is the annual premium payable under the Pradhan Mantri Suraksha 
+Bima Yojana? 
+a. Rs. 20 b.  Rs. 18 
+c Rs. 15 d.  Rs. 24 
+ 
+35. What is the age group to whom the Pradhan Mantri Suraksha Bima 
+Yojana is available? 
+a. 18 to 40 years b.  18 to 50 years 
+c 18 to 60 years d.  18 to 70 years 
+ 
+36. What is the slogan of the Pradhan Mantri Jan Dhan Yojana? 
+a. Sabka Saath Sabka Vikas b.  Beti Bachao Beti Padhao 
+c Kal ki Fikr Nahin d.  Mera Khata Bhagya Vidhata 
+ 
+37. Upto what age of the girl child can an account under the Sukanya 
+Samriddhi Yojana be opened? 
+a. 8 years b.  9 years 
+c 10 years d.  12 years 
+ 
+38. For how many years can deposits be made in an account under the 
+Sukanya Samriddhi Yojana? 
+a. 10 years b.  12 years 
+c 15 years d.  21 years 
+ 
+39. What is the minimum annual deposit to be made in an account under the 
+Sukanya Samriddhi Yojana? 
+a. Rs. 1000 b.  Rs. 750 
+c Rs. 500 d.  Rs. 250 
+ 
+40. What is the maximum amount that can be deposited in a year in an 
+account under the Sukanya Samriddhi Yojana? 
+a. Rs. 100000 b.  Rs. 150000 
+c Rs. 250000 d.  Rs. 300000 
+ 
+41. What is the animal in the logo of Make in India campaign? 
+a. Tiger b.  Lion 
+c Elephant d.  Cow 
+ 
+42. What is the fee for getting information under RTI ACT? 
+a. 10 b.  20 
+c 50 d.  100 
+ 
+43. What is the time limit to get the information under RTI Act 2005? 
+a. 30 days b.  45 days 
+
+================================================================================
+PAGE 69
+================================================================================
+ 
+74 
+ c 90 days d.  60 days 
+ 
+44. What is the time limit to get the information concerning the life and liberty 
+of a Person? 
+a. 1 hour b.  12 hour 
+c 24 hour d.  48 hour 
+ 
+45. UnderCOPRA, what is the limit up to which State Forum can handle the 
+Cases? 
+a. No limit b.  1 Crore to 10 crore 
+c 50 Lakhs to 2 Crore d.  Greater than 2 Crore 
+ 
+46. District Consumer Redressal Forum deals with cases upto Rs.______? 
+a. 1 Crore b.  Above 1 Crore &Up to 10 
+Crores 
+c Up to 50 lakhs d.  None of the above 
+ 
+47. Under RTI Act, who is CPIO in our Bank? 
+a. Branch Manager b.  Regional Manager 
+c General Manager d.  CGM 
+ 
+48. Under RTI Act, who is CAPIO in our Bank? 
+a. Branch Manager b.  Regional Manager 
+c General Manager d.  CGM 
+ 
+49. An appeal can be made with National Commission against the order of 
+the State Forum within days from the date of the order? 
+a. 15 days b.  30 days 
+c 45 days d.  60 days 
+ 
+50. An appeal can be made with State Forum against the order of the District 
+Forum within days from the date of the order? 
+a. 15 days b.  30 days 
+c 45 days d.  60 days 
+ 
+Answers  
+1 A 11 C 21 C 31  B 41  B 
+2 C 12 A 22 C 32  B 42  A 
+3 B 13 C 23 D 33  B 43  A 
+4 D 14 C 24 B 34  A 44  D 
+5 C 15 C 25 A 35  D 45  C 
+6 B 16 B 26 C 36  D 46  C 
+7 A 17 A 27 B 37  C 47  B 
+8 C 18 B 28 A 38  C 48  A 
+9 C 19 D 29 D 39  D 49  B 
+10 C 20 B 30 C 40  B 50  C 
+ 
+ 

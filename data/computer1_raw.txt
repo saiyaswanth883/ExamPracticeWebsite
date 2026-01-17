@@ -1,0 +1,2248 @@
+
+================================================================================
+PAGE 1
+================================================================================
+ 
+ 
+Page | 188                            NAYI UMANG 2025 -26    INDEX  
+      
+COMPUTER APTITUDE QUESTIONS:  
+Computer Fundamentals   
+1. UNIVAC is   
+A) Universal Automatic Computer   
+B) Universal Array Computer   
+C) Unique Automatic Computer   
+D) Unvalued Automatic Computer   
+  
+2. The basic operations performed by a computer are   
+A) Arithmetic operation   
+B) Logical operation   
+C) Storage and relative   
+D) All the above   
+  
+3. The two major types of computer chips are   
+A) External memory chip   
+B) Primary memory chip   
+C) Microprocessor chip   
+D) Both b and c   
+4. Microprocessors as switching devices are for which generation computers   
+A) First Generation   
+B) Second Generation   
+C) Third Gen eration   
+D) Fourth Generation   
+  
+5. What is the main difference between a mainframe and a supercomputer ?   
+A) Supercomputer  is much larger than mainframe computers   
+B) Super computers are much smaller than mainframe computers   
+C) Supercomputers are focused to execute few programs as fast as possible while 
+mainframe uses its power to execute as many programs concurrently   
+D) Supercomputers are focused to execute as many progr ams as possible while 
+mainframe uses its power to execute few programs as fast as possible.   
+  
+
+
+================================================================================
+PAGE 2
+================================================================================
+ 
+ 
+Page | 189                            NAYI UMANG 2025 -26    INDEX  
+     6. ASCII and EBCDIC are the popular character coding systems. What does EBCDIC 
+stand for?   
+A) Extended Binary Coded Decimal Interchange Code   
+B) Extended Bit Code D ecimal Interchange Code   
+C) Extended Bit Case Decimal Interchange Code   
+D) Extended Binary Case Decimal Interchange Code   
+ 
+7. The brain of any computer system is   
+A) ALU   
+B) Memory   
+C) CPU   
+D) Control unit   
+  
+8. Storage capacity of magnetic disk depends on   
+A) tracks per inch of surface   
+B) bits per inch of tracks   
+C) disk pack in disk surface   
+D) All above   
+  
+9. The two kinds of main memory are:   
+A) Primary and secondary   
+B) Random and sequential   
+C) ROM and RAM   
+D) All abov e   
+ 
+10. A storage area used to store data to a compensate for the difference in speed at 
+which the different units can handle data is   
+A) Memory   
+B) Buffer   
+C) Accumulator   
+D) Address   
+ 
+11. Computer is free from tiresome and boardroom. We call it   
+A) Accuracy   
+B) Relia bility   
+C) Diligence   
+
+
+================================================================================
+PAGE 3
+================================================================================
+ 
+ 
+Page | 190                            NAYI UMANG 2025 -26    INDEX  
+     D)  Versatility  
+ 
+12. Integrated Circuits (ICs) are related to which generation of computers?   
+A) First generation   
+B) Second generation   
+C) Third generation   
+D) Fourth generation   
+  
+13. CD -ROM is a   
+A) Semiconductor memory   
+B) Memory register   
+C) Magnetic memory   
+D) None of above   
+  
+14. A hybrid computer   
+A) Resembles digital computer   
+B) Resembles analogue computer   
+C) Resembles both a digital and analogue computer   
+D) None of the above   
+  
+15. Which type of computers uses the 8 -bit code called EBCDIC?   
+A) Minicomputers   
+B) Microcomputers   
+C) Mainframe computers   
+D) Supercomputer    
+  
+16. The ALU of a computer responds to the commands coming from   
+A) Primary memory   
+B) Control section   
+C) External memory   
+D) Cache memory   
+  
+17. Chief component of first-generation  computer was   
+A) Transistors   
+B) Vacuum Tubes and Valves   
+
+
+================================================================================
+PAGE 4
+================================================================================
+ 
+ 
+Page | 191                            NAYI UMANG 2025 -26    INDEX  
+     C) Integrated Circuits   
+D) None of above   
+  
+18. To produce high quality graphics (hardcopy) in color, you would want to use  
+a/n   
+A) RGB monitor   
+B) Plotter   
+C) Ink-jet printer   
+D) Laser printer   
+ 
+19. What are the stages in the compilation process?   
+A) Feasibility study, system design and testing   
+B) Implementation and documentation   
+C) Lexical Analysis, syntax analysis, and code generation   
+D) None of the above   
+  
+20. Which of the following IC was used in third generation of computers?  A) SSI   
+B) MSI   
+C) LSI   
+D) Both a and b   
+  
+21. The main electronic component used in first generation computers was   
+A) Transistors   
+B) Vacuum Tubes and Valves   
+C) Integrated Circuits   
+D) None of above   
+  
+22. A dumb terminal has   
+A) an embedded microprocessor   
+B) extensive memory   
+C) independent processing capability   
+D) a keyboard and screen   
+  
+ 
+ 
+
+
+================================================================================
+PAGE 5
+================================================================================
+ 
+ 
+Page | 192                            NAYI UMANG 2025 -26    INDEX  
+     23. One millisecond is   
+A) 1 second   
+B) 10th of a second    
+C) 1000th of a second    
+D) 10000th of a second   
+24. The output quality of a printer is measured by   
+A) Dot per sq. inch   
+B) Dot per inch   
+C) Dots printed per unit time   
+D) All the above   
+  
+25. Which of the following was a special purpose computer?   
+A) ABC   
+B) ENIAC   
+C) EDVAC   
+D) All the above   
+  
+26. What was the computer invented by Attanasoff and Clifford?   
+A) Mark I   
+B) ABC   
+C) Z3   
+D) None of above   
+  
+27. Which of the following storage devices can store maximum amount of data?  A) 
+Floppy Disk   
+B) Hard Disk   
+C) Compact Disk  
+D) Magneto Optic Disk   
+ 
+28. Which computer was considered the first electronic computer until 1973 when 
+court invalidated the patent?   
+A) ENIAC   
+B) MARK I   
+C) Z3   
+D) ABC   
+
+
+================================================================================
+PAGE 6
+================================================================================
+ 
+ 
+Page | 193                            NAYI UMANG 2025 -26    INDEX  
+       
+29. A physical connection between the microprocessor memory and other parts of the 
+microcomputer is known as   
+A) Path   
+B) Address bus   
+C) Route   
+D) All the above   
+30. High density double sided floppy disks could store _____ of data   
+A) 1.40 MB   
+B) 1.44 GB   
+C) 1.40 GB   
+D) 1.44 MB   
+  
+31. A high quality CAD system uses the following for printing drawing and graphs A) 
+Dot matrix printer   
+B) Digital plotter   
+C) Line printer   
+D) All the above   
+  
+32. Which of the following is not an input device?   
+A) OCR   
+B) Optical scanners   
+C) Voice recognition device   
+D) COM (Computer Output to Microfilm)   
+  
+33. The accuracy of the floating -point numbers representable in two 16 -bit word s of a 
+computer is approximately   
+A) 16 digits   
+B) 6 digits   
+C) 9 digits   
+D) All above   
+  
+ 
+ 
+ 
+
+
+================================================================================
+PAGE 7
+================================================================================
+ 
+ 
+Page | 194                            NAYI UMANG 2025 -26    INDEX  
+     34. In most of the IBM PCs, the CPU, the device drivers, memory, expansion slots and 
+active components are mounted on a single board. What is the name of the board?  A) 
+Motherboard   
+B) Daughterboard   
+C) Bredboard   
+D) Fatherboard  
+35. In most IBM PCs, the CPU, th e device drives, memory expansion slots and active 
+components are mounted on a single board. What is the name of this board?  A) 
+Motherboard   
+B) Breadboard   
+C) Daughter board   
+D) Grandmother board   
+  
+36. Magnetic disks are the most popular medium for   
+A) Direct access   
+B) Sequential access   
+C) Both of above   
+D) None of above   
+ 
+37. A technique used by codes to convert an analog signal into a digital bit stream is 
+known as   
+A) Pulse code modulation   
+B) Pulse stretcher   
+C) Query processing   
+D) Queue management   
+ 
+38. R egarding a VDU, Which statement is more correct?   
+A) It is an output device   
+B) It is an input device   
+C) It is a peripheral device   
+D) It is hardware item   
+ 
+ 
+ 
+ 
+
+
+================================================================================
+PAGE 8
+================================================================================
+ 
+ 
+Page | 195                            NAYI UMANG 2025 -26    INDEX  
+     39. A modern electronic computer is a machine that is meant for   
+A) Doing quick mathematical calculations   
+B) Input, storage, manipulation and outputting of data   
+C) Electronic data processing   
+D) Performing repetitive tasks accurately   
+ 
+40. When was vacuum tube invented?   
+A) 1900   
+B) 1906   
+C) 1910   
+D) 1880   
+ 
+41. Which of the following produces the best quality graphics reproduction?   
+A) Laser printer   
+B) Ink jet printer   
+C) Plotter   
+D) Dot matrix printer   
+  
+42. Computers with 80286 microprocessors  is   
+A) XT computer   
+B) AT computers   
+C) PS/2 computer   
+D) None of above   
+ 43. An application suitable for sequential processing is   
+A) Processing of grades   
+B) Payroll processing   
+C) Both a and b   
+D) All above   
+  
+44. Which of the following is not processing?   
+A) arranging   
+B) manipulating   
+C) calculating   
+D) gathering   
+  
+
+
+================================================================================
+PAGE 9
+================================================================================
+ 
+ 
+Page | 196                            NAYI UMANG 2025 -26    INDEX  
+     45. The digital computer was developed primarily in   
+A) USSR   
+B) Japan   
+C) USA   
+D) UK   
+  
+46. Software in computer   
+A) Enhances the capabilities of the hardware machine   
+B) Increase the speed of central processing unit   
+C) Both of above   
+D) None of above  
+47. Today’s computer giant IBM was earlier known by different name which was 
+changes in 1924. What was that name?  A) Tabulat or Machine Co.   
+B) Computing Tabulating Recording Co.   
+C) The Tabulator Ltd.   
+D) International Computer Ltd.   
+  
+48. Before a disk drive can access any sector record, a computer program must  provide 
+the record’s disk address. What information does this address specify?   
+A) Track number   
+B) Sector number   
+C) Surface number   
+D) All above   
+ 
+49. The arranging of data in a logical sequence is called   
+A) Sorting   
+B) Classifying   
+C) Reproducing   
+D) Summarizing  
+  
+50. What is the responsibility of the logical unit in the CPU of a computer?   
+A) To produce result   
+B) To compare numbers   
+C) To control flow of information   
+D) To do math’s works   
+
+
+================================================================================
+PAGE 10
+================================================================================
+ 
+ 
+Page | 197                            NAYI UMANG 2025 -26    INDEX  
+      
+51. Abacus was the first   
+A) electronic computer   
+B) mechanical comput er   
+C) electronic calculator   
+D) mechanical calculator   
+  
+52. If in a computer, 16 bits are used to specify address in a RAM, the number of 
+addresses will be   
+A) 216   
+B) 65,536   
+C) 64K   
+D) Any of the above   
+  
+53. Instructions and memory address are represented by   
+A) Character code   
+B) Binary codes   
+C) Binary word   
+D) Parity bit   
+  
+54. The terminal device that functions as a cash register, computer terminal, and OCR 
+reader is the:   
+A) Data collection terminal   
+B) OCR regi ster terminal   
+C) Video Display terminal   
+D) POS terminal   
+  
+55. A set of flip flops integrated together is called ____   
+A) Counter   
+B) Adder   
+C) Register   
+D) None of the above   
+  
+ 
+ 
+
+
+================================================================================
+PAGE 11
+================================================================================
+ 
+ 
+Page | 198                            NAYI UMANG 2025 -26    INDEX  
+     56. People often call ______ as the brain of computer system   
+A) Control Unit   
+B) Arithmetic Logic Unit   
+C) Central Processing Unit   
+D) Storage Unit   
+ 
+57. Which is used for manufacturing chips?   
+A) Bus   
+B) Control unit   
+C) Semiconductors   
+D) A and b only   
+ 
+58. The value of each bead in heaven is   
+A) 1   
+B) 3   
+C) 5   
+D) 7  
+59. The first computer introduced in Nepal was   
+A) IBM 1400   
+B) IBM 1401   
+C) IBM 1402   
+D) IBM1402   
+  
+60. Mnemonic a memory trick is used in which of the following language?   
+A) Machine language   
+B) Assembly language   
+C) High level language   
+D) None of above   
+  
+61. Instruction in computer languages consists of   
+A) OPCODE   
+B) OPERAND   
+C) Both of above   
+D) None of above   
+  
+
+
+================================================================================
+PAGE 12
+================================================================================
+ 
+ 
+Page | 199                            NAYI UMANG 2025 -26    INDEX  
+     62. Which generation of computer is still under development   
+A) Fourth Generation   
+B) Fifth Generation   
+C) Sixth Generation   
+D) Seventh Generation   
+  
+63. A register organized to allow to move left or right operations is called a ___ _ A) 
+Counter   
+B) Loader   
+C) Adder    
+D) Shift register   
+  
+64. Which was the most popular first-generation  computer?   
+A) IBM 650   
+B) IBM 360   
+C) IBM 1130   
+D) IBM 2700   
+ 
+65. Which is considered a direct entry input device?   
+A) Optical scanner   
+B) Mouse and digitizer   
+C) Light pen   
+D) All the above   
+  
+66. A set of information that defines the status of resources allocated to a process is 
+A) Process control   
+B) ALU   
+C) Register Unit   
+D) Process description   
+  
+67. Each set of Napier’s bones consisted of ______ rods.   
+A) 5   
+B) 9   
+C) 11   
+D) D) 13   
+
+
+================================================================================
+PAGE 13
+================================================================================
+ 
+ 
+Page | 200                            NAYI UMANG 2025 -26    INDEX  
+       
+68. BCD is   
+A) Binary Coded Decimal   
+B) Bit Coded Decimal   
+C) Binary Coded Digit   
+D) Bit Coded Digit   
+  
+69. When was the world’s first laptop computer introduced in the market and b y 
+whom?   
+A) Hewlett -Packard, 1980   
+B) Epson, 1981   
+C) Laplink Traveling Software Inc, 1982   
+D) Tandy Model -200, 1985   
+70. From which generation operating systems were developed?   
+A) First   
+B) Second   
+C) Third   
+D) Fourth  
+71. The first firm to mass -market a microcomputer as a personal computer was A) IBM   
+B) Super UNIVAC   
+C) Radio Shaks   
+D) Data General Corporation   
+ 
+72. How many address lines are needed to address each machine location in a 2048 x 
+4 memory chip?   
+A) 10   
+B) 11   
+C) 8   
+D) 12   
+ 
+73. Properly arranged data is called   
+A) Field   
+B) Words   
+C) Information   
+D) File   
+
+
+================================================================================
+PAGE 14
+================================================================================
+ 
+ 
+Page | 201                            NAYI UMANG 2025 -26    INDEX  
+       
+74. A computer consists of   
+A) A central processing unit   
+B) A memory   
+C) Input and output unit   
+D)  All the above  
+   
+75. Why are vacuum tubes also called valves?   
+A) Because they can amplify the weak signals and make them strong   
+B) Because they can stop or allow the flow of current   
+C) Both of ab ove   
+D) None of above   
+ 
+76. John Napier invented Logarithm in   
+A) 1614   
+B) 1617   
+C) 1620   
+D) None of above   
+ 
+77. An integrated circuit is   
+A) A complicated circuit   
+B) An integrating device   
+C) Much costlier than a single transistor   
+D) Fabricated on a tiny silicon chip   
+  
+78. What type of control pins are needed in a microprocessor to regulate traffic on the 
+bus, in order to prevent two devices from trying to use it at the same time?  A) Bus 
+cont rol   
+B) Interrupts   
+C) Bus arbitration   
+D) Status   
+79. Whereas  a computer mouse moves over the table surface, the trackball is   
+A) Stationary   
+B) Difficult to move   
+C) Dragged   
+D) Moved in small steps   
+
+
+================================================================================
+PAGE 15
+================================================================================
+ 
+ 
+Page | 202                            NAYI UMANG 2025 -26    INDEX  
+      
+80. Which of the following is used as a primary storage device?   
+A) Magnetic drum   
+B) Hard Disks   
+C) Floppy   
+D) All above   
+  
+81. Multiuser  systems provided cost savings for small business because they use a 
+single processing unit to link several   
+A) Personal computers   
+B) Workstations   
+C) Dumb terminals   
+D) Mainframes   
+  
+82. What are the three decisions making operations performed by the ALU of a  
+computer?  A) Grater than   
+B) Less than   
+C) Equal to   
+D) All the above  
+83. The word processing task associated with changing the appearance of a document 
+is   
+A) Editing   
+B) Writing   
+C) Formatting   
+D) All above   
+  
+84. Nepal brought a computer for census of 2028 BS. This computer was of   
+A) first generation   
+B) second generation   
+C) third generation   
+D) fourth generation   
+ 
+85. Algorithm and Flow chart help us to   
+A) Know the memory capacity   
+B) Identify the base of a number sys tem   
+
+
+================================================================================
+PAGE 16
+================================================================================
+ 
+ 
+Page | 203                            NAYI UMANG 2025 -26    INDEX  
+     C) Direct the output to a printer   
+D) Specify the problem completely and clearly   
+  
+86. Which statement is valid about computer program?   
+A) It is understood by a computer   
+B) It is understood by programmer   
+C) It is understood user   
+D) Both a & b   
+  
+87. The difference between memory and storage is that memory is _____ and storage 
+is __   
+A) Temporary, permanent   
+B) Permanent, temporary   
+C) Slow, fast   
+D) All above   
+ 
+88. When was Pascaline invented?   
+A) 1617   
+B) 1620   
+C) 1642   
+D)  1837   
+  
+89. Which of the following statement is valid?   
+A) Lady Augusta is the first programmer   
+B) Ada is the daughter of Lord Byron, a famous English poet   
+C) ADA is a programming language developed by US Defense   
+D) All above   
+  
+90. A compiler is a translating progr am which   
+A) Translates instruction of a high -level  language into machine language   
+B) Translates entire source program into machine language program   
+C) It is not involved in program’s execution   
+D) All above   
+  
+ 
+
+
+================================================================================
+PAGE 17
+================================================================================
+ 
+ 
+Page | 204                            NAYI UMANG 2025 -26    INDEX  
+     91. What is required when more than one person uses a central computer at the same 
+time?   
+A) Light pen   
+B) Mouse   
+C) Digitizer   
+D) Terminal   
+  
+92. Which of the following is the first computer to use Stored Program Concept?   
+A) UNIVAC   
+B) ENIAC   
+C) EDSAC   
+D) None of above   
+  
+93. The term gigabyte refers to   
+A) 1024 bytes   
+B) 1024 kilobytes   
+C) 1024 megabytes   
+D) 1024 gigabyte   
+  
+94. in which year was UK’s premier computing event started?   
+A) 1980   
+B) 1985   
+C) 1986 D ) 1987  
+95. Once you load the suitable program and provide required data, computer does not 
+need human intervention. This feature is known as   
+A) Accuracy   
+B) Reliability   
+C) Versatility   
+D) Automatic   
+ 
+96. What is a brand?   
+A) The name of companies that made computers   
+B) The name of product a company gives to identify its product in market   
+C) A name of class to indicate all similar products from different companies   
+D) All above   
+
+
+================================================================================
+PAGE 18
+================================================================================
+ 
+ 
+Page | 205                            NAYI UMANG 2025 -26    INDEX  
+      
+97. Machine language is   
+A) Machine dependent   
+B) Difficult to program   
+C) Error prone   
+D) All above   
+ 
+98. A byte consists of   
+A) One bit   
+B) Four bits   
+C) Eight bits   
+D) Sixteen bits   
+  
+99. Modern Computers are very reliable,  but they are not   
+A) Fast   
+B) Powerful   
+C) Infallible   
+D) Cheap   
+  
+100. What is the date when Babbage conceived Analytical engine   
+A) 1642   
+B) 1837   
+C) 1880  
+D) 1850   
+  
+101. What was the expected feature of fifth generation computers when Japan started 
+FGCS?   
+A) Operating Systems   
+B) Parallel Processing   
+C) ULSI   
+D) None of above   
+ 102. Which of the following memory medium is not used as main memory system?   
+A) Magnetic core   
+B) Semiconductor   
+C) Magnetic tape   
+
+
+================================================================================
+PAGE 19
+================================================================================
+ 
+ 
+Page | 206                            NAYI UMANG 2025 -26    INDEX  
+     D) Both semiconductor and magnetic tape   
+  
+103. The storage subsystem in a microcomputer consists mainly of __ or __ media with 
+varying capacities   
+A) Memory or video   
+B) Magnetic or optical   
+C) Optical or memory   
+D) Video or magnetic   
+  
+104. Programs designed to perform specific tasks is known as   
+A) system software   
+B) application software   
+C) utility programs   
+D) operating system   
+  
+105. Computer operators   
+A) writes computer programs for specific problems   
+B) operate the device which input and output data from the computer   
+C) normally require a college degree in computer science   
+D) all the above  
+106. Which of the foll owing is not anti -viruses’  software?   
+A) NAV   
+B) F-Prot   
+C) Oracle   
+D) McAfee   
+ 
+107. What is a compiler?   
+A) A compiler does a conversion line by line as the program is run   
+B) A compiler converts the whole of a higher -level  program code into machine code in 
+one step   
+C) A compiler is a general -purpose  language providing very efficient execution  
+D) None of the above   
+  
+108. _______ computers are also called personal computers   
+A) Mainframe Computer   
+
+
+================================================================================
+PAGE 20
+================================================================================
+ 
+ 
+Page | 207                            NAYI UMANG 2025 -26    INDEX  
+     B) Minicomputers    
+C) Micro Computers   
+D) Super Computers   
+  
+109. Which of the following is not input unit device?   
+A) scanner   
+B) camera   
+C) plotter   
+D) digitizer   
+  
+110. Identify the correct statement   
+A) IBM PCs used RISC CPU designs   
+B) Macintosh used CISC CPU design   
+C) IBM used CISC CPU design   
+D) None of above is true   
+  
+111. Which of the following statement is false?   
+A) Mechanical analog computers have existed for thousands of years   
+B) There are mechanical analog computers and electronic a nalog computers.   
+C) All electronic computers are digital computers   
+D) All above are false   
+  
+112. Which of the following require large computers memory?   
+A) Imaging   
+B) Graphics   
+C) Voice   
+D) All Above   
+  
+113. Which of the following is machine independence program?   
+A) High level language   
+B) Low level language   
+C) Assembly language   
+D) Machine language   
+  
+ 
+
+
+================================================================================
+PAGE 21
+================================================================================
+ 
+ 
+Page | 208                            NAYI UMANG 2025 -26    INDEX  
+      
+114. When was the first electro -mechanical computer developed?   
+A) 1880   
+B) 1990   
+C) 1944   
+D) None of above   
+  
+115. The first machine to successfully perform a long series of arithmetic and logical 
+operations was:   
+A) ENIAC   
+B) Mark -I   
+C) Analytic Engine   
+D) UNIVAC -1   
+ 
+116. Which one is the largest space?   
+A) kilobyte   
+B) petabyte   
+C) terabyte   
+D) gigabyte   
+ 117. FORTRAN programming language is more suitable for ____   
+A) Business Applications   
+B) Marketing Applications   
+C) Scientific Applications   
+D) None of the above  
+118.The brain of any computer system is   
+A) Control Unit   
+B) Arithmetic Logic Unit   
+C) Central Processing Unit   
+D) Storage Unit   
+  
+119. Analog computer works on the supply of   
+A) Continuous electrical pulses   
+B) Electrical pulses but not continuous   
+C) Magnetic strength   
+D) None of the above   
+
+
+================================================================================
+PAGE 22
+================================================================================
+ 
+ 
+Page | 209                            NAYI UMANG 2025 -26    INDEX  
+      
+120. An error in software or hardware is called a bug. What is the alternative computer 
+jargon for it?   
+A) Leech   
+B) Squid   
+C) Slug   
+D) Glitch   
+  
+121. The advantage of COM are its __ and __   
+A) Compact size; speed readability   
+B) Compact size, speed   
+C) Readability; speed   
+D) Low cost; readability   
+122. The BIOS is the abbreviation of ________.   
+A) Basic Input Output System   
+B) Best Input Output System   
+C) Basic  Input Output Symbol   
+D) Base Input Output System   
+  
+123. Which printer is very commonly used for desktop publishing?   
+A) Laser printer   
+B) Inkjet printer   
+C) Daisywheel printer   
+D) Dot matrix printer   
+ 124. IBM 1401 is   
+A) First Generation Computer   
+B) Second Generation Computer   
+C) Third Generation Computer   
+D) Fourth Generation Computer   
+  
+125. Most of the first-generation  computers were   
+A) Special purpose computers   
+B) General purpose computers   
+C) Both of above   
+D) None of above   
+
+
+================================================================================
+PAGE 23
+================================================================================
+ 
+ 
+Page | 210                            NAYI UMANG 2025 -26    INDEX  
+       
+126. Floppy disks typically in diameter   
+A) 3   
+B) 5.25   
+C) 8   
+D) All above   
+  
+127. The output quality of a printer is measured by   
+A) Dot per inch   
+B) Dot per sq. inch   
+C) Dots printed per unit time   
+D) All above   
+  
+128. On a PC, how much memory is available to application software?   
+A) 1024 KB   
+B) 760 KB   
+C) 640 KB   
+D) 560 KB   
+ 
+129. In a computer _____ is capable to store single binary bit.   
+A) Capacitor   
+B) Flip flop   
+C) Register   
+D) Inductor  
+130. What does DMA stand for?   
+A) Distinct Memory Access   
+B) Direct Memory Access   
+C) Direct Module Access   
+D) Direct Memory Allocation   
+  
+131. Who invented Integrated Circuits?   
+A) Jack Kilby   
+B) Robert Noyce   
+C) Both of above   
+D) None of above   
+
+
+================================================================================
+PAGE 24
+================================================================================
+ 
+ 
+Page | 211                            NAYI UMANG 2025 -26    INDEX  
+       
+ 
+132. Operating system, editors, and debuggers comes under?   
+A) System Software   
+B) Application Software   
+C) Utilities   
+D) None of the above   
+  
+133. One computer that is not considered a portable is   
+A) Minicomputer   
+B) Laptop computer   
+C) Notebook computer   
+D) All above   
+ 
+134. Which of the following is not an electronic computer?   
+A) ENIAC   
+B) ABC   
+C) UNIVAC   
+D) EDVAC   
+  
+135. What is the name of the display feature that highlights are of the screen which 
+requires operator attention?   
+A) Pixel   
+B) Reverse video   
+C) Touch screen    
+D) Cursor  
+  
+136. Which is the largest computer?   
+A) Mainframe Computer   
+B) Minicomputers    
+C) Micro Computers   
+D) Super Computers   
+ 137. Which of the following are the best units of data on an external storage device?   
+A) Bits   
+B) Bytes   
+
+
+================================================================================
+PAGE 25
+================================================================================
+ 
+ 
+Page | 212                            NAYI UMANG 2025 -26    INDEX  
+     C) Hertz   
+D) Clock cycles  
+  
+138. The personal computer industry was started by   
+A) IBM   
+B) Apple   
+C) Compaq   
+D) HCL  
+139. What is meant by a dedicated computer?   
+A) Which is used by one person only   
+B) Which is assigned one and only one task   
+C) Which uses one kind of software   
+D) Which is meant for application software   
+  
+140. Which programming languages are classified as low level languages?   
+A) Basic, COBOL, FORTRAN   
+B) Prolog 2, Expert Systems   
+C) Knowledge based Systems   
+D) Assembly Languages   
+  
+141. What was the main disadvantage of vacuum tubes?   
+A) They were larger in size   
+B) They consumed a lot of electricity   
+C) They produced heat and often burned out   
+D) The operation cost was high  
+142.Registers, which are partially visible to users and used to hold conditional, are 
+known as   
+A) PC   
+B) Memory address registers   
+C) General purpose reg ister   
+D) Flags   
+  
+143. Which is not a computer of first generation?   
+A) ENIAC   
+B) UNIVAC   
+
+
+================================================================================
+PAGE 26
+================================================================================
+ 
+ 
+Page | 213                            NAYI UMANG 2025 -26    INDEX  
+     C) IBM 360   
+D) IBM 1401   
+ 144. Registers which are partially visible to users and used to hold conditional codes 
+(bits set by the CPU hardware as the result of operations), are known as  
+ A) PC   
+B) Flags   
+C) Memory Address Registers   
+D)  General Purpose Registers   
+ 
+145. Who invented vac uum tubes?   
+A) John Bardeen   
+B) William Shockley   
+C) Lee de Forest   
+D)  All above   
+ 
+146. An approach that permits the computer to work on several programs instead of 
+one is   
+A) On-line thesaurus   
+B) Multiprogramming   
+C) Over lapped processing   
+D) Outline processor   
+  
+147. Who suggested Stored Program Concept   
+A) John Mauchley   
+B) J.P. Eckert   
+C) John Neumann   
+D) Joseph Jacquard   
+  
+148. The central processing unit (CPU) consists of   
+A) Input, output and processing   
+B) Control unit, primary storage, and secondary storage   
+C) Control unit, arithmetic -logic unit and primary storage   
+D) Control unit, processing, and primary storage   
+ 
+ 
+
+
+================================================================================
+PAGE 27
+================================================================================
+ 
+ 
+Page | 214                            NAYI UMANG 2025 -26    INDEX  
+      
+ 
+149. The notable features like keyboards, monitors, GUI were developed in   
+A) First generation   
+B) Second generation   
+C) Third generation   
+D) Fourth generation   
+ 
+150. UNIVAC is   
+A) Universal Automatic Computer   
+B) Universal Array Computer   
+C) Unique Automatic Computer   
+D) Unvalued Automatic Computer  
+ 151. Which is the highest form?   
+A) Data   
+B) Information   
+C) Knowledge   
+D) All above   
+ 152. Who is credited with the idea of using punch cards to control patterns in a waving 
+machine?   
+A) Pascal   
+B) Hollerit h   
+C) Babbage   
+D) Jacquard   
+  
+153. What is an interpreter?   
+A) An interpreter does the conversion line by line as the program is run   
+B) An interpreter is the representation of the system being designed   
+C) An interpreter is a general -purpose  language providing very efficient execution   
+D) None of the above  
+154. Which is a semi -conductor  memory?   
+A) Dynamic   
+B) Static   
+C) Bubble   
+D) Both a & b   
+
+
+================================================================================
+PAGE 28
+================================================================================
+ 
+ 
+Page | 215                            NAYI UMANG 2025 -26    INDEX  
+      
+155. RJ45 UTP cable has ________ Cables.   
+A) 2 pair   
+B) 3 pair   
+C) 4 pair   
+D) D) 5 pair   
+  
+156. Which of the following is not a valid size of a Floppy Disk?   
+A) 8?   
+B) 5 ¼?   
+C) 3 ½?  D) 5 ½?   
+  
+157. The earliest calculating devices are   
+A) Abacus   
+B) Clock   
+C) Difference Engine   
+D) None of these   
+  
+158. Word length of a Personal Computer is ___   
+A) 4 bits   
+B) 8 bits   
+C) 16 bits   
+D) 64 bits   
+  
+159. What was the first computer to perform all calculation using electronics rather 
+than wheels, ratchets, or mechanical switche s?   
+A) Mark I   
+B) ABC   
+C) Z3   
+D) None of above   
+ 
+160. A directly accessible appointment calendar is feature of a __ resident package   
+A) CPU   
+B) Memory   
+C) Buffer   
+
+
+================================================================================
+PAGE 29
+================================================================================
+ 
+ 
+Page | 216                            NAYI UMANG 2025 -26    INDEX  
+     D) ALU   
+ 
+161. Which unit converts computer data into human readable form?   
+A) Input unit   
+B) Output unit   
+C) ALU   
+D) Control Unit   
+ 
+162. The full form of ALU is   
+A) Arithmetic Logic Unit   
+B) Array Logic Unit   
+C) Application Logic Unit   
+D) None of above   
+  
+163. What produces useful information out of data?   
+A) Computer   
+B) Processing   
+C) Programming   
+D) none of above   
+  
+164. Which of the following device was not invented by Babbage?   
+A) Pascaline   
+B) Difference Engine   
+C) Analytical Engine   
+D) None of above   
+ 165. A digital computer did not score over an analog computer in terms of   
+A) Speed   
+B) Accuracy   
+C) Reliability   
+D) Cost  
+166. Which number system is usually followed in a typical 32 -bit computer?  A) 
+Binary   
+B) Decimal   
+C) Hexadecimal   
+D) Octal   
+
+
+================================================================================
+PAGE 30
+================================================================================
+ 
+ 
+Page | 217                            NAYI UMANG 2025 -26    INDEX  
+       
+167. A computer has very low failure rate because it uses electronic components. It 
+produces very consistent results. This is highlighted by which of the feature of 
+computer?  A) Accuracy   
+B) Reliability   
+C) Versatility   
+D) Automatic   
+ 
+168. A paper printout of a document is known as   
+A) Softcopy output   
+B) Hardcopy output   
+C) Permanent Output   
+D)  All above   
+169. Which electronic component was made from  semiconductor material?   
+A) Vacuum tubes   
+B) Transistors   
+C) ICs   
+D) All above   
+ 
+170. The act of retrieving existing data from memory is called   
+A) Read -out   
+B) Read from   
+C) Read   
+D) All above   
+  
+171. Which part of the computer is used for calculating and comparing?   
+A) Disk unit   
+B) Control unit   
+C) ALU   
+D) Modem   
+  
+172. ABC is a   
+A) Special purpose computer   
+B) General purpose computer   
+C) All Purpose Computer   
+D) None of above   
+
+
+================================================================================
+PAGE 31
+================================================================================
+ 
+ 
+Page | 218                            NAYI UMANG 2025 -26    INDEX  
+       
+173. The computer code for the interchange of information between terminals is   
+A) ASCII   
+B) BCD   
+C) EBCDIC   
+D) All above   
+ 
+174. When was the X window system born?   
+A) 1984   
+B) 1989   
+C) 1988   
+D)  1990   
+ 175. What is the first stage in software development?   
+A) Specification and design   
+B) Testing   
+C) System Analysis   
+D) Maintenance   
+  
+176. Which of the following is valid statement?   
+A) Data is useless unless it is processed   
+B) The data that is processed is called a program   
+C) The data which is not yet processed is information   
+D) Information is processed by computer to generate data.  
+  
+177. The Second -Generation  Computer was based on ________.   
+A) Vacuum Tube   
+B) Silicon Chips   
+C) Transistor   
+D) Bio Chips  
+ 178. EBCDIC stands for   
+A) Extended Binary Coded Decimal Interchange Code   
+B) Extended Bit Code Decimal Interchange Code   
+C) Extended Bit Case Decimal Interchange Code   
+D) Extended Binary Case Decimal Interchange Code   
+
+
+================================================================================
+PAGE 32
+================================================================================
+ 
+ 
+Page | 219                            NAYI UMANG 2025 -26    INDEX  
+      
+179. Personnel who design, program, operates and maintains computer equipment 
+refers to   
+A) Console -operator   
+B) Programmer   
+C) Peopleware   
+D) System Analyst   
+  
+180. IBM System/360 is   
+A) Mainframe Computer   
+B) Minicomputers    
+C) Micro Computers   
+D) None of above   
+  
+181. A system is   
+A) an integration of different units to achieve an objective   
+B) input unit   
+C) input and output unit   
+D) input, output and stora ge units   
+  
+182. Which of the following programming language started from second generation?   
+A) Cobol   
+B) BASIC   
+C) C   
+D) LISP   
+ 
+183. The translator program used in assembly language is called   
+A) Compiler   
+B) Interpreter   
+C) Assembler   
+D) Translator   
+184. EEPROM stands for   
+A) Electrically Erasable Programmable Read Only Memory   
+B) Easily Erasable Programmable Read Only Memory   
+C) Electronic Erasable Programmable Read Only Memory   
+D) None of the above   
+
+
+================================================================================
+PAGE 33
+================================================================================
+ 
+ 
+Page | 220                            NAYI UMANG 2025 -26    INDEX  
+       
+185. Regarding data, computers are very good at   
+A) store   
+B) Processing   
+C) retrieve   
+D) All above   
+186. Bit map terminal   
+A) support display containing multiple windows   
+B) require considerable amount of video RAM   
+C) requires tremendous amount of copying and hence l ow performance   
+D) all above   
+187. First generation computers used _________ for memory   
+A) vacuum tubes   
+B) silicon chips   
+C) magnetic drum   
+D) RAM   
+188. Which of the following memories allows simultaneous read and write operations?   
+A) ROM   
+B) RAM   
+C) EPROM   
+D) None of above   
+ 
+189. EPROM can be used for   
+A) Erasing the contents of ROM   
+B) Reconstructing the contents of ROM   
+C) Erasing and reconstructing the con tents of ROM   
+D) Duplicating ROM  
+190. ENIAC uses   
+A) Decimal Numbering System   
+B) Octal Numbering System   
+C) Binary Numbering System   
+D) Hexadecimal Numbering System   
+ 
+ 
+ 
+
+
+================================================================================
+PAGE 34
+================================================================================
+ 
+ 
+Page | 221                            NAYI UMANG 2025 -26    INDEX  
+     191. A term associated with the comparison of processing speeds of different 
+computer system is:   
+A) EFTS   
+B) MPG   
+C) MIPS   
+D) CPS   
+192. which of the following is problem -oriented  language?   
+A) High level language   
+B) Machine language   
+C) Assembly language   
+D) Low level language   
+193. A 32-bit microprocessor has the word length equal to   
+A) 2 bytes    
+B) 32 bytes    
+C) 4 bytes    
+D) 8 bytes   
+  
+194. The term GIGO is related to   
+A) Accuracy     
+B) Reliability   
+C) Versatility   
+D) Automatic   
+ 
+195. Web cam is an   
+A) input unit device   
+B) output unit device   
+C) processing device   
+D) Input and Output device   
+ 
+196. Bit stands for   
+A) Binary digits   
+B) bit of system   
+C) a part of byte   
+D) All above   
+ 
+ 
+
+
+================================================================================
+PAGE 35
+================================================================================
+ 
+ 
+Page | 222                            NAYI UMANG 2025 -26    INDEX  
+     197. Access time is   
+A) seek time + latency time   
+B) seek time   
+C) seek time?  latency time   
+D) latency time   
+ 
+198. Which device can understand difference between data & programs?   
+A) Input device   
+B) Output device   
+C) Memory   
+D) Microprocessor   
+ 
+199. Which of the following is a read on ly memory storage device?   
+A) Floppy Disk   
+B) CD-ROM   
+C) Hard Disk   
+D) None of these   
+ 
+200. Symbolic logic was discovered by   
+A) George Boole   
+B) Herman Hollerith   
+C) Van Neumann   
+D) Basic Pascal   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+================================================================================
+PAGE 36
+================================================================================
+ 
+ 
+Page | 223                            NAYI UMANG 2025 -26    INDEX  
+     ANSWERS  
+1-A  2-D  3-D  4-D  5-C  6-A  7-C  8-D  9-C  10-B  
+11-C  12-C  13-D  14-C  15-C  16-B  17-B  18-B  19-C  20-D  
+21-B  22-D  23-C  24-B  25-A  26-B  27-B  28-A  29-B  30-D  
+31-B  32-D  33-A  34-A  35-A  36-D  37-A  38-C  39-B  40-B  
+41-C  42-B  43-C  44-D  45-C  46-A  47-B  48-D  49-A  50-B  
+51-D  52-B  53-B  54-D  55-C  56-C  57-C  58-C  59-B  60-B  
+61-C  62-B  63-D  64-A  65-D  66-D  67-C  68-A  69-B  70-C  
+71-C  72-B  73-C  74-D  75-B  76-A  77-D  78-C  79-A  80-A  
+81-C  82-D  83-C  84-B  85-D  86-D  87-A  88-C  89-D  90-D  
+91-D  92-C  93-C  94-A  95-D  96-B  97-D  98-C  99-C  100-B  
+101-B  102-C  103-B  104-B  105-B  106-C  107-B  108-C  109-C  110-C  
+111-C  112-D  113-A  114-C  115-B  116-B  117-C  118-C  119-A  120-D  
+121-A  122-A  123-A  124-B  125-A  126-D  127-B  128-C  129-B  130-B  
+131-C  132-A  133-A  134-B  135-B  136-A  137-B  138-A  139-B  140-D  
+141-C  142-C  143-D  144-B  145-C  146-C  147-C  148-C  149-C  150-A  
+151-C  152-D  153-B  154-D  155-C  156-D  157-A  158-B  159-B  160-B  
+161-B  162-A  163-B  164-A  165-B  166-A  167-B  168-B  169-C  170-D  
+171-C  172-A  173-A  174-A  175-C  176-A  177-C  178-A  179-C  180-A  
+181-A  182-A  183-C  184-A  185-D  186-D  187-C  188-B  189-C  190-A  
+191-C  192-A  193-C  194-A  195-A  196-A  197-A  198-D  199-B  200-A  
+          
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+================================================================================
+PAGE 37
+================================================================================
+ 
+ 
+Page | 224                            NAYI UMANG 2025 -26    INDEX  
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+================================================================================
+PAGE 38
+================================================================================
+ 
+ 
+Page | 225                            NAYI UMANG 2025 -26    INDEX  
+     EXERCISE S 
+ 
+1. Which of the following is not an advantage of stored programs?   
+a) reliability  b) reduction in operational costs  
+c)) ability of the computer to operate at electronic speeds  d) All of the above  
+2. Data systems for planning are often called  
+a) decision analysis systems b) planning analysis systems  
+ c) decision support systems  d) All of the above  
+3. The term "memory" appli es to which one of the following?   
+a) Logic b)  Storage  c) Control   d)   Input device  
+4. The term "memory" applies to which one of the following?   
+ a) Logic   b) Storage  c)  Control  d)   Input device  
+5. What is meant by computer literacy?   
+a) Ability to write computer program   
+b) Knowing what a computer can and cannot do  
+c) Knowing computer related vocabulary  
+d) Ability to assemble computers 26.  
+6. In most of the PCs, the CPU, the device drives, memory expansion slots and active 
+components are mounted on a single board. What is the name of this board?  What 
+is the name of this board?   
+a) Motherboard b ) Breadboard  c) Daughterboard     d) Grandmother board  
+7. Web site is collection of.  
+a) HTML documents  b) Graphic files c) Audio and video files d) All of the ab ove  
+8. Which of the following protocols is used       for WWW?   
+a) ftp  b)  http  c)  w3c  d)   None of these  
+9. The first page that you normally view Web sites is its: -  
+ a) Home page   b) Master  page   c) First page   d) Banner page  
+ 
+ 
+
+
+================================================================================
+PAGE 39
+================================================================================
+ 
+ 
+Page | 226                            NAYI UMANG 2025 -26    INDEX  
+     10. Host differs from desktop computers in that they can handle:   
+a) Multiple connections  
+b) Single connections  
+c) No connection  
+d) All the above  
+11. A stored link to a Webpage, in order to a quick and easy access to it later, is  
+a) WP. Link  b) Bookmark        c) Field   d)   All of the abo ve 
+12. What is the name of list that stores the URLs of Web pages and links visited w past 
+few days?   
+a) Link list  b) Page  list c)   History list  d)   None of these  
+13. As the power of PC is switched 'ON', the first program that loaded is  
+a) Program  b)  DOC files  c)  Operating system  d)  Network  
+14. which of the following is the latest operating system of Microsoft?  
+a) Windows XP b) windows vista  c) windows 2008  d) None of the above  
+15. When any application is not responding what is the “HOT KEY” is to be pressed to 
+end the task?  
+a) CTRL+ENTER  b)  CTRL+ALT+ENTER      
+ c) CTRL+ALT+DEL  d)  Any one of the above  
+ 
+16. RAM stands for  
+a) Remote access memory  b)  Read all memory  
+ c) Random access memory d)  Read access memory  
+  
+17. Which of the following is a spread sheet package of Microsoft?  
+a) Microsoft Excel         b)  Microsoft Project  c) MS  Access c) MS Office 2007  
+18. ISP stands for;  
+a) Internet Service Product    b) Internet Servic e Provider  
+ c)  Internet Source Product          d) Internet  Source Power  
+ 
+ 
+
+
+================================================================================
+PAGE 40
+================================================================================
+ 
+ 
+Page | 227                            NAYI UMANG 2025 -26    INDEX  
+     19. CPU stands for.  
+ a) Central  Processing Unit    b) Control Processing Unit  
+ c)Central Production Unit    d) Central Projection Unit  
+20. 1GB is equal to?  
+a) 1024 Bytes    b)1024   Kilo Bytes c)1024   Mega Bytes  d)1024   Bits  
+21. All marketing activities that attempt to stimulate quick buyer action or immediate 
+sales of a product are known as.  
+a) Sponsorship  b. Advertising  c. personal selling d. sales promotion  
+22. In general, th e single -voice, or synergy principle, involves selecting a specific for a 
+brand.  
+a) positioning statement  b. marketing mix  c. pricing strategy    
+d. advertising budget  
+23. Which one of the following is the greatest obstacle to implementing integrated 
+marketing communications?  
+a) Few providers of marketing communications services have the skills to execute 
+IMC programs.  
+b) There is a lack of interest in IMC by top management.  
+c) The cost for implementing an IMC program is difficult to justify.  
+d) Little can be gained by coordinating the various marketing communications 
+elements.  
+24. The premise underlying geodemographic targeting i s that people who also share 
+demographic and lifestyle similarities. a. is in the same income category  
+b. reside in similar areas  
+c. are of the same age  
+d. are of the same gender  
+25. A detergent that advertises how clean it gets clothes is appealing to the consumer  
+need.  
+a) Functional    b. Symbolic  c. Biological  d. Utilitarian  
+ 
+
+
+================================================================================
+PAGE 41
+================================================================================
+ 
+ 
+Page | 228                            NAYI UMANG 2025 -26    INDEX  
+     26. Simply  means that consumers meet  the marketer's message.  
+a) Perception    b. Exposure  c. Attention  d. Comprehension  
+27. Marketers can enhance the consumers' ability to access knowledge structures by  
+a) using loud music      b. using colorful ads     
+ c. employing verbal framing d. repeating brand information  
+28. Spurithy notices the television commercial because of the loud sou nds. This is an 
+example of.  
+a) exposure  b. involuntary attention  c. nonvoluntary attention  
+d. voluntary attention  
+29. Which of the following is NOT a requirement for setting advertising objectives?  
+a) Objectives must specify the amount of change.  
+b) Objectives must be stated in terms of profits.  
+c) Objectives must be realistic.      
+d) Objectives must be internally consistent.  
+30. An advertising objective is aimed at achieving communication outcomes that 
+precede behavior .  
+a) precise b. planned  c. indirect  d. direct  
+31. A clothing store that sets their advertising budget by following the major 
+competitor and adding an additional 15 perc ent is using the method. a. percentage -
+of-sales b.  arbitrary allocation  
+ c. objective -and-task    d. competitive parity  
+32. The advertising budget procedure used most frequently is the method.  
+a) arbitrary allocation    b. marginal cost  c. competitive parity  
+d. None of the above.  
+33. Which value is derived from the need for variety and achieving an exciting life?  
+a) self-direction  b. hedonism c. achievement    d. stimulation  
+ 
+
+
+================================================================================
+PAGE 42
+================================================================================
+ 
+ 
+Page | 229                            NAYI UMANG 2025 -26    INDEX  
+     34. Marketers are sometimes accused of deceptive practices that lead consumers to 
+believe they will get more value than they do. ______________ includes practices 
+such as falsely advertising "factory" or "wholesale" prices or a large price reduction 
+from a phony high retail price.  
+  a.  Deceptive promotion    b.  Deceptive packaging  
+  c.  Deceptive pricing      d.  Deceptive cost structure  
+35. The study of human populations in terms of size, density, location, age, gender, 
+race, occupation, and other statistics is called:  
+  a.  Geothermy.     b.  Demography.  
+  c.  Ethnography.    d.  Hemos -popography.  
+36. When  companies make marketing decisions by considering consumers' wants and 
+the long -run interests of the company, consumer, and the general population, they 
+are practicing which of the following principles?  
+  a.  Innovative marketi ng    b.  Consumer -oriented marketing  
+  c.  Value marketing        d.  Societal marketing  
+36. Regulations that arise to ensure that firms take responsibility for the social costs of 
+their products or production processes stem from which reason for government  
+legislation of business?  
+a. To protect companies from each other.  
+b. To protect consumers from unfair business practices.  
+c. To protect the interests of society.  
+d. To protect businesses from unfair consumer demands.  
+37. One of the most common problems with using internal database information is 
+that:  
+a. since it was probably collected for some other purpose, it may be 
+incomplete or wrong.  
+b. it is usually expensive to retrieve.  
+c. top executives are usually unwilling to relinquish data;  therefore, the data 
+has limits.  
+d. the data is almost always unsecured and, therefore, suspect as to reliability.  
+
+
+================================================================================
+PAGE 43
+================================================================================
+ 
+ 
+Page | 230                            NAYI UMANG 2025 -26    INDEX  
+     38. All the following are thought to be sources of new product ideas EXCEPT :  
+  a.  internal sources.    b.  customers.  
+  c.  competitors.   d.  the local library.  
+39. Each salesperson is assigned to an exclusive area in which to sell the company's full 
+line of products or services in which type of sales force structure?  
+  a.  Territorial sales force.  b.  Product sales force.  
+  c.  Customer sales force.  d.  Hybrid sales force.  
+ 
+ANSWERS FOR MCQs  
+1-B  2-C  3-B  4-D  5-B  6-A  7-D  8-B  9-A  10-A  
+11-B  12-C  13-C  14-B  15-C  16-C  17-A  18-B  19-A  20-C  
+21-D  22-A  23-A  24-B  25-A  26-B  27-C  28-B  29-B  30-C  
+31-D  32-D  33-D  34-C  35-B  36-D  37-C  38-A  39-D  40-A  
+ 
+EXERCISE  
+01.  Logarithm tables were developed by? 
+ 1)  Blaise Pascal  2)  John Napier  
+ 3)  William  4)  Charles Babbage  
+ 
+02.  Who of the following is regarded as ‘ Father of Modern Computer’ ?  
+ 1)  Blaise Pascal  2)  John Napier  
+ 3)  William  4)  Charles Babbage  
+ 
+03.  Punched Card was invented in 1801 by? 
+ 1)  Blaise Pascal  2)  Herman Hollerith  
+ 3)  Howard Alken  4)  Joseph Jaquard  
+ 
+04.  The first business -oriented computer developed in 1952 and used by US Bureau 
+of Census was  
+ 1)  UNIVAC -1  2)  ENIAC  
+ 3)  Colossus  4)  ENIGMA  
+ 
+05.  Vacuum tube is a ____ _? 
+
+
+================================================================================
+PAGE 44
+================================================================================
+ 
+ 
+Page | 231                            NAYI UMANG 2025 -26    INDEX  
+      1)  A glass tube that creates vacuum 
+while transmitting signals  2)  A fragile glass device that can 
+control and amplify electronic 
+signals  
+ 3)  A synthetic tube used to create 
+vacuum while working on 
+computers  4)  A protective tube used for safe -
+keeping computers while not in use 
+in earlier days  
+ 
+06.  Second generation computers used ______ technology ? 
+ 1)  Vacuum tubes  2)  LSIC  
+ 3)  Transistors  4)  VLSIC  
+ 
+07.  Speed of computers in third generation was measured in? 
+ 1)  Milli -seconds  2)  Nanoseconds   
+ 3)  Micro -seconds  4)  Seconds  
+ 
+08.  Hybrid computers are used in which of the following works?  
+ 1)  Launching a rocket  2)  Preparation of salaries  
+ 3)  Banking operations  4)  Insurance operations  
+ 
+09.  The numbering system used by today’s computers is called _____ ? 
+ 
+ 1)   Serial system  2)  Binary system  
+ 3) Random system   4)  Decimal System  
+ 
+10.  The base of numbering system is called _________ ? 
+ 1) Superscript  2)  Base  
+ 3)  Subscript  4)  Radix   
+ 
+11.  The power on position is represented by _____ ? 
+ 1)  1  2)  0  
+ 3)  Both 1 and 0  4)  Any of 1 and 0  
+ 
+12.  Binary equivalent of 30 (decimal number) is _____ ?   
+ 1)  11111  2)  11110  
+ 3)  11011  4)  10111  
+ 
+13.  What is the decimal equivalent number for the binary number 1110010?  
+
+
+================================================================================
+PAGE 45
+================================================================================
+ 
+ 
+Page | 232                            NAYI UMANG 2025 -26    INDEX  
+      1)  115  2)  111  
+ 3)  114  4)  112  
+ 
+14.  In hexa -decimal system the 26 (decimal equivalent) is denoted by ____ ?   
+ 1)  1A  2)  1B  
+ 3)  1E  4)  1F  
+ 
+15.  Octal number system is also known as ______ system ? 
+ 1)  Base -2  2)  Base -10  
+ 3)  Base -8  4)  Base -16  
+ 
+16.  A binary digit (0 or 1) that a computer understands is called _____ ?   
+ 1)  Kilo Byte  2)  Bit  
+ 3)  Mega Byte  4)  Byte  
+ 
+17.  The standard by which all characters are represented by a combination of binary 
+digits all over the world is called _____ ? 
+ 1)  ASCII  2)  ACSII  
+ 3)  AMFI  4)  AISCI  
+ 
+18.  BCD stands for _____ ? 
+ 1)  Binary Coded Decimal  2)  Binary Combined Decimal  
+ 3)  Binary Coded Division  4)  Binary Coded Distribution  
+ 
+19.  1 Gigabyte is equal to _____ Mega Bytes ? 
+ 1)  1000  2)  1028  
+ 3)  1024  4)  1073741824  
+ 
+20.  The physical components of a computer are called _____ ? 
+ 1)  Software  2)  Hardcore  
+ 3)  Devices  4)  Hardware  
+ 
+21.  The user can provide data to the computer with the help of _____ ? 
+ 1)  Processors  2)  Input Devices  
+ 3)  Storage devices  4)  Output Devices  
+ 
+22.  Printer is ______ device ?   
+
+
+================================================================================
+PAGE 46
+================================================================================
+ 
+ 
+Page | 233                            NAYI UMANG 2025 -26    INDEX  
+      1)  Output  2)  Input  
+ 3)  Storage  4)  Processing  
+ 
+23.  CPU, also known as the heart of the computer, stands for _____ ? 
+ 1)  Central Processing Unit  2)  Control Processing Unit  
+ 3)  Central Programming Unit  4)  Control Programming Unit  
+ 
+ 
+ 
+24.  Which of the following secondary storage devices can store more volume of 
+data?  
+ 1)  Floppy  2)  CD  
+ 3)  DVD  4)  DAT  
+ 
+25.  Set of programme(s) developed to control the operation of computer system is 
+known as ____ _? 
+ 1)  Operational programmes  2)  System software  
+ 3)  Application Software  4)  Control system software  
+ 
+26.  Which of the following is NOT an ‘Operating System’?  
+ 1)  Windows  2)  MS-DOS  
+ 3)  MS-Office  4)  Unix  
+ 
+27.  The command used to place a file in one directory into another directory is ____ ?   
+ 1)  Copy  2)  Move  
+ 3)  Ren  4)  Find  
+ 
+28.  The character that can represent one or more characters in a file name is known 
+as ____ ? 
+ 1)  Representing character  2)  Asterisk  
+ 3)  Question Mark  4)  Wild character  
+ 
+29.  The small pictures seen on the ‘desktop’ of a computer are known as __ _? 
+ 1)  Icons  2)  Ions  
+ 3)  Pictures  4)  Graphics   
+ 
+30.  _____company has developed the popular ‘Windows’ operating system?  
+
+
+================================================================================
+PAGE 47
+================================================================================
+ 
+ 
+Page | 234                            NAYI UMANG 2025 -26    INDEX  
+      1)  Microsoft   2)  Sun Micro Systems  
+ 3)  Infosys  4)  Oracle Corporation  
+ 
+31.  The process of loading the operating system and other programmes when the  
+computer is switched on is known as _____ ? 
+ 1) Loading  2) Booting  
+ 3) Opening  4) Shooting  
+ 
+ 
+32.  The ‘unit’ of stored data or programmes is known as _____ ? 
+ 1) Directory  2) Folder  
+ 3) Disk  4) File  
+ 
+33.  The ‘ minimize , maximize, close’ buttons are seen in _____ ? 
+ 1)  Task Bar  2)  Menu Bar  
+ 3)  Title Bar  4)  Tool Bar  
+ 
+34.  Keyboard shortcut keys used to select entire data in an open file are ___? 
+ 1)  Ctrl + A  2)  Ctrl + C  
+ 3)  Ctrl + X  4)  Ctrl + V  
+ 
+35.  Cut, copy, paste options are available in _____ menu?  
+ 1)  View  2)  File  
+ 3)  Edit  4)  Format  
+ 
+36.  The utility used to check hard disk for logical and physical errors is ___ _? 
+ 1)  Disk Defragmenter   2)  Disk clean  
+ 3)  Check disk  4)  Scan disk  
+ 
+37.  The word processor utility provided by Windows operating system is _____ ?   
+ 1)  Notepad  2)  WordPad   
+ 3)  MS Word  4)  Word lord   
+ 
+38.  Which of the following is not a computer language?  
+ 1)  BASIC  2)  COBOL  
+ 3)  FORTRAN  4)  MS-Word  
+ 
+
+
+================================================================================
+PAGE 48
+================================================================================
+ 
+ 
+Page | 235                            NAYI UMANG 2025 -26    INDEX  
+     39.  COBOL stands for ____ ? 
+ 1)  Common Business Oriented 
+Language  2)  Complete Business Oriented 
+Language  
+ 3)  Common Object and Business 
+Oriented Language  4)  Complete Office and Business 
+Operating Language  
+ 
+ 
+ 
+ 
+40.  The application software that helps to search, view and read websites on the 
+web/internet is known as _____ ? 
+ 1)  Explorer  2)  Navigator  
+ 3)  Browser  4)  URL  
+ 
+41.  Which of the following is a famous search engine?  
+ 1)  Google  2)  Yahoo  
+ 3)  Alta Vista  4)  All of these  
+ 
+42.  The smallest unit of data is _____ ? 
+ 1) Record  2) Data  
+ 3) Field  4) File   
+ 
+43.  The single organized collection of instructed data stored with a minimum of 
+duplication of data items is known as _____ ? 
+ 1)  File  2)  Database  
+ 3)  Structure  4)  Folder  
+ 
+44.  Which of the following is an RDBMS that is used in our Bank?  
+ 1)  Oracle  2)  Sybase  
+ 3)  Ingress  4)  SQL  
+ 
+45.  In MS -Word, most frequently used options are placed as icons in ____ tool bar ?  
+ 1)  Formatting  2)  Standard  
+ 3)  Title  4)  Menu  
+ 
+46.  The facility available in MS -Word to prepare and send a letter to multiple 
+recipients is _____ ? 
+
+
+================================================================================
+PAGE 49
+================================================================================
+ 
+ 
+Page | 236                            NAYI UMANG 2025 -26    INDEX  
+      1)  Insert  2)  Table  
+ 3)  Email   4)  Mail merge   
+ 
+47.  The option available in MS Word to automatically number the paragraphs or 
+place special characters before the paragraphs is ____ ? 
+ 1)  Boarders and shading  2)  Bullets and numbering  
+ 3)  Styles and formatting  4)  Auto formatting  
+ 
+ 
+48.  Keyboard  short cut to move to the end of document is __ _? 
+ 1)  Ctrl + End  2)  Ctrl + Home  
+ 3)  Ctrl + Alt + Home  4)  Ctrl + Alt + End  
+ 
+49.  A series of commands which can be grouped together as a single command is 
+known as _____ ? 
+ 1)  Template  2)  Wizard  
+ 3)  Micro  4)  Macro  
+ 
+50.  _____ is the connection between two documents or parts of same document 
+and is commonly used in internet sites ?   
+ 1)  Key link  2)  Hyperlink  
+ 3)  Connector  4)  WWW  
+ 
+51.  How many types of alignments are available in MS -Word?  
+ 1)  1  2)  2  
+ 3)  3  4)  4  
+ 
+52.  The intersection of row and column is known as _____ in spreadsheet ? 
+ 1)  Cell 2)  Field  
+ 3)  Dataset  4)  Source  
+ 
+53.  The file created in MS -Excel is generally known as ____ ? 
+ 1) Worksheet  2)  Workbook  
+ 3) Excel book  4)  Excel sheet  
+ 
+54.  To enter a formula in a cell, the sign to be used at the beginning of the formula 
+is ____ ? 
+
+
+================================================================================
+PAGE 50
+================================================================================
+ 
+ 
+Page | 237                            NAYI UMANG 2025 -26    INDEX  
+      1)  @  2)  !  
+ 3)  =  4)  %  
+ 
+55.  When you know the desired result of a single formula but not the input value 
+the formula needs to determine the result, you can use the _____ feature in MS -
+Excel ? 
+ 1)  Auto calculate  2)  Solver  
+ 3)  Goal seek  4)  Scenario  
+ 
+56.  An interactive table that quickly combines and compares large amounts of data 
+is known as ______ ? 
+ 1)  Pivot Table  2)  Combination table  
+ 3)  Interactive table  4)  Comparative table  
+ 
+57.  _____ is a quick and easy way to find and work with a subset of data (list) on the 
+work sheet without rearranging the data ? 
+ 1)  Managing  2)  Sorting  
+ 3)  Validating  4)  Filtering  
+ 
+58.  The file extension of an Excel file is ____ ? 
+ 1)  Xls  2)  Xml  
+ 3)  Xcl  4)  Xel  
+ 
+ 
+59.  C, C++, Java, Basic etc., are known as? 
+ 1)  High Level Languages  2)  Low level languages  
+ 3)  Machine languages  4)  Assembly languages  
+ 
+60.  Which of the following is an anti -virus software ? 
+ 1)  Symantec  2)  McAfee  
+ 3)  Norton  Anti-Virus   4)  All the above  
+ 
+61.  The following key standards / technologies are used for e -commerce ? 
+ 1)  Technical Data Interchange  2)  Electronic Data Interchange  
+ 3)  Hyper Text Markup Language  4)  Extensible Markup Language  
+ 
+62.  Which of the following is a standard code used for exchange of information 
+
+
+================================================================================
+PAGE 51
+================================================================================
+ 
+ 
+Page | 238                            NAYI UMANG 2025 -26    INDEX  
+     among dat processing and communication system?  
+ 1)  ANSI  2)  ASCII  
+ 3) RDBMS  4) DBMS  
+ 
+63.  The vast network of computers that connects millions of people across the globe 
+is known as __ _? 
+ 1)  LAN  2)  WAN  
+ 3)  WEB  4)  Internet  
+ 
+64.  Windows is an example of ___ _? 
+ 1)  GUI  2)  CUI  
+ 3)  Touch methodology  4)  None of these  
+ 
+65.  In windows, the following system utility is used to delete unnecessary/ 
+temporary files from the disk? 
+ 1)  Clean Up  2)  Disk Clean up  
+ 3)  Disk Defragmenter  4)  Format  
+ 
+66.  IBM is __ _? 
+ 1)  A Computer language  2)  A software company  
+ 3)  A Computer manufacturing 
+company  4)  A hardware assembling unit  
+ 
+67.  Today’s computers use ____ _? 
+ 1)  Core memory  2)  Semi -conductor memory  
+ 3)  Both 1 & 2  4)  Memory not at all used  
+ 
+68.  When a programme is written in machine language, it is called ____  
+ 1)  Source programme  2)  Object programme  
+ 3)  Machine programme  4)  Compiler  
+ 
+69.  Which of the e following devices is known as sillicosapiens?  
+ 1)  Computer  2)  Keyboard   
+ 3)  Monitor  4)  Mouse  
+ 
+70.  The next generation supercomputer  to be developed by CDAC in the Param 
+series is? 
+
+
+================================================================================
+PAGE 52
+================================================================================
+ 
+ 
+Page | 239                            NAYI UMANG 2025 -26    INDEX  
+      1)  Param Super  2)  Param 1000  
+ 3)  Param 10000  4)  Param 8800  
+ 
+71.  Pascal is a ____ _? 
+ 1)  Computer scientist  2)  Computer language  
+ 3)  Scale used to measure data  4)  A hardware component in CPU  
+ 
+72.  A browser is _____ ? 
+ 1)  Software program specially 
+developed for viewing web 
+pages in internet  2)  Help available in a software 
+programme  
+ 3)  A component used to protect 
+the computer from power - 
+surges  4)   A storage system used in some 
+operating  
+systems  
+ 
+73.  Bandwidth refers to ___ _? 
+ 1)  The amount of information that 
+can be stored in a peer -to-peer 
+network   1)  The cable used to connect 
+computers in a LAN  
+ 3)  The amount of information that 
+a communication medium can 
+transfer in a specified time  3)  The width of cables used to connect 
+various components in CPU  
+ 
+74.  ________ is a primary key of one file that also appears in another file ? 
+ 1)  Primary Key  2)  Secondary Key  
+ 3)  Physical key  4)  Foreign key  
+ 
+75.  _______ is the process of study to find out errors, if any, in an algorithm ? 
+ 1)  Testing  2)  Debugging  
+ 3)  Checking  4)  Processing  
+ 
+
+
+================================================================================
+PAGE 53
+================================================================================
+ 
+ 
+Page | 240                            NAYI UMANG 2025 -26    INDEX  
+     
+ANSWERS:  
+ 
+1.  2  11.  1  21.  2  31.  2  41.  4  51.  4  61.  2  71.  2  
+2.  4  12.  2  22.  1  32.  4  42.  3  52.  1  62.  2  72.  1  
+3.  4  13.  3  23.  1  33.  3  43.  2  53.  2  63.  4  73.  3  
+4.  1  14.  1  24.  3  34.  1  44.  1  54.  3  64.  1  74.  4  
+5.  2  15.  3  25.  2  35.  3  45.  2  55.  3  65.  2  75.  2  
+6.  3  16.  2  26.  3  36.  4  46.  4  56.  1  66.  3      
+7.  2  17.  1  27.  2  37.  2  47.  2  57.  4  67.  3      
+8.  1  18.  1  28.  4  38.  4  48.  1  58.  1  68.  1      
+9.  2  19.  3  29.  1  39.  1  49.  4  59.  1  69.  3      
+10.  4  20.  4  30.  1  40.  3  50.  2  60.  4  70.  3      
+                                
+ 
+ 
+ 
+ 
+  
